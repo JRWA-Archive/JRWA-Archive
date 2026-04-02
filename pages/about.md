@@ -18,10 +18,11 @@ padding: 6em
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-## About JRWA Archive
+## Research materials to understand ecosystem degradation and inform the restoration of the Jordan River Watershed, British Columbia, Canada.
 
-This Archive Compiles a collection of Historic and Contemporary Documents and Resources, Collected by the JRWA team. We hope it helps in your research endeavors
+Welcome! This archive brings together materials for researchers, writers, and anyone curious about the history of the Jordan River Watershed. It’s designed to help you better understand the many factors that continue to shape and constrain the watershed, and to support telling the story of its decline.
 
+We believe that as more people come to understand these complex issues, it can help build the public awareness and momentum needed to motivate those best positioned to support the recovery of this once abundant ecosystem, while also holding accountable the organizations most responsible for its decline.
 Archivist Note: This Collection is Actively being updated
 
 To engage with JRWA Projects and general infromation please visit our main website
