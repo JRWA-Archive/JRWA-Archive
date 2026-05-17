@@ -4954,64 +4954,6 @@
         }
       },{
         "media": {
-          "url": "http://localhost:4000/JRWA-Archive/objects/small/crown_land_grants_a_history_of_the_e_and_n_sm.jpg",
-          "alt": "CROWN LAND GRANTS: A HISTORY OF THE ESQUIMALT AND NANAIMO RAILWAY LAND GRANTS, THE RAILWAY BELT AND THE PEACE RIVER BLOCK",
-          "caption": "CROWN LAND GRANTS: A HISTORY OF THE ESQUIMALT AND NANAIMO RAILWAY LAND GRANTS, THE RAILWAY BELT AND THE PEACE RIVER BLOCK",
-          "link": "http://localhost:4000/JRWA-Archive/items/sunromine_claim_and_crown_grant_maps.html#jrwa_docs_mining_and_exploration_sunromine_claim_and_crown_grant maps_004"
-        },
-        "start_date": { 
-          
-          "year": "1975"
-        },
-        "text": {
-          "headline": "CROWN LAND GRANTS: A HISTORY OF THE ESQUIMALT AND NANAIMO RAILWAY LAND GRANTS, THE RAILWAY BELT AND THE PEACE RIVER BLOCK"
-        }
-      },{
-        "media": {
-          "url": "http://localhost:4000/JRWA-Archive/objects/small/geology_map_1921_fileid_15088_sm.jpg",
-          "alt": "Geological Map of the Jordan River Area",
-          "caption": "Geological Map of the Jordan River Area",
-          "link": "http://localhost:4000/JRWA-Archive/items/sunromine_claim_and_crown_grant_maps.html#jrwa_docs_mining_and_exploration_sunromine_claim_and_crown_grant maps_005"
-        },
-        "start_date": { 
-          
-          "month": "04",
-          "day": "01",
-          "year": "1921"
-        },
-        "text": {
-          "headline": "Geological Map of the Jordan River Area"
-        }
-      },{
-        "media": {
-          "url": "http://localhost:4000/JRWA-Archive/objects/small/mineral_claim_map_1920_fileid_15106_sm.jpg",
-          "alt": "Mineral Claims on Jordan River",
-          "caption": "Mineral Claims on Jordan River",
-          "link": "http://localhost:4000/JRWA-Archive/items/sunromine_claim_and_crown_grant_maps.html#jrwa_docs_mining_and_exploration_sunromine_claim_and_crown_grant maps_007"
-        },
-        "start_date": { 
-          
-          "year": "1920"
-        },
-        "text": {
-          "headline": "Mineral Claims on Jordan River"
-        }
-      },{
-        "media": {
-          "url": "http://localhost:4000/JRWA-Archive/objects/small/mineral_claim_map_1955_fileid_15109_sm.jpg",
-          "alt": "Index Map of Gabbro Mines Ltd. ",
-          "caption": "Index Map of Gabbro Mines Ltd. ",
-          "link": "http://localhost:4000/JRWA-Archive/items/sunromine_claim_and_crown_grant_maps.html#jrwa_docs_mining_and_exploration_sunromine_claim_and_crown_grant maps_008"
-        },
-        "start_date": { 
-          
-          "year": "1955"
-        },
-        "text": {
-          "headline": "Index Map of Gabbro Mines Ltd. "
-        }
-      },{
-        "media": {
           "url": "http://localhost:4000/JRWA-Archive/objects/small/ns_energy_2005_finding_the_right_balance__jr_wup_sm.jpg",
           "alt": "Finding the right balance",
           "caption": "Finding the right balance",

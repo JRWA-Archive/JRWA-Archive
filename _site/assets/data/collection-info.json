@@ -15,18 +15,18 @@
         "Image/PNG": "8",
         "Image/PDF": "6",
         "application/pdf": "296",
-        "image": "13",
+        "image": "12",
         null: "0",
-        "pdf": "579",
-        "image/png": "2",
+        "pdf": "570",
         "image/jpeg": "3",
+        "image/png": "1",
         "zip file": "13",
-        "png": "10",
+        "png": "9",
         "jpg": "5",
         "tiff": "3"
         
     },
     "data": "http://localhost:4000/JRWA-Archive/assets/data/datapackage.json",
-    "last_build_date": "2026-05-16"
+    "last_build_date": "2026-05-17"
 }
 

@@ -1331,54 +1331,6 @@ var store = [{
 "id": "jr-np-m-1970-80_047.html"
 
 },{  
-"title": "Sunro Mine: Claim and Crown Grant Maps","subject": "Mining; Land Grant; Mineral Claim; Sunro; Sunloch; Gabbro; Map; Mineral Claims Map", 
-"id": "sunromine_claim_and_crown_grant_maps.html"
-
-},{  
-"title": "Original Mineral Act","creator": "Deputy Provincial Secretary","subject": "Mining; Land Grant; Mineral Claim; Sunro; Sunloch", 
-"id": "sunromine_claim_and_crown_grant_maps.html#jrwa_docs_mining_and_exploration_sunromine_claim_and_crown_grant maps_001"
-
-},{  
-"title": "Spreadsheet sunro crown grants","subject": "Mining; Land Grant; Mineral Claim; Sunro; Sunloch; Gabbro", 
-"id": "sunromine_claim_and_crown_grant_maps.html#jrwa_docs_mining_and_exploration_sunromine_claim_and_crown_grant maps_002"
-
-},{  
-"title": "Crown Granted 2 Post Mineral Claim Notices","subject": "Mining; Land Grant; Mineral Claim", 
-"id": "sunromine_claim_and_crown_grant_maps.html#jrwa_docs_mining_and_exploration_sunromine_claim_and_crown_grant maps_003"
-
-},{  
-"title": "CROWN LAND GRANTS: A HISTORY OF THE ESQUIMALT AND NANAIMO RAILWAY LAND GRANTS, THE RAILWAY BELT AND THE PEACE RIVER BLOCK","date": "1975","creator": "W. A. Taylor.","subject": "Mining; Mining Law; Railroad Land Grants; British Columbia;", 
-"id": "sunromine_claim_and_crown_grant_maps.html#jrwa_docs_mining_and_exploration_sunromine_claim_and_crown_grant maps_004"
-
-},{  
-"title": "Geological Map of the Jordan River Area","date": "1921-04-01","creator": "E.E. Erich and Roland Blanchard","subject": "Mining; Mining Map; Old Map; Geology; Geology Map", 
-"id": "sunromine_claim_and_crown_grant_maps.html#jrwa_docs_mining_and_exploration_sunromine_claim_and_crown_grant maps_005"
-
-},{  
-"title": "JR Crown Grants","subject": "Mining; Land Grant; Mineral Claim", 
-"id": "sunromine_claim_and_crown_grant_maps.html#jrwa_docs_mining_and_exploration_sunromine_claim_and_crown_grant maps_006"
-
-},{  
-"title": "Mineral Claims on Jordan River","date": "1920","subject": "Mining; Land Grant; Mineral Claim; Sunro; Sunloch; Gabbro; Map; Mineral Claims Map", 
-"id": "sunromine_claim_and_crown_grant_maps.html#jrwa_docs_mining_and_exploration_sunromine_claim_and_crown_grant maps_007"
-
-},{  
-"title": "Index Map of Gabbro Mines Ltd.","date": "1955","creator": "M. M Menzies","subject": "Mining; Land Grant; Mineral Claim; Sunro; Sunloch; Gabbro; Map; Mineral Claims Map", 
-"id": "sunromine_claim_and_crown_grant_maps.html#jrwa_docs_mining_and_exploration_sunromine_claim_and_crown_grant maps_008"
-
-},{  
-"title": "Mineral Claims on Jordan River: Renfrew District B.C.","creator": "F.C. Green","subject": "Mining; Land Grant; Mineral Claim; Sunro; Sunloch; Gabbro; Map; Mineral Claims Map", 
-"id": "sunromine_claim_and_crown_grant_maps.html#jrwa_docs_mining_and_exploration_sunromine_claim_and_crown_grant maps_009"
-
-},{  
-"title": "Mineral Claims on Jordan River: Renfrew District B.C.","creator": "F.C. Green","subject": "Mining; Land Grant; Mineral Claim; Sunro; Sunloch; Gabbro; Map; Mineral Claims Map", 
-"id": "sunromine_claim_and_crown_grant_maps.html#jrwa_docs_mining_and_exploration_sunromine_claim_and_crown_grant maps_010"
-
-},{  
-"title": "All Files Claim and Crown Grant Maps","subject": "Mining; Land Grant; Mineral Claim; Sunro; Sunloch; Gabbro; Map; Mineral Claims Map", 
-"id": "sunromine_claim_and_crown_grant_maps.html#all_files_claim_and_crown_grant_maps.zip"
-
-},{  
 "title": "Water Use Program Review", 
 "id": "jrwa_docs_powergeneration_bc_hydro_water_use_program_review.html"
 
@@ -2511,7 +2463,7 @@ var store = [{
 "id": "mining_teck_contaminated_site_reports.html#mining_teck_contaminated_site_reports_014"
 
 },{  
-"subject": "Salmon; Restoration; Salmon Canning; Spawning; Sidechannel Construction; Hydroelectric; B.C. Hydro; Spawning; Habitat Restoration; Dam Decommissioning; Dam Management; Stream networks; Map; Watershed; Fish Inventory;", 
+"title": "Salmon and Habitat Restoration","subject": "Salmon; Restoration; Salmon Canning; Spawning; Sidechannel Construction; Hydroelectric; B.C. Hydro; Spawning; Habitat Restoration; Dam Decommissioning; Dam Management; Stream networks; Map; Watershed; Fish Inventory;", 
 "id": "salmon_and_habitat_restoration.html"
 
 },{  
@@ -2737,5 +2689,29 @@ var store = [{
 },{  
 "title": "Neil Nunn Clinic Project Application","date": "2020","creator": "Neil Nunn","subject": "Research; Project Application", 
 "id": "university_of_victoria_environmental_law_center.html#university_of_victoria_environmental_law_center_006"
+
+},{  
+"title": "JRWA Documents", 
+"id": "jrwa_documents.html#jrwa_documents"
+
+},{  
+"title": "University of Victoria Environmental Law Centre","subject": "Research; Juan de Fuca Salmon Restoration Society; Copper Contamination; Mine Remediation; Sunro Mine; Teck; Environmental Management; Guardian Program; Traditional Practices; First Nations Peoples; Indigenous Peoples; Mining Law;Stewardship; Project Application; Contamination Clean Up; Remediation;", 
+"id": "jrwa_documents.html#university_of_victoria_environmental_law_center"
+
+},{  
+"title": "Salmon and Habitat Restoration","subject": "Salmon; Restoration; Salmon Canning; Spawning; Sidechannel Construction; Hydroelectric; B.C. Hydro; Spawning; Habitat Restoration; Dam Decommissioning; Dam Management; Stream networks; Map; Watershed; Fish Inventory;", 
+"id": "jrwa_documents.html#salmon_and_habitat_restoration"
+
+},{  
+"title": "Sunro Mine: Claim and Crown Grant Maps","subject": "Mining; Land Grant; Mineral Claim; Sunro; Sunloch; Gabbro; Map; Mineral Claims Map", 
+"id": "jrwa_documents.html#sunromine_claim_and_crown_grant_maps"
+
+},{  
+"title": "Water Use Plan", 
+"id": "jrwa_documents.html#jrwa_docs_powergeneration_jordanriver_hydro_project_jordan_river_wup"
+
+},{  
+"title": "Mining Exploration and Geology","subject": "Terrestrial Ecological Risks; Human Health Risks; Regional Ecology; Geochemical; Seaweed", 
+"id": "jrwa_documents.html#mining_exploration_and_geology"
 
 }];
