@@ -8,6 +8,7 @@
         "url": "https://jrwa.ca/", 
         "logo": "/objects/01_jrwa_logo_white.png" 
     },
+<<<<<<< HEAD
     "date_start": "1894",
     "date_end": "2024",
     "objects": {
@@ -27,5 +28,27 @@
     },
     "data": "http://localhost:4000/JRWA-Archive/assets/data/datapackage.json",
     "last_build_date": "2026-05-07"
+=======
+    "date_start": "1884",
+    "date_end": "2024",
+    "objects": {
+        "image/JPG": "18",
+        "image/PNG": "8",
+        "image/PDF": "6",
+        "application/pdf": "296",
+        "image": "44",
+        null: "0",
+        "pdf": "564",
+        "image/jpeg": "3",
+        "image/png": "1",
+        "zip file": "13",
+        "png": "9",
+        "jpg": "5",
+        "tiff": "3"
+        
+    },
+    "data": "http://localhost:4000/JRWA-Archive/assets/data/datapackage.json",
+    "last_build_date": "2026-05-19"
+>>>>>>> a297f8c934c699a95e4906ff9ec9cf710c7ee7ac
 }
 
