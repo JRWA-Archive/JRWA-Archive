@@ -203,7 +203,7 @@ var store = [{
 "id": "jrhfn_020.html"
 
 },{  
-"title": "Little Rills and Waters Numberless","date": "1939-05-31","description": "Sunro Mine Entrance","subject": "Biology; Plants; Fossils, Settler", 
+"title": "Little Rills and Waters Numberless","date": "1939-05-31","description": "Sunro Mine Entrance","subject": "Biology; Plants; Fossils: Settler", 
 "id": "jrhs_001.html"
 
 },{  
@@ -291,15 +291,15 @@ var store = [{
 "id": "jrnphhp_003.html"
 
 },{  
-"title": "Hydro 24D draws Sooke protest","date": "1980-05-08","creator": "Brenda Dalglish","subject": "BC Hydro; Herbicides;2,4-D; Pesticides; Hydroelectric; Protest; Sooke; First Nations", 
+"title": "Hydro 24D draws Sooke protest","date": "1980-05-08","creator": "Brenda Dalglish","subject": "BC Hydro; Herbicides;2:4-D; Pesticides; Hydroelectric; Protest; Sooke; First Nations", 
 "id": "jrnphhp_004.html"
 
 },{  
-"title": "Hydro backs off on 2,4-D Plans","date": "1980-06-10","creator": "Brenda Dalglish","subject": "BC Hydro; Herbicides;2,4-D; Pesticides; Hydroelectric; Protest; Sooke; First Nations", 
+"title": "Hydro backs off on 2,4-D Plans","date": "1980-06-10","creator": "Brenda Dalglish","subject": "BC Hydro; Herbicides;2:4-D; Pesticides; Hydroelectric; Protest; Sooke; First Nations", 
 "id": "jrnphhp_005.html"
 
 },{  
-"title": "Herbicide porbe ordered by A-G","date": "1980-08-03","creator": "Times Colonist","subject": "BC Hydro; Herbicides; 2,4-D; Hydroelectric", 
+"title": "Herbicide porbe ordered by A-G","date": "1980-08-03","creator": "Times Colonist","subject": "BC Hydro; Herbicides; 2:4-D; Hydroelectric", 
 "id": "jrnphhp_006.html"
 
 },{  
@@ -563,11 +563,11 @@ var store = [{
 "id": "jr-np-m-recent_010.html"
 
 },{  
-"title": "OPSRRA’S OTTER POINT, SHIRLEY & JORDAN RIVER NEWSLETTER","date": "2015-05","creator": "OPSRRA","description": "Section 9 - Details about logging history","subject": "Dumping; Logging; Historical Review", 
+"title": "OSPRAS OTTER POINT, SHIRLEY & JORDAN RIVER NEWSLETTER","date": "2015-05","creator": "OPERA","description": "Section 9 - Details about logging history","subject": "Dumping; Logging; Historical Review", 
 "id": "jr-np-l_001.html"
 
 },{  
-"title": "B.C. Forest Trio buying up Radonier Canada Assets","date": "1980-08-15","creator": "Times Colonist","subject": "Logging; B.C Forest Products; Rayonier Canada; ITT Industries Canada", 
+"title": "B.C. Forest Trio buying up Rayonier Canada Assets","date": "1980-08-15","creator": "Times Colonist","subject": "Logging; B.C Forest Products; Rayonier Canada; ITT Industries Canada", 
 "id": "jr-np-l_002.html"
 
 },{  
@@ -835,7 +835,7 @@ var store = [{
 "id": "jrnph1970-90_002.html"
 
 },{  
-"title": "Never too Old","date": "1970-11-08","creator": "Milicent Lindo","subject": "Hydroelectric", 
+"title": "Never too Old","date": "1970-11-08","creator": "Lindo","subject": "Hydroelectric", 
 "id": "jrnph1970-90_005.html"
 
 },{  
@@ -851,7 +851,7 @@ var store = [{
 "id": "jrnph1970-90_008.html"
 
 },{  
-"title": "For $30M (and a few snags) The Island Gets Extra Power","date": "1970-11-28","creator": "Doug MacBae","subject": "Hydroelectric; Power House; B.C. Hydro", 
+"title": "For $30M (and a few snags) The Island Gets Extra Power","date": "1970-11-28","creator": "B.C. Forest Trio buying up Radonier Canada Assets","subject": "Hydroelectric; Power House; B.C. Hydro", 
 "id": "jrnph1970-90_009.html"
 
 },{  
@@ -943,7 +943,7 @@ var store = [{
 "id": "jrnph1940-69_016.html"
 
 },{  
-"title": "Lack of Rain Threatens Power Shortage Here","date": "1943-10-08","creator": "Victoria Daily Times","subject": "Hydroelectric; Dam, WW2", 
+"title": "Lack of Rain Threatens Power Shortage Here","date": "1943-10-08","creator": "Victoria Daily Times","subject": "Hydroelectric; Dam: WW2", 
 "id": "jrnph1940-69_017.html"
 
 },{  
@@ -1159,7 +1159,7 @@ var store = [{
 "id": "jr-np-m-1960-69_036.html"
 
 },{  
-"title": "Mining News: Cowichan","creator": "The Province","subject": "Minig; Mill; Orebodies", 
+"title": "Mining News: Cowichan","creator": "The Province","subject": "mining; Mill; Orebodies", 
 "id": "jr-np-m-1960-69_037.html"
 
 },{  
@@ -1411,19 +1411,19 @@ var store = [{
 "id": "jrwa_docs_powergeneration_jordan_river_hydro_other_reports_gravell.html#jrwa_docs_powergeneration_jordan_river_hydro_other_reports_gravel_004"
 
 },{  
-"title": "Hydroelectric: Hydropesticide","subject": "Hydroelectric; Herbicide; Hydro Pesticide; 2,4-D; Red Alder; Labor; Workers; Criminal Case; Protest ; Tordon 10K", 
+"title": "Hydroelectric: Hydro Pesticide","subject": "Hydroelectric; Herbicide; Hydro Pesticide; 2:4-D; Red Alder; Labor; Workers; Criminal Case; Protest ; Tordon 10K", 
 "id": "jrwa_docs_powergeneration_jordan_river_hydro_other_reports_hydropesticides.html"
 
 },{  
-"title": "Hydro Backs off on 2,4-D Plans","date": "1980-07-10","creator": "Brenda Dalglish","subject": "Hydroelectric; 2,4-D; Sooke; Protest; Hydro Pesticide;", 
+"title": "Hydro Backs off on 2,4-D Plans","date": "1980-07-10","creator": "Brenda Dalglish","subject": "Hydroelectric; 2:4-D; Sooke; Protest; Hydro Pesticide;", 
 "id": "jrwa_docs_powergeneration_jordan_river_hydro_other_reports_hydropesticides.html#jrwa_docs_powergeneration_jordan_river_hydro_other_reports_hydropesticides_001"
 
 },{  
-"title": "Herbicide Probe Ordered by A-G","date": "1980-08-03","subject": "Hydroelectric; Herbicide; Hydro Pesticide; 2,4-D; Red Alder", 
+"title": "Herbicide Probe Ordered by A-G","date": "1980-08-03","subject": "Hydroelectric; Herbicide; Hydro Pesticide; 2:4-D; Red Alder", 
 "id": "jrwa_docs_powergeneration_jordan_river_hydro_other_reports_hydropesticides.html#jrwa_docs_powergeneration_jordan_river_hydro_other_reports_hydropesticides_002"
 
 },{  
-"title": "Hydro, Workers Charged","date": "1980-10-17","subject": "Hydroelectric; Herbicide; Hydro Pesticide; 2,4-D; Red Alder; Labor; Workers; Criminal Case", 
+"title": "Hydro, Workers Charged","date": "1980-10-17","subject": "Hydroelectric; Herbicide; Hydro Pesticide; 2:4-D; Red Alder; Labor; Workers; Criminal Case", 
 "id": "jrwa_docs_powergeneration_jordan_river_hydro_other_reports_hydropesticides.html#jrwa_docs_powergeneration_jordan_river_hydro_other_reports_hydropesticides_003"
 
 },{  
@@ -1435,7 +1435,7 @@ var store = [{
 "id": "jrwa_docs_powergeneration_jordan_river_hydro_other_reports_hydropesticides.html#jrwa_docs_powergeneration_jordan_river_hydro_other_reports_hydropesticides_005"
 
 },{  
-"title": "2,4-D draws Sooke Protest","date": "1980-05-08","creator": "Brenda Dalglish","subject": "Hydroelectric; 2,4-D; Sooke; Protest; Hydro Pesticide;", 
+"title": "2,4-D draws Sooke Protest","date": "1980-05-08","creator": "Brenda Dalglish","subject": "Hydroelectric; 2:4-D; Sooke; Protest; Hydro Pesticide;", 
 "id": "jrwa_docs_powergeneration_jordan_river_hydro_other_reports_hydropesticides.html#jrwa_docs_powergeneration_jordan_river_hydro_other_reports_hydropesticides_006"
 
 },{  
@@ -1571,7 +1571,7 @@ var store = [{
 "id": "jrwa_docs_powergeneration_jordanriver_hydro_project_jordan_river_salmon.html#jrwa_docs_powergeneration_jordanriver_hydro_project_jordan_river_wup_research_005"
 
 },{  
-"title": "Feasibility for Sidechannel Development On the East Side of Reach 1 of the Jordan River","date": "2014-04-09","creator": "D.W. Burt","subject": "Hydroelectric; BC Hydro; Sidechannel; Water Use Plan; Salmon", 
+"title": "Feasibility for Side Channel Development On the East Side of Reach 1 of the Jordan River","date": "2014-04-09","creator": "D.W. Burt","subject": "Hydroelectric; BC Hydro; Side Channel; Water Use Plan; Salmon", 
 "id": "jrwa_docs_powergeneration_jordanriver_hydro_project_jordan_river_salmon.html#jrwa_docs_powergeneration_jordanriver_hydro_project_jordan_river_wup_research_006"
 
 },{  
@@ -1623,15 +1623,15 @@ var store = [{
 "id": "jrwa_docs_powergeneration_jordanriver_hydro_project_jordan_river_fwcp.html"
 
 },{  
-"title": "Jordan Watershed: Watershed Plan","date": "2011-10","subject": "Hydroelectric; Watershed; Ecology; Conservation; Fauna, Salmon ; Habitat; Water Birds; Bats; Plants", 
+"title": "Jordan Watershed: Watershed Plan","date": "2011-10","subject": "Hydroelectric; Watershed; Ecology; Conservation; Fauna: Salmon ; Habitat; Water Birds; Bats; Plants", 
 "id": "jrwa_docs_powergeneration_jordanriver_hydro_project_jordan_river_fwcp.html#jrwa_docs_powergeneration_jordanriver_hydro_project_jordan_river_fwcp_001"
 
 },{  
-"title": "Jordan River Watershed Action Plan","date": "2017-09-28","subject": "Hydroelectric; Watershed; Ecology; Conservation; Fauna, Salmon ; Habitat; Water Birds; Bats; Plants; Reservoir; River; Lakes; Riparian Areas", 
+"title": "Jordan River Watershed Action Plan","date": "2017-09-28","subject": "Hydroelectric; Watershed; Ecology; Conservation; Fauna: Salmon ; Habitat; Water Birds; Bats; Plants; Reservoir; River; Lakes; Riparian Areas", 
 "id": "jrwa_docs_powergeneration_jordanriver_hydro_project_jordan_river_fwcp.html#jrwa_docs_powergeneration_jordanriver_hydro_project_jordan_river_fwcp_002"
 
 },{  
-"title": "Jordan River Watershed Action Plan: Administrative Update","date": "2020-07-21","subject": "Hydroelectric; Watershed; Ecology; Conservation; Fauna, Salmon ; Habitat; Water Birds; Bats; Plants; Reservoir; River; Lakes; Riparian Areas", 
+"title": "Jordan River Watershed Action Plan: Administrative Update","date": "2020-07-21","subject": "Hydroelectric; Watershed; Ecology; Conservation; Fauna: Salmon ; Habitat; Water Birds; Bats; Plants; Reservoir; River; Lakes; Riparian Areas", 
 "id": "jrwa_docs_powergeneration_jordanriver_hydro_project_jordan_river_fwcp.html#jrwa_docs_powergeneration_jordanriver_hydro_project_jordan_river_fwcp_003"
 
 },{  
@@ -1795,7 +1795,7 @@ var store = [{
 "id": "sunromine_maps.html#sunromine_maps_004"
 
 },{  
-"title": "Sunro Map: Drilled Ore Zones","date": "1969-04-15","creator": "Bacon and Cowhurst LTD.","subject": "Mining; Sunro Maps; Cowichan;", 
+"title": "Sunro Map: Drilled Ore Zones","date": "1969-04-15","creator": "Bacon and Crowhurst LTD.","subject": "Mining; Sunro Maps; Cowichan;", 
 "id": "sunromine_maps.html#sunromine_maps_005"
 
 },{  
@@ -1807,7 +1807,7 @@ var store = [{
 "id": "sunromine_maps.html#sunromine_maps_008"
 
 },{  
-"title": "Sunro Map: Bulk Heads Plan and Sections","creator": "Cowichan Copper Co. LTD.","subject": "Mining; Sunro Maps; Cowichan;", 
+"title": "Sunro Map: Bulkheads Plan and Sections","creator": "Cowichan Copper Co. LTD.","subject": "Mining; Sunro Maps; Cowichan;", 
 "id": "sunromine_maps.html#sunromine_maps_009"
 
 },{  
@@ -2027,7 +2027,7 @@ var store = [{
 "id": "sunromine_ownership_and_finances.html#sunromine_ownership_and_finances_008"
 
 },{  
-"title": "Sunro Mine Miscalaneous","subject": "Mining; Cowichan; Facebook Comment; Ozzie Macdonald; Stock Manipulation", 
+"title": "Sunro Mine Miscellaneous","subject": "Mining; Cowichan; Facebook Comment; Ozzie Macdonald; Stock Manipulation", 
 "id": "sunromine_misc.html"
 
 },{  
@@ -2043,7 +2043,7 @@ var store = [{
 "id": "sunromine_misc.html#sunromine_misc_003"
 
 },{  
-"title": "Sunro Mine: Reports 1920","date": "1920","subject": "Mining; Mining Reports; Aquisition; Smelting; Geological Survey; Gabbro; Aquisition; Smelting", 
+"title": "Sunro Mine: Reports 1920","date": "1920","subject": "E. E. Erich & Roland Blonchard", 
 "id": "sunromine_reports_1920.html"
 
 },{  
@@ -2067,7 +2067,7 @@ var store = [{
 "id": "sunromine_reports_1924.html#sunromine_reports_1920_005"
 
 },{  
-"title": "Mining Magazine: Consolidated Mining and Smelting Company of Canada","date": "1929","creator": "F. H. Mason","subject": "Mining; Mining Reports; Aquisition; Smelting", 
+"title": "Mining Magazine: Consolidated Mining and Smelting Company of Canada","date": "1929","creator": "F. H. Mason","subject": "Mining; Mining Reports; Acquisition; Smelting", 
 "id": "sunromine_reports_1925.html#sunromine_reports_1920_006"
 
 },{  
@@ -2127,7 +2127,7 @@ var store = [{
 "id": "sunromine_reports_1952.html#sunromine_reports_1950_003"
 
 },{  
-"title": "A Mineralographic Study of Sunloch Copper Ore","date": "1951","creator": "R.B Toombs","subject": "Mining; Mining Reports; Study", 
+"title": "A Mineralography Study of Sunloch Copper Ore","date": "1951","creator": "R.B Toombs","subject": "Mining; Mining Reports; Study", 
 "id": "sunromine_reports_1953.html#sunromine_reports_1950_004"
 
 },{  
@@ -2143,7 +2143,7 @@ var store = [{
 "id": "sunromine_reports_1961.html#sunromine_reports_1960_002"
 
 },{  
-"title": "Sunro Map: Drilled Ore Zones","date": "1969-04-15","creator": "Bacon and Cowhurst LTD.","subject": "Mining; Mining Reports; Map", 
+"title": "Sunro Map: Drilled Ore Zones","date": "1969-04-15","creator": "Bacon and Crowhurst LTD.","subject": "Mining; Mining Reports; Map", 
 "id": "sunromine_reports_1962.html#sunromine_reports_1960_003"
 
 },{  
@@ -2175,7 +2175,7 @@ var store = [{
 "id": "sunromine_reports_1970.html#sunromine_reports_1960_011"
 
 },{  
-"title": "Sunro Mine: Reports 1970","date": "1970","subject": "Mining; Mining Reports; Openings; Mine Closure; Geology; Milling; Pollution Management; Discharge; Land Aquisition; Rehabilitation; Mine Closure; Diagrams; Sections; Axons", 
+"title": "Sunro Mine: Reports 1970","date": "1970","subject": "Mining; Mining Reports; Openings; Mine Closure; Geology; Milling; Pollution Management; Discharge; Land Acquisition; Rehabilitation; Mine Closure; Diagrams; Sections; Axons", 
 "id": "sunromine_reports_1970.html"
 
 },{  
@@ -2203,11 +2203,11 @@ var store = [{
 "id": "sunromine_reports_1976.html#sunromine_reports_1970_007"
 
 },{  
-"title": "Chatham Resources Acquires Property","date": "1974-07-24","subject": "Mining; Mining Reports; Land Aquisition", 
+"title": "Chatham Resources Acquires Property","date": "1974-07-24","subject": "Mining; Mining Reports; Land Acquisition", 
 "id": "sunromine_reports_1977.html#sunromine_reports_1970_008"
 
 },{  
-"title": "REPORT ON THE CLOSING OF THE JORDON RIVER MINE","date": "1977-06","creator": "A.J. RICHARDSON","subject": "Mining; Mining Reports; Rehabilitation; Mine Closure; Diagrams; Sections; Axons", 
+"title": "REPORT ON THE CLOSING OF THE JORDAN RIVER MINE","date": "1977-06","creator": "A.J. RICHARDSON","subject": "Mining; Mining Reports; Rehabilitation; Mine Closure; Diagrams; Sections; Axons", 
 "id": "sunromine_reports_1978.html#sunromine_reports_1970_009"
 
 },{  
@@ -2223,7 +2223,7 @@ var store = [{
 "id": "sunromine_reports_bcgs.html#sunromine_reports_bcgs_001"
 
 },{  
-"title": "British Columbia Geosience Organization Chart","date": "2004-04-12","creator": "Adris Kikauka","subject": "Mining; Mining Reports; Ministry of Energy and Mining", 
+"title": "British Columbia Geoscience Organization Chart","date": "2004-04-12","creator": "Andris Kikauka","subject": "Mining; Mining Reports; Ministry of Energy and Mining", 
 "id": "sunromine_reports_bcgs.html#sunromine_reports_bcgs_003"
 
 },{  
@@ -2239,7 +2239,7 @@ var store = [{
 "id": "sunromine_reports_bcgs.html#sunromine_reports_bcgs_006"
 
 },{  
-"title": "Sunro Mine Report Mineral Summary","date": "2004-04-12","creator": "Adris Kikauka","subject": "Mining; Mining Reports;", 
+"title": "Sunro Mine Report Mineral Summary","date": "2004-04-12","creator": "Andris Kikauka","subject": "Mining; Mining Reports;", 
 "id": "sunromine_reports_bcgs.html#sunromine_reports_bcgs_007"
 
 },{  
@@ -2295,7 +2295,7 @@ var store = [{
 "id": "sunromine_reports_recent.html#sunromine_reports_recent_003"
 
 },{  
-"title": "Geological and Geochemical Record on the Sunloch Claim","date": "2004-04-12","creator": "Adris Kikauka","subject": "Mining; Mining Reports; Continued Mining Recommendation", 
+"title": "Geological and Geochemical Record on the Sunloch Claim","date": "2004-04-12","creator": "Andris Kikauka","subject": "Mining; Mining Reports; Continued Mining Recommendation", 
 "id": "sunromine_reports_recent.html#sunromine_reports_recent_004"
 
 },{  
@@ -2463,7 +2463,7 @@ var store = [{
 "id": "mining_teck_contaminated_site_reports.html#mining_teck_contaminated_site_reports_014"
 
 },{  
-"title": "Salmon and Habitat Restoration","subject": "Salmon; Restoration; Salmon Canning; Spawning; Sidechannel Construction; Hydroelectric; B.C. Hydro; Spawning; Habitat Restoration; Dam Decommissioning; Dam Management; Stream networks; Map; Watershed; Fish Inventory;", 
+"title": "Salmon and Habitat Restoration","subject": "Salmon; Restoration; Salmon Canning; Spawning; Side Channel Construction; Hydroelectric; B.C. Hydro; Spawning; Habitat Restoration; Dam Decommissioning; Dam Management; Stream networks; Map; Watershed; Fish Inventory;", 
 "id": "salmon_and_habitat_restoration.html"
 
 },{  
@@ -2507,7 +2507,7 @@ var store = [{
 "id": "salmon_and_habitat_restoration.html#salmon_and_habitat_restoration_011"
 
 },{  
-"title": "FEASIBILITY FOR SIDECHANNEL DEVELOPMENT ON THE EAST SIDE OF REACH 1 OF THE JORDAN RIVER","date": "2014-04-09","creator": "D.W. Burt","subject": "Salmon; Restoration; Spawning; Sidechannel Construction; Hydroelectric; B.C. Hydro", 
+"title": "FEASIBILITY FOR Side Channel DEVELOPMENT ON THE EAST SIDE OF REACH 1 OF THE JORDAN RIVER","date": "2014-04-09","creator": "D.W. Burt","subject": "Salmon; Restoration; Spawning; Side Channel Construction; Hydroelectric; B.C. Hydro", 
 "id": "salmon_and_habitat_restoration.html#salmon_and_habitat_restoration_012"
 
 },{  
@@ -2527,7 +2527,7 @@ var store = [{
 "id": "salmon_and_habitat_restoration.html#salmon_and_habitat_restoration_016"
 
 },{  
-"title": "B.C. forest watchdog says province should improve watershed management","date": "2024-09-17","subject": "Salmon; Restoration Spawning; Sidechannel Construction; Hydroelectric; B.C. Hydro", 
+"title": "B.C. forest watchdog says province should improve watershed management","date": "2024-09-17","subject": "Salmon; Restoration Spawning; Side Channel Construction; Hydroelectric; B.C. Hydro", 
 "id": "salmon_and_habitat_restoration.html#salmon_and_habitat_restoration_017"
 
 },{  
@@ -2579,7 +2579,7 @@ var store = [{
 "id": "salmon_and_habitat_restoration.html#salmon_and_habitat_restoration_031"
 
 },{  
-"title": "Preliminary Catalogue of Salmon Streams and Spawning Escapements of StatisticaI Areas 19 & 20","date": "1977","creator": "D.E. Marshall et al.","subject": "Salmon; Restoration; Map; Conservation; Spawning; Sediment Composition; Stock Assessment", 
+"title": "DEPARTMENT OF MINES AND TECHNICAL","date": "1977","creator": "D.E. Marshall et al.","subject": "Salmon; Restoration; Map; Conservation; Spawning; Sediment Composition; Stock Assessment", 
 "id": "salmon_and_habitat_restoration.html#salmon_and_habitat_restoration_032"
 
 },{  
@@ -2667,30 +2667,6 @@ var store = [{
 "id": "university_of_victoria_environmental_law_center.html"
 
 },{  
-"title": "Jordan River mine contamination slated for cleanup","date": "2016-10-20","subject": "Research; Contamination Clean Up; Remediation;", 
-"id": "university_of_victoria_environmental_law_center.html#university_of_victoria_environmental_law_center_001"
-
-},{  
-"title": "Remediation of the Former Sunro Mine at Jordan River","date": "2012-10-26","subject": "Research; Juan de Fuca Salmon Restoration Society; Copper Contamination; Mine Remediation; Sunro Mine; Teck; Environmental Management;", 
-"id": "university_of_victoria_environmental_law_center.html#university_of_victoria_environmental_law_center_002"
-
-},{  
-"title": "The Case for a Guardian Network Initiative","date": "2020-07","creator": "Environmental Law Centre and UVic Environmental Law Centre","subject": "Research; Guardian Program; Traditional Practices; First Nations Peoples; Indigenous Peoples; Stewardship", 
-"id": "university_of_victoria_environmental_law_center.html#university_of_victoria_environmental_law_center_003"
-
-},{  
-"title": "Request for Establishment of a Judicial Commission of Public Inquiry to Rectify and Improve BC Mining Regulation","date": "2017-03","creator": "Calvin Sandborn and Kirsty Broadhead","subject": "Research; Juridical Inquiry; Mining Law; Environmental Damage; Closed Mines;", 
-"id": "university_of_victoria_environmental_law_center.html#university_of_victoria_environmental_law_center_004"
-
-},{  
-"title": "Digging Up a Legislative History Mining Law in British Columbia","date": "2018","subject": "Research; Mining Law;", 
-"id": "university_of_victoria_environmental_law_center.html#university_of_victoria_environmental_law_center_005"
-
-},{  
-"title": "Neil Nunn Clinic Project Application","date": "2020","creator": "Neil Nunn","subject": "Research; Project Application", 
-"id": "university_of_victoria_environmental_law_center.html#university_of_victoria_environmental_law_center_006"
-
-},{  
 "title": "JRWA Documents", 
 "id": "jrwa_documents.html#jrwa_documents"
 
@@ -2699,7 +2675,7 @@ var store = [{
 "id": "jrwa_documents.html#university_of_victoria_environmental_law_center"
 
 },{  
-"title": "Salmon and Habitat Restoration","subject": "Salmon; Restoration; Salmon Canning; Spawning; Sidechannel Construction; Hydroelectric; B.C. Hydro; Spawning; Habitat Restoration; Dam Decommissioning; Dam Management; Stream networks; Map; Watershed; Fish Inventory;", 
+"title": "Salmon and Habitat Restoration","subject": "Salmon; Restoration; Salmon Canning; Spawning; Side Channel Construction; Hydroelectric; B.C. Hydro; Spawning; Habitat Restoration; Dam Decommissioning; Dam Management; Stream networks; Map; Watershed; Fish Inventory;", 
 "id": "jrwa_documents.html#salmon_and_habitat_restoration"
 
 },{  

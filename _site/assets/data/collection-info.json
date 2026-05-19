@@ -11,13 +11,13 @@
     "date_start": "1884",
     "date_end": "2024",
     "objects": {
-        "Image/JPG": "18",
-        "Image/PNG": "8",
-        "Image/PDF": "6",
+        "image/JPG": "18",
+        "image/PNG": "8",
+        "image/PDF": "6",
         "application/pdf": "296",
-        "image": "12",
+        "image": "44",
         null: "0",
-        "pdf": "570",
+        "pdf": "564",
         "image/jpeg": "3",
         "image/png": "1",
         "zip file": "13",
@@ -27,6 +27,6 @@
         
     },
     "data": "http://localhost:4000/JRWA-Archive/assets/data/datapackage.json",
-    "last_build_date": "2026-05-17"
+    "last_build_date": "2026-05-19"
 }
 

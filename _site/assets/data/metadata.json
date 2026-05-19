@@ -10,7 +10,7 @@
         
         
         "type": "photo",
-        "format": "Image/JPG",
+        "format": "image/JPG",
         
         
         
@@ -30,7 +30,7 @@
         
         
         "type": "photo",
-        "format": "Image/JPG",
+        "format": "image/JPG",
         
         
         
@@ -50,7 +50,7 @@
         
         
         "type": "photo",
-        "format": "Image/PNG",
+        "format": "image/PNG",
         
         
         
@@ -70,7 +70,7 @@
         
         
         "type": "photo",
-        "format": "Image/PDF",
+        "format": "image/PDF",
         
         
         
@@ -90,7 +90,7 @@
         
         
         "type": "photo",
-        "format": "Image/PDF",
+        "format": "image/PDF",
         
         
         
@@ -110,7 +110,7 @@
         
         
         "type": "photo",
-        "format": "Image/PDF",
+        "format": "image/PDF",
         
         
         
@@ -130,7 +130,7 @@
         
         
         "type": "photo",
-        "format": "Image/PDF",
+        "format": "image/PDF",
         
         
         
@@ -150,7 +150,7 @@
         
         
         "type": "photo",
-        "format": "Image/PDF",
+        "format": "image/PDF",
         
         
         
@@ -170,7 +170,7 @@
         
         
         "type": "photo",
-        "format": "Image/PDF",
+        "format": "image/PDF",
         
         
         
@@ -190,7 +190,7 @@
         
         
         "type": "photo",
-        "format": "Image/PNG",
+        "format": "image/PNG",
         
         
         
@@ -210,7 +210,7 @@
         
         
         "type": "photo",
-        "format": "Image/PNG",
+        "format": "image/PNG",
         
         
         
@@ -230,7 +230,7 @@
         
         
         "type": "photo",
-        "format": "Image/JPG",
+        "format": "image/JPG",
         
         
         
@@ -250,7 +250,7 @@
         
         
         "type": "photo",
-        "format": "Image/JPG",
+        "format": "image/JPG",
         
         
         
@@ -270,7 +270,7 @@
         
         
         "type": "photo",
-        "format": "Image/JPG",
+        "format": "image/JPG",
         
         
         
@@ -290,7 +290,7 @@
         
         
         "type": "photo",
-        "format": "Image/JPG",
+        "format": "image/JPG",
         
         
         
@@ -310,7 +310,7 @@
         
         
         "type": "photo",
-        "format": "Image/PNG",
+        "format": "image/PNG",
         
         
         
@@ -330,7 +330,7 @@
         
         
         "type": "photo",
-        "format": "Image/PNG",
+        "format": "image/PNG",
         
         
         
@@ -350,7 +350,7 @@
         
         
         "type": "photo",
-        "format": "Image/PNG",
+        "format": "image/PNG",
         
         
         
@@ -370,7 +370,7 @@
         
         
         "type": "photo",
-        "format": "Image/PNG",
+        "format": "image/PNG",
         
         
         
@@ -390,7 +390,7 @@
         
         
         "type": "photo",
-        "format": "Image/PNG",
+        "format": "image/PNG",
         
         
         
@@ -410,7 +410,7 @@
         
         
         "type": "photo",
-        "format": "Image/JPG",
+        "format": "image/JPG",
         
         
         
@@ -430,7 +430,7 @@
         
         
         "type": "photo",
-        "format": "Image/JPG",
+        "format": "image/JPG",
         
         
         
@@ -450,7 +450,7 @@
         
         
         "type": "photo",
-        "format": "Image/JPG",
+        "format": "image/JPG",
         
         
         
@@ -470,7 +470,7 @@
         
         
         "type": "photo",
-        "format": "Image/JPG",
+        "format": "image/JPG",
         
         
         
@@ -490,7 +490,7 @@
         
         
         "type": "photo",
-        "format": "Image/JPG",
+        "format": "image/JPG",
         
         
         
@@ -510,7 +510,7 @@
         
         
         "type": "photo",
-        "format": "Image/JPG",
+        "format": "image/JPG",
         
         
         
@@ -530,7 +530,7 @@
         
         
         "type": "photo",
-        "format": "Image/JPG",
+        "format": "image/JPG",
         
         
         
@@ -550,7 +550,7 @@
         
         
         "type": "photo",
-        "format": "Image/JPG",
+        "format": "image/JPG",
         
         
         
@@ -570,7 +570,7 @@
         
         
         "type": "photo",
-        "format": "Image/JPG",
+        "format": "image/JPG",
         
         
         
@@ -590,7 +590,7 @@
         
         
         "type": "photo",
-        "format": "Image/JPG",
+        "format": "image/JPG",
         
         
         
@@ -610,7 +610,7 @@
         
         
         "type": "photo",
-        "format": "Image/JPG",
+        "format": "image/JPG",
         
         
         
@@ -630,7 +630,7 @@
         
         
         "type": "photo",
-        "format": "Image/JPG",
+        "format": "image/JPG",
         
         
         
@@ -1023,7 +1023,7 @@
         
         "date": "1939-05-31",
         "description": "Sunro Mine Entrance",
-        "subject": "Biology; Plants; Fossils, Settler",
+        "subject": "Biology; Plants; Fossils: Settler",
         
         
         
@@ -1463,7 +1463,7 @@
         "creator": "Brenda Dalglish",
         "date": "1980-05-08",
         
-        "subject": "BC Hydro; Herbicides;2,4-D; Pesticides; Hydroelectric; Protest; Sooke; First Nations",
+        "subject": "BC Hydro; Herbicides;2:4-D; Pesticides; Hydroelectric; Protest; Sooke; First Nations",
         
         
         
@@ -1483,7 +1483,7 @@
         "creator": "Brenda Dalglish",
         "date": "1980-06-10",
         
-        "subject": "BC Hydro; Herbicides;2,4-D; Pesticides; Hydroelectric; Protest; Sooke; First Nations",
+        "subject": "BC Hydro; Herbicides;2:4-D; Pesticides; Hydroelectric; Protest; Sooke; First Nations",
         
         
         
@@ -1503,7 +1503,7 @@
         "creator": "Times Colonist",
         "date": "1980-08-03",
         
-        "subject": "BC Hydro; Herbicides; 2,4-D; Hydroelectric",
+        "subject": "BC Hydro; Herbicides; 2:4-D; Hydroelectric",
         
         
         
@@ -2819,8 +2819,8 @@
         "reference_url": "/JRWA-Archive/items/jr-np-m-recent_010.html"
     },
     { 
-        "title": "OPSRRA’S OTTER POINT, SHIRLEY & JORDAN RIVER\nNEWSLETTER",
-        "creator": "OPSRRA",
+        "title": "OSPRAS OTTER POINT, SHIRLEY & JORDAN RIVER\nNEWSLETTER",
+        "creator": "OPERA",
         "date": "2015-05",
         "description": "Section 9 - Details about logging history",
         "subject": "Dumping; Logging; Historical Review",
@@ -2839,7 +2839,7 @@
         "reference_url": "/JRWA-Archive/items/jr-np-l_001.html"
     },
     { 
-        "title": "B.C. Forest Trio buying up Radonier Canada Assets",
+        "title": "B.C. Forest Trio buying up Rayonier Canada Assets",
         "creator": "Times Colonist",
         "date": "1980-08-15",
         
@@ -4180,7 +4180,7 @@
     },
     { 
         "title": "Never too Old",
-        "creator": "Milicent Lindo",
+        "creator": "  Lindo",
         "date": "1970-11-08",
         
         "subject": "Hydroelectric",
@@ -4260,7 +4260,7 @@
     },
     { 
         "title": "For $30M (and a few snags) The Island Gets Extra Power",
-        "creator": "Doug MacBae",
+        "creator": "B.C. Forest Trio buying up Radonier Canada Assets",
         "date": "1970-11-28",
         
         "subject": "Hydroelectric; Power House; B.C. Hydro",
@@ -4723,7 +4723,7 @@
         "creator": "Victoria Daily Times",
         "date": "1943-10-08",
         
-        "subject": "Hydroelectric; Dam, WW2",
+        "subject": "Hydroelectric; Dam: WW2",
         
         
         
@@ -5803,7 +5803,7 @@
         "creator": "The Province ",
         
         
-        "subject": "Minig; Mill; Orebodies",
+        "subject": "mining; Mill; Orebodies",
         
         
         
@@ -7059,11 +7059,11 @@
         "reference_url": "/JRWA-Archive/items/jrwa_docs_powergeneration_jordan_river_hydro_other_reports_gravell.html#jrwa_docs_powergeneration_jordan_river_hydro_other_reports_gravel_004"
     },
     { 
-        "title": "Hydroelectric: Hydropesticide",
+        "title": "Hydroelectric: Hydro Pesticide",
         
         
         
-        "subject": "Hydroelectric; Herbicide; Hydro Pesticide; 2,4-D; Red Alder; Labor; Workers; Criminal Case; Protest ; Tordon 10K",
+        "subject": "Hydroelectric; Herbicide; Hydro Pesticide; 2:4-D; Red Alder; Labor; Workers; Criminal Case; Protest ; Tordon 10K",
         
         
         
@@ -7083,7 +7083,7 @@
         "creator": "Brenda Dalglish",
         "date": "1980-07-10",
         
-        "subject": "Hydroelectric; 2,4-D; Sooke; Protest; Hydro Pesticide;",
+        "subject": "Hydroelectric; 2:4-D; Sooke; Protest; Hydro Pesticide;",
         
         
         
@@ -7103,7 +7103,7 @@
         
         "date": "1980-08-03",
         
-        "subject": "Hydroelectric; Herbicide; Hydro Pesticide; 2,4-D; Red Alder",
+        "subject": "Hydroelectric; Herbicide; Hydro Pesticide; 2:4-D; Red Alder",
         
         
         
@@ -7123,7 +7123,7 @@
         
         "date": "1980-10-17",
         
-        "subject": "Hydroelectric; Herbicide; Hydro Pesticide; 2,4-D; Red Alder; Labor; Workers; Criminal Case",
+        "subject": "Hydroelectric; Herbicide; Hydro Pesticide; 2:4-D; Red Alder; Labor; Workers; Criminal Case",
         
         
         
@@ -7183,7 +7183,7 @@
         "creator": "Brenda Dalglish",
         "date": "1980-05-08",
         
-        "subject": "Hydroelectric; 2,4-D; Sooke; Protest; Hydro Pesticide;",
+        "subject": "Hydroelectric; 2:4-D; Sooke; Protest; Hydro Pesticide;",
         
         
         
@@ -7859,11 +7859,11 @@
         "reference_url": "/JRWA-Archive/items/jrwa_docs_powergeneration_jordanriver_hydro_project_jordan_river_salmon.html#jrwa_docs_powergeneration_jordanriver_hydro_project_jordan_river_wup_research_005"
     },
     { 
-        "title": "Feasibility for Sidechannel Development On the East Side of Reach 1 of the Jordan River",
+        "title": "Feasibility for Side Channel Development On the East Side of Reach 1 of the Jordan River",
         "creator": "D.W. Burt",
         "date": "2014-04-09",
         
-        "subject": "Hydroelectric; BC Hydro; Sidechannel; Water Use Plan; Salmon",
+        "subject": "Hydroelectric; BC Hydro; Side Channel; Water Use Plan; Salmon",
         
         
         
@@ -8123,7 +8123,7 @@
         
         "date": "2011-10",
         
-        "subject": "Hydroelectric; Watershed; Ecology; Conservation; Fauna, Salmon ; Habitat; Water Birds; Bats; Plants",
+        "subject": "Hydroelectric; Watershed; Ecology; Conservation; Fauna: Salmon ; Habitat; Water Birds; Bats; Plants",
         
         
         
@@ -8143,7 +8143,7 @@
         
         "date": "2017-09-28",
         
-        "subject": "Hydroelectric; Watershed; Ecology; Conservation; Fauna, Salmon ; Habitat; Water Birds; Bats; Plants; Reservoir; River; Lakes; Riparian Areas",
+        "subject": "Hydroelectric; Watershed; Ecology; Conservation; Fauna: Salmon ; Habitat; Water Birds; Bats; Plants; Reservoir; River; Lakes; Riparian Areas",
         
         
         
@@ -8163,7 +8163,7 @@
         
         "date": "2020-07-21",
         
-        "subject": "Hydroelectric; Watershed; Ecology; Conservation; Fauna, Salmon ; Habitat; Water Birds; Bats; Plants; Reservoir; River; Lakes; Riparian Areas",
+        "subject": "Hydroelectric; Watershed; Ecology; Conservation; Fauna: Salmon ; Habitat; Water Birds; Bats; Plants; Reservoir; River; Lakes; Riparian Areas",
         
         
         
@@ -8980,7 +8980,7 @@
     },
     { 
         "title": "Sunro Map: Drilled Ore Zones ",
-        "creator": "Bacon and Cowhurst LTD. ",
+        "creator": "Bacon and Crowhurst LTD. ",
         "date": "1969-04-15",
         
         "subject": "Mining; Sunro Maps; Cowichan; ",
@@ -9039,7 +9039,7 @@
         "reference_url": "/JRWA-Archive/items/sunromine_maps.html#sunromine_maps_008"
     },
     { 
-        "title": "Sunro Map: Bulk Heads Plan and Sections",
+        "title": "Sunro Map: Bulkheads Plan and Sections",
         "creator": "Cowichan Copper Co. LTD. ",
         
         
@@ -10139,7 +10139,7 @@
         "reference_url": "/JRWA-Archive/items/sunromine_ownership_and_finances.html#sunromine_ownership_and_finances_008"
     },
     { 
-        "title": "Sunro Mine Miscalaneous",
+        "title": "Sunro Mine Miscellaneous",
         
         
         
@@ -10223,7 +10223,7 @@
         
         "date": "1920",
         
-        "subject": "Mining; Mining Reports; Aquisition; Smelting; Geological Survey; Gabbro; Aquisition; Smelting",
+        "subject": "E. E. Erich & Roland Blonchard",
         
         
         
@@ -10343,7 +10343,7 @@
         "creator": "F. H. Mason",
         "date": "1929",
         
-        "subject": "Mining; Mining Reports; Aquisition; Smelting",
+        "subject": "Mining; Mining Reports; Acquisition; Smelting",
         
         
         
@@ -10639,7 +10639,7 @@
         "reference_url": "/JRWA-Archive/items/sunromine_reports_1952.html#sunromine_reports_1950_003"
     },
     { 
-        "title": "A Mineralographic Study of Sunloch Copper Ore",
+        "title": "A Mineralography Study of Sunloch Copper Ore",
         "creator": "R.B Toombs",
         "date": "1951",
         
@@ -10720,7 +10720,7 @@
     },
     { 
         "title": "Sunro Map: Drilled Ore Zones ",
-        "creator": "Bacon and Cowhurst LTD. ",
+        "creator": "Bacon and Crowhurst LTD. ",
         "date": "1969-04-15",
         
         "subject": "Mining; Mining Reports; Map",
@@ -10883,7 +10883,7 @@
         
         "date": "1970",
         
-        "subject": "Mining; Mining Reports; Openings; Mine Closure; Geology; Milling; Pollution Management; Discharge; Land Aquisition; Rehabilitation; Mine Closure; Diagrams; Sections; Axons",
+        "subject": "Mining; Mining Reports; Openings; Mine Closure; Geology; Milling; Pollution Management; Discharge; Land Acquisition; Rehabilitation; Mine Closure; Diagrams; Sections; Axons",
         
         
         
@@ -11023,7 +11023,7 @@
         
         "date": "1974-07-24",
         
-        "subject": "Mining; Mining Reports; Land Aquisition",
+        "subject": "Mining; Mining Reports; Land Acquisition",
         
         
         
@@ -11039,7 +11039,7 @@
         "reference_url": "/JRWA-Archive/items/sunromine_reports_1977.html#sunromine_reports_1970_008"
     },
     { 
-        "title": "REPORT ON THE CLOSING OF THE JORDON RIVER MINE",
+        "title": "REPORT ON THE CLOSING OF THE JORDAN RIVER MINE",
         "creator": "A.J. RICHARDSON",
         "date": "1977-06",
         
@@ -11119,8 +11119,8 @@
         "reference_url": "/JRWA-Archive/items/sunromine_reports_bcgs.html#sunromine_reports_bcgs_001"
     },
     { 
-        "title": "British Columbia Geosience Organization Chart",
-        "creator": "Adris Kikauka",
+        "title": "British Columbia Geoscience Organization Chart",
+        "creator": "Andris Kikauka",
         "date": "2004-04-12",
         
         "subject": "Mining; Mining Reports; Ministry of Energy and Mining",
@@ -11200,7 +11200,7 @@
     },
     { 
         "title": "Sunro Mine Report Mineral Summary",
-        "creator": "Adris Kikauka",
+        "creator": "Andris Kikauka",
         "date": "2004-04-12",
         
         "subject": "Mining; Mining Reports; ",
@@ -11480,7 +11480,7 @@
     },
     { 
         "title": "Geological and Geochemical Record on the Sunloch Claim ",
-        "creator": "Adris Kikauka",
+        "creator": "Andris Kikauka",
         "date": "2004-04-12",
         
         "subject": "Mining; Mining Reports; Continued Mining Recommendation",
@@ -12323,7 +12323,7 @@
         
         
         
-        "subject": "Salmon; Restoration; Salmon Canning; Spawning; Sidechannel Construction; Hydroelectric; B.C. Hydro; Spawning; Habitat Restoration; Dam Decommissioning; Dam Management; Stream networks; Map; Watershed; Fish Inventory; ",
+        "subject": "Salmon; Restoration; Salmon Canning; Spawning; Side Channel Construction; Hydroelectric; B.C. Hydro; Spawning; Habitat Restoration; Dam Decommissioning; Dam Management; Stream networks; Map; Watershed; Fish Inventory; ",
         
         
         
@@ -12539,11 +12539,11 @@
         "reference_url": "/JRWA-Archive/items/salmon_and_habitat_restoration.html#salmon_and_habitat_restoration_011"
     },
     { 
-        "title": "FEASIBILITY FOR SIDECHANNEL DEVELOPMENT ON THE EAST SIDE OF REACH 1 OF THE JORDAN RIVER",
+        "title": "FEASIBILITY FOR Side Channel DEVELOPMENT ON THE EAST SIDE OF REACH 1 OF THE JORDAN RIVER",
         "creator": "D.W. Burt",
         "date": "2014-04-09",
         
-        "subject": "Salmon; Restoration; Spawning; Sidechannel Construction; Hydroelectric; B.C. Hydro",
+        "subject": "Salmon; Restoration; Spawning; Side Channel Construction; Hydroelectric; B.C. Hydro",
         
         
         
@@ -12643,7 +12643,7 @@
         
         "date": "2024-09-17",
         
-        "subject": "Salmon; Restoration Spawning; Sidechannel Construction; Hydroelectric; B.C. Hydro",
+        "subject": "Salmon; Restoration Spawning; Side Channel Construction; Hydroelectric; B.C. Hydro",
         
         
         
@@ -12899,7 +12899,7 @@
         "reference_url": "/JRWA-Archive/items/salmon_and_habitat_restoration.html#salmon_and_habitat_restoration_031"
     },
     { 
-        "title": "Preliminary Catalogue of Salmon Streams and Spawning Escapements of StatisticaI Areas 19 & 20",
+        "title": "DEPARTMENT OF MINES AND TECHNICAL ",
         "creator": "D.E. Marshall et al.",
         "date": "1977",
         
@@ -13339,126 +13339,6 @@
         "reference_url": "/JRWA-Archive/items/university_of_victoria_environmental_law_center.html"
     },
     { 
-        "title": "Jordan River mine contamination slated for cleanup",
-        
-        "date": "2016-10-20",
-        
-        "subject": "Research; Contamination Clean Up; Remediation; ",
-        
-        
-        
-        
-        
-        "type": "pdf",
-        "format": "pdf",
-        
-        
-        
-        "object_thumb": "http://localhost:4000/JRWA-Archive/objects/thumbs/jordan_river_mine_contamination_slated_for_cleanup_%E2%80%93_environmental_law_centre.pdf.th.jpg",
-        "object_location": "http://localhost:4000/JRWA-Archive/objects/jordan_river_mine_contamination_slated_for_cleanup_%E2%80%93_environmental_law_centre.pdf",
-        "reference_url": "/JRWA-Archive/items/university_of_victoria_environmental_law_center.html#university_of_victoria_environmental_law_center_001"
-    },
-    { 
-        "title": "Remediation of the Former Sunro Mine at Jordan River",
-        
-        "date": "2012-10-26",
-        
-        "subject": "Research; Juan de Fuca Salmon Restoration Society; Copper Contamination; Mine Remediation;  Sunro Mine; Teck; Environmental Management; ",
-        
-        
-        
-        
-        
-        "type": "pdf",
-        "format": "pdf",
-        
-        
-        
-        "object_thumb": "http://localhost:4000/JRWA-Archive/objects/thumbs/uvic_elc_2012_remediation_of_the_sunro_mine.pdf.th.jpg",
-        "object_location": "http://localhost:4000/JRWA-Archive/objects/uvic_elc_2012_remediation_of_the_sunro_mine.pdf",
-        "reference_url": "/JRWA-Archive/items/university_of_victoria_environmental_law_center.html#university_of_victoria_environmental_law_center_002"
-    },
-    { 
-        "title": "The Case for a Guardian Network Initiative",
-        "creator": "Environmental Law Centre and UVic Environmental Law Centre",
-        "date": "2020-07",
-        
-        "subject": "Research; Guardian Program; Traditional Practices; First Nations Peoples; Indigenous Peoples; Stewardship",
-        
-        
-        
-        
-        
-        "type": "pdf",
-        "format": "pdf",
-        
-        
-        
-        "object_thumb": "http://localhost:4000/JRWA-Archive/objects/thumbs/uvic_elc_2020_case_for_a_guardian_network_initiative.pdf.th.jpg",
-        "object_location": "http://localhost:4000/JRWA-Archive/objects/uvic_elc_2020_case_for_a_guardian_network_initiative.pdf",
-        "reference_url": "/JRWA-Archive/items/university_of_victoria_environmental_law_center.html#university_of_victoria_environmental_law_center_003"
-    },
-    { 
-        "title": "Request for Establishment of a Judicial Commission of Public Inquiry to Rectify and Improve BC Mining Regulation ",
-        "creator": "Calvin Sandborn and Kirsty Broadhead",
-        "date": "2017-03",
-        
-        "subject": "Research; Juridical Inquiry; Mining Law; Environmental Damage; Closed Mines; ",
-        
-        
-        
-        
-        
-        "type": "pdf",
-        "format": "pdf",
-        
-        
-        
-        "object_thumb": "http://localhost:4000/JRWA-Archive/objects/thumbs/uvic_environmental_law_centre_analysis_report_0.pdf.th.jpg",
-        "object_location": "http://localhost:4000/JRWA-Archive/objects/uvic_environmental_law_centre_analysis_report_0.pdf",
-        "reference_url": "/JRWA-Archive/items/university_of_victoria_environmental_law_center.html#university_of_victoria_environmental_law_center_004"
-    },
-    { 
-        "title": "Digging Up a Legislative History Mining Law in British Columbia",
-        
-        "date": "2018",
-        
-        "subject": "Research; Mining Law; ",
-        
-        
-        
-        
-        
-        "type": "pdf",
-        "format": "pdf",
-        
-        
-        
-        "object_thumb": "http://localhost:4000/JRWA-Archive/objects/thumbs/elc_2018_timeline_of_mining_law_in_bc.pdf.th.jpg",
-        "object_location": "http://localhost:4000/JRWA-Archive/objects/elc_2018_timeline_of_mining_law_in_bc.pdf",
-        "reference_url": "/JRWA-Archive/items/university_of_victoria_environmental_law_center.html#university_of_victoria_environmental_law_center_005"
-    },
-    { 
-        "title": "Neil Nunn Clinic Project Application ",
-        "creator": "Neil Nunn",
-        "date": "2020",
-        
-        "subject": "Research; Project Application",
-        
-        
-        
-        
-        
-        "type": "pdf",
-        "format": "pdf",
-        
-        
-        
-        "object_thumb": "http://localhost:4000/JRWA-Archive/objects/thumbs/elc_clinic_application_2020_signed.pdf.th.jpg",
-        "object_location": "http://localhost:4000/JRWA-Archive/objects/elc_clinic_application_2020_signed.pdf",
-        "reference_url": "/JRWA-Archive/items/university_of_victoria_environmental_law_center.html#university_of_victoria_environmental_law_center_006"
-    },
-    { 
         "title": "JRWA Documents",
         
         
@@ -13474,7 +13354,7 @@
         
         
         
-        "object_thumb": "http://localhost:4000/JRWA-Archive/objects/thumbs/jordan_river_mine_contamination_slated_for_cleanup_%E2%80%93_environmental_law_centre.pdf.th.jpg",
+        
         "object_location": "",
         "reference_url": "/JRWA-Archive/items/jrwa_documents.html#jrwa_documents"
     },
@@ -13503,7 +13383,7 @@
         
         
         
-        "subject": "Salmon; Restoration; Salmon Canning; Spawning; Sidechannel Construction; Hydroelectric; B.C. Hydro; Spawning; Habitat Restoration; Dam Decommissioning; Dam Management; Stream networks; Map; Watershed; Fish Inventory; ",
+        "subject": "Salmon; Restoration; Salmon Canning; Spawning; Side Channel Construction; Hydroelectric; B.C. Hydro; Spawning; Habitat Restoration; Dam Decommissioning; Dam Management; Stream networks; Map; Watershed; Fish Inventory; ",
         
         
         
