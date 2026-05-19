@@ -1,0 +1,31 @@
+{ 
+    "title": "Jordan River Watershed Awareness Archive",
+    "url": "http://localhost:4000/JRWA-Archive/",
+    "image": "http://localhost:4000/JRWA-Archive/objects/sookejr.jpg", 
+    "description": "The JRWA Archive Compiles Useful Documents Relating the the History of the Watershed",
+    "publisher": { 
+        "name": "Jordan River Watershed Awareness (JRWA)", 
+        "url": "https://jrwa.ca/", 
+        "logo": "/objects/01_jrwa_logo_white.png" 
+    },
+    "date_start": "1894",
+    "date_end": "2024",
+    "objects": {
+        "Image/JPG": "18",
+        "Image/PNG": "8",
+        "Image/PDF": "6",
+        "application/pdf": "293",
+        "image": "13",
+        null: "0",
+        "pdf": "498",
+        "image/png": "2",
+        "image/jpeg": "3",
+        "zip file": "10",
+        "png": "8",
+        "jpg": "2"
+        
+    },
+    "data": "http://localhost:4000/JRWA-Archive/assets/data/datapackage.json",
+    "last_build_date": "2026-05-07"
+}
+
