@@ -2298,4 +2298,8 @@ var store = [{
 "title": "Geological and Geochemical Record on the Sunloch Claim","date": "2004-04-12","creator": "Andris Kikauka","subject": "Mining; Mining Reports; Continued Mining Recommendation", 
 "id": "sunromine_reports_recent.html#sunromine_reports_recent_004"
 
+},{  
+"title": "New Doc", 
+"id": "new_sunro_aris.html"
+
 }];

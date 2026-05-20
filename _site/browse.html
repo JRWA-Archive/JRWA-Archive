@@ -1094,7 +1094,9 @@ var items = [
     { "subject":"Mining; Mining Reports; Ministry of Energy and Mining; Closures; Property Ownership; Historical Mines; Ministry of Energy and Mining; Minerals","img": "/JRWA-Archive/objects/thumbs/mom_orgainsation_sheet_th.jpg","display_template": "compound_object","title":"Sunro Mine: Reports British Columbia Geological Survey",
         "id":"sunromine_reports_bcgs" },
     { "subject":"Mining; Mining Reports; Continued Mining Recommendation; New Sunro","img": "/JRWA-Archive/objects/thumbs/funk_2009_sunro_copper_mine_restart_project_th.jpg","display_template": "compound_object","title":"Sunro Mine: Recent Reports",
-        "id":"sunromine_reports_recent" }];
+        "id":"sunromine_reports_recent" },
+    { "img": "/JRWA-Archive/objects/thumbs/new_sunro_aris_42617_1_th.jpg","title":"New Doc",
+        "id":"new_sunro_aris" }];
 
 // Valid field names for URL-based searches
 const validFields = ["date","description","creator","subject","location","identifier","title","display_template"];
@@ -1509,7 +1511,7 @@ function updateDisplay(filteredItems, query = "", field = "", startDate = "", en
     browseItemsDiv.appendChild(fragment);
     
     // Update count
-    document.querySelector("#numberOf").innerHTML = `${filteredItems.length} of 359 items`;
+    document.querySelector("#numberOf").innerHTML = `${filteredItems.length} of 360 items`;
     
     // Focus active input (only if needed)
     if (query || startDate || endDate) {
