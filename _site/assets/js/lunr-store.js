@@ -839,35 +839,35 @@ var store = [{
 "id": "jrnph1970-90_005.html"
 
 },{  
-"title": "Fear of Brownouts Fade on Island","date": "1971-12-21","creator": "Moria Farrow","subject": "Hydroelectric; Power House; B.C. Hydro", 
+"title": "Fear of Brownouts Fade on Island","date": "1971-12-21","creator": "Moria Farrow","subject": "Hydroelectric; Power House; bc hydro", 
 "id": "jrnph1970-90_006.html"
 
 },{  
-"title": "Jordan River's Electric Monster","date": "1988-01-03","creator": "Richard K. Blier","subject": "Hydroelectric; Power House; B.C. Hydro", 
+"title": "Jordan River's Electric Monster","date": "1988-01-03","creator": "Richard K. Blier","subject": "Hydroelectric; Power House; bc hydro", 
 "id": "jrnph1970-90_007.html"
 
 },{  
-"title": "$30 Million Flows Into Jordan Project","date": "1970-05-15","creator": "Times Colonist","subject": "Hydroelectric; Power House; B.C. Hydro", 
+"title": "$30 Million Flows Into Jordan Project","date": "1970-05-15","creator": "Times Colonist","subject": "Hydroelectric; Power House; bc hydro", 
 "id": "jrnph1970-90_008.html"
 
 },{  
-"title": "For $30M (and a few snags) The Island Gets Extra Power","date": "1970-11-28","creator": "B.C. Forest Trio buying up Radonier Canada Assets","subject": "Hydroelectric; Power House; B.C. Hydro", 
+"title": "For $30M (and a few snags) The Island Gets Extra Power","date": "1970-11-28","creator": "B.C. Forest Trio buying up Radonier Canada Assets","subject": "Hydroelectric; Power House; bc hydro", 
 "id": "jrnph1970-90_009.html"
 
 },{  
-"title": "Valley of Snags an 'Obscene Sight'","date": "1970-08-13","creator": "Don Vipond","subject": "Hydroelectric; Power House; B.C. Hydro; Tree Snags; Drained Reservoir; Logging", 
+"title": "Valley of Snags an 'Obscene Sight'","date": "1970-08-13","creator": "Don Vipond","subject": "Hydroelectric; Power House; bc hydro; Tree Snags; Drained Reservoir; Logging", 
 "id": "jrnph1970-90_010.html"
 
 },{  
-"title": "... An Obscene Sight","date": "1970-08-13","creator": "Don Vipond","subject": "Hydroelectric; Power House; B.C. Hydro; Tree Snags; Drained Reservoir; Logging", 
+"title": "... An Obscene Sight","date": "1970-08-13","creator": "Don Vipond","subject": "Hydroelectric; Power House; bc hydro; Tree Snags; Drained Reservoir; Logging", 
 "id": "jrnph1970-90_011.html"
 
 },{  
-"title": "First Nuclear Power Plant Likely in '75","date": "1968-07-24","creator": "John Mika","subject": "Hydroelectric; Power House; B.C. Hydro; Nuclear", 
+"title": "First Nuclear Power Plant Likely in '75","date": "1968-07-24","creator": "John Mika","subject": "Hydroelectric; Power House; bc hydro; Nuclear", 
 "id": "jrnph1970-90_012.html"
 
 },{  
-"title": "First Nuclear Power Plant Likely in '76","date": "1968-07-25","creator": "John Mika","subject": "Hydroelectric; Power House; B.C. Hydro; Nuclear", 
+"title": "First Nuclear Power Plant Likely in '76","date": "1968-07-25","creator": "John Mika","subject": "Hydroelectric; Power House; bc hydro; Nuclear", 
 "id": "jrnph1970-90_013.html"
 
 },{  
@@ -879,7 +879,7 @@ var store = [{
 "id": "jrnph1971-present_001.html"
 
 },{  
-"title": "Reviewing operational issues on Vancouver Island - Jordan River","date": "1994-06-10","creator": "Times Colonist","subject": "Ecological Damage; Recreation; FIshing; Hydroelectric; Dam Risks; B.C. Hydro", 
+"title": "Reviewing operational issues on Vancouver Island - Jordan River","date": "1994-06-10","creator": "Times Colonist","subject": "Ecological Damage; Recreation; FIshing; Hydroelectric; Dam Risks; bc hydro", 
 "id": "jrnph1971-present_002.html"
 
 },{  
@@ -887,27 +887,27 @@ var store = [{
 "id": "jrnph1971-present_003.html"
 
 },{  
-"title": "The Jordan River flume","date": "2022-03-20","creator": "Elida Peers","subject": "Hydroelectric; B.C. Hydro; Flume", 
+"title": "The Jordan River flume","date": "2022-03-20","creator": "Elida Peers","subject": "Hydroelectric; bc hydro; Flume", 
 "id": "jrnph1971-present_004.html"
 
 },{  
-"title": "Hydro decision this time is a tough one","date": "1971-12-4","creator": "Terry Hammond","subject": "Hydroelectric; B.C. Hydro", 
+"title": "Hydro decision this time is a tough one","date": "1971-12-4","creator": "Terry Hammond","subject": "Hydroelectric; bc hydro", 
 "id": "jrnph1971-present_005.html"
 
 },{  
-"title": "Reviewing operational issues on Vancouver Island - Jordan River","date": "1994-06-10","creator": "Times Colonist","subject": "Ecological Damage; Recreation; FIshing; Hydroelectric; Dam Risks; B.C. Hydro", 
+"title": "Reviewing operational issues on Vancouver Island - Jordan River","date": "1994-06-10","creator": "Times Colonist","subject": "Ecological Damage; Recreation; FIshing; Hydroelectric; Dam Risks; bc hydro", 
 "id": "jrnph1971-present_006.html"
 
 },{  
-"title": "The Source of (Victoria's) Power","date": "2001-03-18","creator": "John Newcomb","subject": "Hydroelectric; B.C. Hydro; Mining; Forestry. Lumner", 
+"title": "The Source of (Victoria's) Power","date": "2001-03-18","creator": "John Newcomb","subject": "Hydroelectric; bc hydro; Mining; Forestry. Lumner", 
 "id": "jrnph1971-present_007.html"
 
 },{  
-"title": "Jordan RIver Contract Let","date": "1969-08-18","creator": "Alberni Valley Times","description": "B.C. Hydro bu awarded the second of two major contract for redevelopment of the Jordan River power project on the southwestern tip of Vancouver Island.","subject": "B.C. Hydro; Hydroelectric; Elliot Dam; Diversion Dam; Tunnel", 
+"title": "Jordan RIver Contract Let","date": "1969-08-18","creator": "Alberni Valley Times","description": "B.C. Hydro bu awarded the second of two major contract for redevelopment of the Jordan River power project on the southwestern tip of Vancouver Island.","subject": "bc hydro; Hydroelectric; Elliot Dam; Diversion Dam; Tunnel", 
 "id": "jrnph1940-69_001.html"
 
 },{  
-"title": "Massive Blast Opening Tunnel","date": "1969-02-25","creator": "A.H. Murphy","subject": "B.C. Hydro; Hydroelectric; Elliot Dam; Diversion Dam; Tunnel", 
+"title": "Massive Blast Opening Tunnel","date": "1969-02-25","creator": "A.H. Murphy","subject": "bc hydro; Hydroelectric; Elliot Dam; Diversion Dam; Tunnel", 
 "id": "jrnph1940-69_003.html"
 
 },{  
@@ -915,15 +915,15 @@ var store = [{
 "id": "jrnph1940-69_004.html"
 
 },{  
-"title": "Hydro Project Hums","date": "1969-05-11","creator": "Clement Chapple","subject": "Mining; Hydroelectric; Settlement; B.C. Hydro", 
+"title": "Hydro Project Hums","date": "1969-05-11","creator": "Clement Chapple","subject": "Mining; Hydroelectric; Settlement; bc hydro", 
 "id": "jrnph1940-69_006.html"
 
 },{  
-"title": "Island to Double Share of Mainland Power","date": "1964-11-05","creator": "Ian Street","subject": "Hydroelectric; B.C. Hydro", 
+"title": "Island to Double Share of Mainland Power","date": "1964-11-05","creator": "Ian Street","subject": "Hydroelectric; bc hydro", 
 "id": "jrnph1940-69_007.html"
 
 },{  
-"title": "Dams and Wildlife","date": "1968","creator": "Arnold Olson","subject": "Hydroelectric; B.C. Hydro; Salmon; Fish; Ecosystem", 
+"title": "Dams and Wildlife","date": "1968","creator": "Arnold Olson","subject": "Hydroelectric; bc hydro; Salmon; Fish; Ecosystem", 
 "id": "jrnph1940-69_008.html"
 
 },{  
@@ -1335,51 +1335,51 @@ var store = [{
 "id": "jrwa_docs_powergeneration_bc_hydro_water_use_program_review.html"
 
 },{  
-"title": "Finding the right balance","date": "2005-09-14","creator": "NS Energy Staff Writer","subject": "Hydroelectric; B.C. Hydro; Water Use Program; Water Use Plan; B.C. Hydro", 
+"title": "Finding the right balance","date": "2005-09-14","creator": "NS Energy Staff Writer","subject": "Hydroelectric; bc hydro; Water Use Program; Water Use Plan; bc hydro", 
 "id": "jrwa_docs_powergeneration_bc_hydro_water_use_program_review.html#jrwa_docs_powergeneration_bc_hydro_water_use_program_review_001"
 
 },{  
-"title": "Run-of-River Hydropower in BC","date": "2007-08","creator": "Watershed Watch","subject": "Hydroelectric; B.C. Hydro; Water Use Program; Salmon; Ecology", 
+"title": "Run-of-River Hydropower in BC","date": "2007-08","creator": "Watershed Watch","subject": "Hydroelectric; bc hydro; Water Use Program; Salmon; Ecology", 
 "id": "jrwa_docs_powergeneration_bc_hydro_water_use_program_review.html#jrwa_docs_powergeneration_bc_hydro_water_use_program_review_002"
 
 },{  
-"subject": "Hydroelectric; B.C. Hydro; Water Use Program", 
+"subject": "Hydroelectric; bc hydro; Water Use Program", 
 "id": "jrwa_docs_powergeneration_bc_hydro_water_use_program_review.html#jrwa_docs_powergeneration_bc_hydro_water_use_program_review_003"
 
 },{  
-"title": "Finding the right balance","date": "2005-09-14","subject": "Hydroelectric; B.C. Hydro; Water Use Program", 
+"title": "Finding the right balance","date": "2005-09-14","subject": "Hydroelectric; bc hydro; Water Use Program", 
 "id": "jrwa_docs_powergeneration_bc_hydro_water_use_program_review.html#jrwa_docs_powergeneration_bc_hydro_water_use_program_review_004"
 
 },{  
-"subject": "Hydroelectric; B.C. Hydro; Water Use Program", 
+"subject": "Hydroelectric; bc hydro; Water Use Program", 
 "id": "jrwa_docs_powergeneration_bc_hydro_water_use_program_review.html#jrwa_docs_powergeneration_bc_hydro_water_use_program_review_005"
 
 },{  
-"title": "Independent Power Producer(IPP) Projects in British Columbia","date": "2009-05","creator": "West Coast Environmental Law","subject": "Hydroelectric; B.C. Hydro; Water Use Program; Climate Change; Independent Power Producers", 
+"title": "Independent Power Producer(IPP) Projects in British Columbia","date": "2009-05","creator": "West Coast Environmental Law","subject": "Hydroelectric; bc hydro; Water Use Program; Climate Change; Independent Power Producers", 
 "id": "jrwa_docs_powergeneration_bc_hydro_water_use_program_review.html#jrwa_docs_powergeneration_bc_hydro_water_use_program_review_007"
 
 },{  
-"title": "Water for Power, Water for Nature The Story of BC Hydro’s Water Use Planning Program","date": "2014-10","creator": "James Mattison","subject": "Hydroelectric; B.C. Hydro; Water Use Program", 
+"title": "Water for Power, Water for Nature The Story of BC Hydro’s Water Use Planning Program","date": "2014-10","creator": "James Mattison","subject": "Hydroelectric; bc hydro; Water Use Program", 
 "id": "jrwa_docs_powergeneration_bc_hydro_water_use_program_review.html#jrwa_docs_powergeneration_bc_hydro_water_use_program_review_008"
 
 },{  
-"title": "\"A clean future powered by \"water” – BC Hydro’s new 5-year plan","date": "2022-02-16","creator": "Anthony Capkun","subject": "Hydroelectric; B.C. Hydro; Water Use Program; Electrification", 
+"title": "\"A clean future powered by \"water” – BC Hydro’s new 5-year plan","date": "2022-02-16","creator": "Anthony Capkun","subject": "Hydroelectric; bc hydro; Water Use Program; Electrification", 
 "id": "jrwa_docs_powergeneration_bc_hydro_water_use_program_review.html#jrwa_docs_powergeneration_bc_hydro_water_use_program_review_009"
 
 },{  
-"title": "BC Government and BC Hydro launch Cve-year electrification plan, focused on hydro","date": "2021-09-29","creator": "Elizabeth Ingram","subject": "Hydroelectric; B.C. Hydro; Water Use Program; Electrification", 
+"title": "BC Government and BC Hydro launch Cve-year electrification plan, focused on hydro","date": "2021-09-29","creator": "Elizabeth Ingram","subject": "Hydroelectric; bc hydro; Water Use Program; Electrification", 
 "id": "jrwa_docs_powergeneration_bc_hydro_water_use_program_review.html#jrwa_docs_powergeneration_bc_hydro_water_use_program_review_010"
 
 },{  
-"title": "Running On Empty: Shifting to a Sustainable Energy Plan for BC","date": "2004-08","creator": "Dale Marshall","subject": "Hydroelectric; B.C. Hydro; Water Use Program; Energy Plan; Water Use Plan", 
+"title": "Running On Empty: Shifting to a Sustainable Energy Plan for BC","date": "2004-08","creator": "Dale Marshall","subject": "Hydroelectric; bc hydro; Water Use Program; Energy Plan; Water Use Plan", 
 "id": "jrwa_docs_powergeneration_bc_hydro_water_use_program_review.html#jrwa_docs_powergeneration_bc_hydro_water_use_program_review_011"
 
 },{  
-"title": "Sustainable hydropower in the 21st century","date": "2018-09-25","creator": "Emilio F. Moran et al.","subject": "Hydroelectric; B.C. Hydro; Ecological Damage;", 
+"title": "Sustainable hydropower in the 21st century","date": "2018-09-25","creator": "Emilio F. Moran et al.","subject": "Hydroelectric; bc hydro; Ecological Damage;", 
 "id": "jrwa_docs_powergeneration_bc_hydro_water_use_program_review.html#jrwa_docs_powergeneration_bc_hydro_water_use_program_review_012"
 
 },{  
-"title": "Continued Monitoring of the Constructed Wetland at Diversion Reservoir, Jordan River Watershed, Southern Vancouver Island","date": "2013-03-31","creator": "Krysia Tuttle","subject": "Hydroelectric; B.C. Hydro; Ecology; Watershed; Study; Survey; Wetland; Vegetation; Revegetation; Logging", 
+"title": "Continued Monitoring of the Constructed Wetland at Diversion Reservoir, Jordan River Watershed, Southern Vancouver Island","date": "2013-03-31","creator": "Krysia Tuttle","subject": "Hydroelectric; bc hydro; Ecology; Watershed; Study; Survey; Wetland; Vegetation; Revegetation; Logging", 
 "id": "jrwa_docs_powergeneration_jordan_river_hydro_other_reports_001.html"
 
 },{  
@@ -1463,7 +1463,7 @@ var store = [{
 "id": "jrwa_docs_powergeneration_jordanriver_hydro_project_history.html#jrwa_docs_powergeneration_jordanriver_hydro_project_history_001"
 
 },{  
-"title": "BC Hydro Tenth Annual Report","date": "1972","creator": "British Columbia Hydro and Power Authority","subject": "Hydroelectric; Sales; Development; Report; B.C. Hydro", 
+"title": "BC Hydro Tenth Annual Report","date": "1972","creator": "British Columbia Hydro and Power Authority","subject": "Hydroelectric; Sales; Development; Report; bc hydro", 
 "id": "jrwa_docs_powergeneration_jordanriver_hydro_project_history.html#jrwa_docs_powergeneration_jordanriver_hydro_project_history_002"
 
 },{  
