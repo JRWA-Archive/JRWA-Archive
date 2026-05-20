@@ -1095,8 +1095,10 @@ var items = [
         "id":"sunromine_reports_bcgs" },
     { "subject":"Mining; Mining Reports; Continued Mining Recommendation; New Sunro","img": "/JRWA-Archive/objects/thumbs/funk_2009_sunro_copper_mine_restart_project_th.jpg","display_template": "compound_object","title":"Sunro Mine: Recent Reports",
         "id":"sunromine_reports_recent" },
-    { "img": "/JRWA-Archive/objects/thumbs/new_sunro_aris_42617_1_th.jpg","title":"New Doc",
-        "id":"new_sunro_aris" }];
+    { "subject":"Research; Watershed Governance; Supply-Management; Basin Overbuilding; Resource Management; Local Watershed Entities; Collaboration; Environmental Governance; Geography; Salmon; Tailings; Water Chemistry; Water Quality; Water Use Plan; Discharge; Salmon; Historical Review; Mine Collapse","img": "/JRWA-Archive/objects/thumbs/water_governance_paper.th.jpg","display_template": "compound_object","title":"Jamie Constable: Thesis",
+        "id":"jamie_constable_jordan_river_research" },
+    { "date":"2023","creator":"Neil Nunn","subject":"Research; Settler Colonialism; Antirelationality; environmental justice; reparative planning; BC gold rush; settler colonialism; colonial modernity; 1862 smallpox epidemic","img": "/JRWA-Archive/objects/thumbs/nunn_2023_repair_and_the_2014_mount_polley_mine_disaster.th.jpg","display_template": "pdf","format": "pdf","title":"Repair and the 2014 Mount Polley Mine disaster: Antirelationality, constraint, and legacies of socio-ecological disruption in settler colonial British Columbia",
+        "id":"niel_nunn_research" }];
 
 // Valid field names for URL-based searches
 const validFields = ["date","description","creator","subject","location","identifier","title","display_template"];
@@ -1511,7 +1513,7 @@ function updateDisplay(filteredItems, query = "", field = "", startDate = "", en
     browseItemsDiv.appendChild(fragment);
     
     // Update count
-    document.querySelector("#numberOf").innerHTML = `${filteredItems.length} of 360 items`;
+    document.querySelector("#numberOf").innerHTML = `${filteredItems.length} of 361 items`;
     
     // Focus active input (only if needed)
     if (query || startDate || endDate) {

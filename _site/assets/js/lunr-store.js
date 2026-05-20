@@ -2299,7 +2299,51 @@ var store = [{
 "id": "sunromine_reports_recent.html#sunromine_reports_recent_004"
 
 },{  
-"title": "New Doc", 
-"id": "new_sunro_aris.html"
+"title": "Jamie Constable: Thesis","subject": "Research; Watershed Governance; Supply-Management; Basin Overbuilding; Resource Management; Local Watershed Entities; Collaboration; Environmental Governance; Geography; Salmon; Tailings; Water Chemistry; Water Quality; Water Use Plan; Discharge; Salmon; Historical Review; Mine Collapse", 
+"id": "jamie_constable_jordan_river_research.html"
+
+},{  
+"title": "Taking the “Rains” into Local Hands: Water Governance in British Columbia","date": "2015-07-15","creator": "Jamie Constable","subject": "Research; Watershed Governance; Supply-Management; Basin Overbuilding; Resource Management; Local Watershed Entities; Collaboration; Environmental Governance", 
+"id": "jamie_constable_jordan_river_research.html#jamie_constable_jordan_river_thesis_001"
+
+},{  
+"title": "Building the Capacity for Watershed Governance","date": "2020","creator": "Jamie Joyce Edwards","subject": "Research; Watershed Governance; Geography; Salmon; Tailings; Water Chemistry; Water Quality", 
+"id": "jamie_constable_jordan_river_research.html#jamie_constable_jordan_river_thesis_002"
+
+},{  
+"title": "Jordan River: A Desolate Coastal River","date": "2013-04-05","creator": "Jamie Constable","subject": "Research; Water Use Plan; Discharge; Salmon; Historical Review; Mine Collapse", 
+"id": "jamie_constable_jordan_river_research.html#jamie_constable_jordan_river_thesis_003"
+
+},{  
+"title": "Jordan River Park Boundary","date": "2012","creator": "CDR","subject": "Research; Map; Park", 
+"id": "jamie_constable_jordan_river_research.html#jamie_constable_jordan_river_thesis_004"
+
+},{  
+"title": "Jordan Project Schematic","subject": "Research; Map; Dams; Hydrology; Hydroelectric", 
+"id": "jamie_constable_jordan_river_research.html#jamie_constable_jordan_river_thesis_005"
+
+},{  
+"title": "Life has trickled back to a 'lonely, dead river'","date": "2011-03-07","creator": "Mark Hume","subject": "Research; Tsolum River Restoration; Salmon Restocking; Copper", 
+"id": "jamie_constable_jordan_river_research.html#jamie_constable_jordan_river_thesis_006"
+
+},{  
+"title": "Tsolum River Watershed Figure","subject": "Research; Map; Tsolum River Restoration;", 
+"id": "jamie_constable_jordan_river_research.html#jamie_constable_jordan_river_thesis_007"
+
+},{  
+"title": "ZIP - Jamie's Water Data","subject": "Research; Watershed Governance; Geography; Salmon; Tailings; Water Chemistry; Water Quality", 
+"id": "jamie_constable_jordan_river_research.html#jamie_constable_jordan_river_thesis_008"
+
+},{  
+"title": "ZIP - Jamie's References and Paper","subject": "Research; Watershed Governance; Geography; Salmon; Tailings; Water Chemistry; Water Quality", 
+"id": "jamie_constable_jordan_river_research.html#jamie_constable_jordan_river_thesis_009"
+
+},{  
+"title": "ZIP - All Files Jamie Constable","subject": "Research; Watershed Governance; Geography; Salmon; Tailings; Water Chemistry; Water Quality", 
+"id": "jamie_constable_jordan_river_research.html#jamie_constable_jordan_river_thesis_010"
+
+},{  
+"title": "Repair and the 2014 Mount Polley Mine disaster: Antirelationality, constraint, and legacies of socio-ecological disruption in settler colonial British Columbia","date": "2023","creator": "Neil Nunn","subject": "Research; Settler Colonialism; Antirelationality; environmental justice; reparative planning; BC gold rush; settler colonialism; colonial modernity; 1862 smallpox epidemic", 
+"id": "niel_nunn_research.html"
 
 }];

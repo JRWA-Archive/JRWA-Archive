@@ -11499,24 +11499,244 @@
         "reference_url": "/JRWA-Archive/items/sunromine_reports_recent.html#sunromine_reports_recent_004"
     },
     { 
-        "title": "New Doc ",
+        "title": "Jamie Constable: Thesis",
+        
+        
+        
+        "subject": "Research; Watershed Governance; Supply-Management; Basin Overbuilding; Resource Management; Local Watershed Entities; Collaboration; Environmental Governance; Geography; Salmon; Tailings; Water Chemistry; Water Quality; Water Use Plan; Discharge; Salmon; Historical Review; Mine Collapse",
         
         
         
         
         
+        "type": "record",
+        
+        
+        
+        
+        "object_thumb": "http://localhost:4000/JRWA-Archive/objects/thumbs/water_governance_paper.th.jpg",
+        "object_location": "",
+        "reference_url": "/JRWA-Archive/items/jamie_constable_jordan_river_research.html"
+    },
+    { 
+        "title": "Taking the “Rains” into Local Hands: Water Governance in British Columbia ",
+        "creator": "Jamie Constable",
+        "date": "2015-07-15",
+        
+        "subject": "Research; Watershed Governance; Supply-Management; Basin Overbuilding; Resource Management; Local Watershed Entities; Collaboration; Environmental Governance",
         
         
         
         
         
+        "type": "pdf",
+        "format": "pdf",
+        
+        
+        
+        "object_thumb": "http://localhost:4000/JRWA-Archive/objects/thumbs/water_governance_paper.th.jpg",
+        "object_location": "http://localhost:4000/JRWA-Archive/objects/water_governance_paper.pdf",
+        "reference_url": "/JRWA-Archive/items/jamie_constable_jordan_river_research.html#jamie_constable_jordan_river_thesis_001"
+    },
+    { 
+        "title": "Building the Capacity for Watershed Governance",
+        "creator": "Jamie Joyce Edwards",
+        "date": "2020",
+        
+        "subject": "Research; Watershed Governance; Geography; Salmon; Tailings; Water Chemistry; Water Quality",
         
         
         
         
-        "object_thumb": "http://localhost:4000/JRWA-Archive/objects/thumbs/new_sunro_aris_42617_1_th.jpg",
-        "object_location": "http://localhost:4000/JRWA-Archive/objects/new_sunro_aris_42617_1.pdf",
-        "reference_url": "/JRWA-Archive/items/new_sunro_aris.html"
+        
+        "type": "pdf",
+        "format": "pdf",
+        
+        
+        
+        "object_thumb": "http://localhost:4000/JRWA-Archive/objects/thumbs/edwards_2020_msc_thesis_building_the_capacity_for_watershed_governance.th.jpg",
+        "object_location": "http://localhost:4000/JRWA-Archive/objects/edwards_2020_msc_thesis_building_the_capacity_for_watershed_governance.pdf",
+        "reference_url": "/JRWA-Archive/items/jamie_constable_jordan_river_research.html#jamie_constable_jordan_river_thesis_002"
+    },
+    { 
+        "title": "Jordan River: A Desolate Coastal River",
+        "creator": "Jamie Constable",
+        "date": "2013-04-05",
+        
+        "subject": "Research; Water Use Plan; Discharge; Salmon; Historical Review; Mine Collapse",
+        
+        
+        
+        
+        
+        "type": "pdf",
+        "format": "pdf",
+        
+        
+        
+        "object_thumb": "http://localhost:4000/JRWA-Archive/objects/thumbs/jordan_river_paper.th.jpg",
+        "object_location": "http://localhost:4000/JRWA-Archive/objects/jordan_river_paper.pdf",
+        "reference_url": "/JRWA-Archive/items/jamie_constable_jordan_river_research.html#jamie_constable_jordan_river_thesis_003"
+    },
+    { 
+        "title": "Jordan River Park Boundary",
+        "creator": "CDR",
+        "date": "2012",
+        
+        "subject": "Research; Map; Park",
+        
+        
+        
+        
+        
+        "type": "tiff",
+        "format": "tiff",
+        
+        
+        
+        "object_thumb": "http://localhost:4000/JRWA-Archive/objects/thumbs/jordan_river_park_boundary.th.jpg",
+        "object_location": "http://localhost:4000/JRWA-Archive/objects/jordan_river_park_boundary.tiff",
+        "reference_url": "/JRWA-Archive/items/jamie_constable_jordan_river_research.html#jamie_constable_jordan_river_thesis_004"
+    },
+    { 
+        "title": "Jordan Project Schematic",
+        
+        
+        
+        "subject": "Research; Map; Dams; Hydrology; Hydroelectric",
+        
+        
+        
+        
+        
+        "type": "tiff",
+        "format": "tiff",
+        
+        
+        
+        "object_thumb": "http://localhost:4000/JRWA-Archive/objects/thumbs/jr_basin.th.jpg",
+        "object_location": "http://localhost:4000/JRWA-Archive/objects/jr_basin.tiff",
+        "reference_url": "/JRWA-Archive/items/jamie_constable_jordan_river_research.html#jamie_constable_jordan_river_thesis_005"
+    },
+    { 
+        "title": "Life has trickled back to a 'lonely, dead river'",
+        "creator": "Mark Hume",
+        "date": "2011-03-07",
+        
+        "subject": "Research; Tsolum River Restoration; Salmon Restocking; Copper",
+        
+        
+        
+        
+        
+        "type": "pdf",
+        "format": "pdf",
+        
+        
+        
+        "object_thumb": "http://localhost:4000/JRWA-Archive/objects/thumbs/proquestdocuments_2013_04_03.th.jpg",
+        "object_location": "http://localhost:4000/JRWA-Archive/objects/proquestdocuments_2013_04_03.pdf",
+        "reference_url": "/JRWA-Archive/items/jamie_constable_jordan_river_research.html#jamie_constable_jordan_river_thesis_006"
+    },
+    { 
+        "title": "Tsolum River Watershed Figure",
+        
+        
+        
+        "subject": "Research; Map; Tsolum River Restoration; ",
+        
+        
+        
+        
+        
+        "type": "tiff",
+        "format": "tiff",
+        
+        
+        
+        "object_thumb": "http://localhost:4000/JRWA-Archive/objects/thumbs/tsolum_river_watershed_figure.th.jpg",
+        "object_location": "http://localhost:4000/JRWA-Archive/objects/tsolum_river_watershed_figure.tiff",
+        "reference_url": "/JRWA-Archive/items/jamie_constable_jordan_river_research.html#jamie_constable_jordan_river_thesis_007"
+    },
+    { 
+        "title": "ZIP - Jamie's Water Data",
+        
+        
+        
+        "subject": "Research; Watershed Governance; Geography; Salmon; Tailings; Water Chemistry; Water Quality",
+        
+        
+        
+        
+        
+        "type": "zip file",
+        "format": "zip file",
+        
+        
+        
+        "object_thumb": "http://localhost:4000/JRWA-Archive/objects/thumbs/jr_water_data.th.jpg",
+        "object_location": "http://localhost:4000/JRWA-Archive/objects/jr_water_data.7z",
+        "reference_url": "/JRWA-Archive/items/jamie_constable_jordan_river_research.html#jamie_constable_jordan_river_thesis_008"
+    },
+    { 
+        "title": "ZIP - Jamie's References and Paper",
+        
+        
+        
+        "subject": "Research; Watershed Governance; Geography; Salmon; Tailings; Water Chemistry; Water Quality",
+        
+        
+        
+        
+        
+        "type": "zip file",
+        "format": "zip file",
+        
+        
+        
+        "object_thumb": "http://localhost:4000/JRWA-Archive/objects/thumbs/jordan_river_jamie.th.jpg",
+        "object_location": "http://localhost:4000/JRWA-Archive/objects/jordan_river_jamie.7z",
+        "reference_url": "/JRWA-Archive/items/jamie_constable_jordan_river_research.html#jamie_constable_jordan_river_thesis_009"
+    },
+    { 
+        "title": "ZIP - All Files Jamie Constable",
+        
+        
+        
+        "subject": "Research; Watershed Governance; Geography; Salmon; Tailings; Water Chemistry; Water Quality",
+        
+        
+        
+        
+        
+        "type": "zip file",
+        "format": "zip file",
+        
+        
+        
+        "object_thumb": "http://localhost:4000/JRWA-Archive/objects/thumbs/jamie_constable.th.jpg",
+        "object_location": "http://localhost:4000/JRWA-Archive/objects/jamie_constable.7z",
+        "reference_url": "/JRWA-Archive/items/jamie_constable_jordan_river_research.html#jamie_constable_jordan_river_thesis_010"
+    },
+    { 
+        "title": "Repair and the 2014 Mount Polley Mine disaster: Antirelationality, constraint, and legacies of socio-ecological disruption in settler colonial British Columbia",
+        "creator": "Neil Nunn",
+        "date": "2023",
+        
+        "subject": "Research; Settler Colonialism; Antirelationality; environmental justice; reparative planning; BC gold rush; settler colonialism; colonial modernity; 1862 smallpox epidemic",
+        
+        
+        
+        
+        
+        "type": "pdf",
+        "format": "pdf",
+        
+        
+        
+        "object_thumb": "http://localhost:4000/JRWA-Archive/objects/thumbs/nunn_2023_repair_and_the_2014_mount_polley_mine_disaster.th.jpg",
+        "object_location": "http://localhost:4000/JRWA-Archive/objects/nunn_2023_repair_and_the_2014_mount_polley_mine_disaster.pdf",
+        "reference_url": "/JRWA-Archive/items/niel_nunn_research.html"
     }
     
 ] }

@@ -17,12 +17,13 @@
         "application/pdf": "293",
         "image": "44",
         null: "0",
-        "pdf": "489",
+        "pdf": "494",
         "image/jpeg": "3",
         "image/png": "1",
-        "zip file": "10",
+        "zip file": "13",
         "png": "7",
-        "jpg": "2"
+        "jpg": "2",
+        "tiff": "3"
         
     },
     "data": "http://localhost:4000/JRWA-Archive/assets/data/datapackage.json",
