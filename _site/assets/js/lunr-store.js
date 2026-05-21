@@ -1,878 +1,942 @@
 var store = [{  
+"title": "Historical Photos", 
+"id": "historical_photos.html"
+
+},{  
 "title": "Aerial Photo of Estuary with Lumber Mill","description": "Black and White Aerial Photo of the estuary and Lumber Mill","subject": "Forestry; Mill; Coastline", 
-"id": "jrhp_001.html"
+"id": "historical_photos.html#jrhp_001"
 
 },{  
 "title": "Cowichan Copper Mine","date": "1965","description": "Black and White Photo of the copper mine","subject": "Mining; Copper", 
-"id": "jrhp_002.html"
+"id": "historical_photos.html#jrhp_002"
 
 },{  
 "title": "Logging Operation at Jordan River","description": "Black and White Photo of logging workers","subject": "Forestry; Workers", 
-"id": "jrhp_003.html"
+"id": "historical_photos.html#jrhp_003"
 
 },{  
 "title": "Mine Waste Dump and Pond","date": "1974","description": "Black and White Photo of the Sunro Mine and the River below","subject": "Mining; Copper; Sunro; Dumping", 
-"id": "jrhp_004.html"
+"id": "historical_photos.html#jrhp_004"
 
 },{  
 "title": "Mine Waste Dump and Pond","date": "1974","description": "Black and White Photo of the Sunro Mine and the River below","subject": "Mining; Copper; Sunro; Dumping", 
-"id": "jrhp_005.html"
+"id": "historical_photos.html#jrhp_005"
 
 },{  
 "title": "Sundo Mine Entrance","date": "1958","description": "Black and White Photo of the Sundo Mine Entrance","subject": "Mining; Copper; Sunro; Dumping", 
-"id": "jrhp_006.html"
+"id": "historical_photos.html#jrhp_006"
 
 },{  
 "title": "Mine drill bit and Workers","description": "Black and White Photo the Mining Drill Bit and Workers","subject": "Mining", 
-"id": "jrhp_007.html"
+"id": "historical_photos.html#jrhp_007"
 
 },{  
 "title": "Maveric River adds to the Mine Flow","date": "1964-01-09","description": "Black and White Newsprint with Photos of the Mine being flooded in 1964","subject": "Mining; Flood; Cowichan Copper Company; Copper", 
-"id": "jrhp_008.html"
+"id": "historical_photos.html#jrhp_008"
 
 },{  
 "title": "Heavy Rain to Delay Flooded Mine Repair","date": "1963-12-07","description": "Black and White Newsprint with Photos of the Mine being flooded in 1964","subject": "Mining; Flood; Cowichan Copper Company; Copper", 
-"id": "jrhp_009.html"
+"id": "historical_photos.html#jrhp_009"
 
 },{  
 "title": "Aerial Photo of Estuary with Lumber Mill 2","description": "Black and White Aerial Photo of the Estuary and Logging Mill","subject": "Estuary; Forestry; Mill", 
-"id": "jrhp_010.html"
+"id": "historical_photos.html#jrhp_010"
 
 },{  
 "title": "Aerial Photo of Estuary with Lumber Mill 3","description": "Black and White Aerial Photo of the Estuary and Logging Mill","subject": "Estuary; Forestry; Mill", 
-"id": "jrhp_011.html"
+"id": "historical_photos.html#jrhp_011"
 
 },{  
 "title": "Booming Area Photo","date": "1917","description": "Black and White Photo of the Booming Area","subject": "Estuary; Forestry; Booming", 
-"id": "jrhp_012.html"
+"id": "historical_photos.html#jrhp_012"
 
 },{  
 "title": "Forebay Pond","description": "Black and White Photo of the Forebay Pond","subject": "Estuary; Forestry; Forebay Pond", 
-"id": "jrhp_013.html"
+"id": "historical_photos.html#jrhp_013"
 
 },{  
 "title": "Log Booming Photo","date": "1950","description": "Black and White Photo of a crane lifting logs","subject": "Estuary; Forestry; Booming", 
-"id": "jrhp_014.html"
+"id": "historical_photos.html#jrhp_014"
 
 },{  
 "title": "Rail Car","date": "1920","description": "Black and White Photo of men on a Rail car","subject": "Railcar", 
-"id": "jrhp_015.html"
+"id": "historical_photos.html#jrhp_015"
 
 },{  
 "title": "George Winkler, the Poet Prospector","date": "1908","description": "Screenshot of Royal BC Museum Entry on George Winkler, with brief biography and black and white photograph of the man himself","subject": "George Winkler; Prospector; Mining", 
-"id": "jrhp_016.html"
+"id": "historical_photos.html#jrhp_016"
 
 },{  
 "title": "The dam at the Jordan River","date": "1919","description": "Black and White photo of the dam in construction","subject": "Hydroelectric; Dam", 
-"id": "jrhp_017.html"
+"id": "historical_photos.html#jrhp_017"
 
 },{  
 "title": "Rail line near Sunloch Mine","date": "1919","description": "Black and White photo of rail line","subject": "Mining; Sunloch Mines Ltd.", 
-"id": "jrhp_018.html"
+"id": "historical_photos.html#jrhp_018"
 
 },{  
 "title": "Rail line near Sunloch Mine 2","date": "1919","description": "Black and White photo of rail line","subject": "Mining; Sunloch Mines Ltd.", 
-"id": "jrhp_019.html"
+"id": "historical_photos.html#jrhp_019"
 
 },{  
 "title": "Rail line near Sunloch Mine 3","date": "1919","description": "Black and White photo of rail line","subject": "Mining; Sunloch Mines Ltd.", 
-"id": "jrhp_020.html"
+"id": "historical_photos.html#jrhp_020"
 
 },{  
 "title": "Powerhouse at Jordan River 1920","date": "1920","description": "Black and White photo of powerhouse","subject": "Hydroelectric", 
-"id": "jrhp_021.html"
+"id": "historical_photos.html#jrhp_021"
 
 },{  
 "title": "Camp 2 at Jordan River and Dam 1930's","date": "1930","description": "Black and White photo of a camp adjacent to the dam","subject": "Forestry; Settlement; Dam; Settlement", 
-"id": "jrhp_022.html"
+"id": "historical_photos.html#jrhp_022"
 
 },{  
 "title": "Jordan River Miner in the 1920s","date": "1920","description": "Black and White photo of a miner","subject": "Mining", 
-"id": "jrhp_023.html"
+"id": "historical_photos.html#jrhp_023"
 
 },{  
 "title": "Jordan River Community Hall 1945-48","date": "1940","description": "Black and White photo of the community hall","subject": "Settlement", 
-"id": "jrhp_024.html"
+"id": "historical_photos.html#jrhp_024"
 
 },{  
 "title": "Jordan River Powerhouse 1926","date": "1926","description": "Black and White photo of powerhouse","subject": "Hydroelectric", 
-"id": "jrhp_025.html"
+"id": "historical_photos.html#jrhp_025"
 
 },{  
 "title": "Clearing where powerhouse was built","date": "1908","description": "Black and White photo of cleared field adjacent to dam","subject": "Hydroelectric", 
-"id": "jrhp_026.html"
+"id": "historical_photos.html#jrhp_026"
 
 },{  
 "title": "View of the Jordan River 1904","date": "1904", 
-"id": "jrhp_026.5.html"
+"id": "historical_photos.html#jrhp_026.5"
 
 },{  
 "title": "Telegraph Hut","description": "Black and White photo the Jordan River", 
-"id": "jrhp_027.html"
+"id": "historical_photos.html#jrhp_027"
 
 },{  
 "title": "Man Drilling a Rock","date": "1917","description": "Black and White photo the Jordan River Homes","subject": "Mining", 
-"id": "jrhp_028.html"
+"id": "historical_photos.html#jrhp_028"
 
 },{  
 "title": "Homes of the Jordan River 1920's","date": "1920","description": "Black and White photo of a man drilling a rock","subject": "Settlement", 
-"id": "jrhp_029.html"
+"id": "historical_photos.html#jrhp_029"
 
 },{  
 "title": "River Mouth 1911","date": "1911","description": "Black and White photo the Jordan River", 
-"id": "jrhp_030.html"
+"id": "historical_photos.html#jrhp_030"
 
 },{  
 "title": "Dock and Straights 1900-1910","date": "1900","description": "Screenshot of the University of British Columbia","subject": "Settlement", 
-"id": "jrhp_031.html"
+"id": "historical_photos.html#jrhp_031"
+
+},{  
+"title": "First Nations", 
+"id": "first_nations.html"
 
 },{  
 "title": "Ethnobotany of the Nitinaht Indians of Vancouver Island","date": "1983","subject": "Ethnobotany; Plants; Indigenous; First Nations; Biology", 
-"id": "jrhfn_001.html"
+"id": "first_nations.html#jrhfn_001"
 
 },{  
 "title": "Water Dialogue Series: Canada Water Agency What We Heard Report","date": "2022-07-01","creator": "BC Assembly of First Nations","subject": "Advocacy; Canada Water Agency; First Nations", 
-"id": "jrhfn_002.html"
+"id": "first_nations.html#jrhfn_002"
 
 },{  
 "title": "B.C. First Nations plan to appeal ruling to restore natural river flows 70 years later","date": "2022-02-04","creator": "CTV News Vancouver","subject": "Legal Case; River Diversion; First Nations; Advocacy; Salmon", 
-"id": "jrhfn_003.html"
+"id": "first_nations.html#jrhfn_003"
 
 },{  
 "title": "Ditidaht & Pacheedaht Agreement in Principle - Treaty","date": "2019-06-28","subject": "First Nations; Treaty", 
-"id": "jrhfn_004.html"
+"id": "first_nations.html#jrhfn_004"
 
 },{  
 "title": "Case for a Guardian Network Initiative","date": "2020-07-01","creator": "BC First Nations Energy and Mining Council and UVic Environmental Centre","subject": "First Nations; Guardian Programs; Conservation", 
-"id": "jrhfn_005.html"
+"id": "first_nations.html#jrhfn_005"
 
 },{  
 "title": "Step into the River: A Framework for Economic Reconciliation","date": "2022","creator": "Sxwpilemaát Siyám and Lily Raphael","subject": "First Nations; Justice", 
-"id": "jrhfn_006.html"
+"id": "first_nations.html#jrhfn_006"
 
 },{  
 "title": "Jordan River Historical Salmond Survey","date": "2001-1","creator": "RRL Recreation Resources Limited","description": "Survey of public anecdotal knowledge knowledge of salmon conditions pre- 1971","subject": "Salmon; BC Hydro", 
-"id": "jrhfn_007.html"
+"id": "first_nations.html#jrhfn_007"
 
 },{  
 "title": "Review of the Ethnographic and Historical Resources: T'Sou-ke and Pacheedaht First Nations","date": "2008-10-20","creator": "Ministry of Attorney General Legal Services Branch","subject": "First Nations; Land Use; Sooke; Pacheedaht", 
-"id": "jrhfn_008.html"
+"id": "first_nations.html#jrhfn_008"
 
 },{  
 "title": "A sacred rattle, a fleeing tribe, an eagle eating a sockeye: Pacheedaht reflect on their origins and future with recent land purchase","creator": "Eric Plumber","description": "Ceremony Description in relation to Pacheedaht buying historic lands from BC Hydro","subject": "Hydroelectric; Land Use; Pacheedaht; BC Hydro", 
-"id": "jrhfn_009.html"
+"id": "first_nations.html#jrhfn_009"
 
 },{  
 "title": "Pacheedaht First Nation Newsletter","date": "2017-10-1","creator": "Pamela Jones Kristine Pearson","description": "Pacheedaht First Nation Newsletter Land Use Planning","subject": "First Nations; Land Use; Pacheedaht", 
-"id": "jrhfn_010.html"
+"id": "first_nations.html#jrhfn_010"
 
 },{  
 "title": "Site C Project Tripartite Land Agreement","date": "2016-04-07","subject": "Land Agreement; BC Hydro; Land Use; Hydroelectric; Mcleod Lake Indian Band", 
-"id": "jrhfn_011.html"
+"id": "first_nations.html#jrhfn_011"
 
 },{  
 "title": "Pacheedaht First Nation Traditional Use and Occupancy Study Report for Port Metro Vancouver Roberts Bank Terminal 2 Project!","date": "2015-09-23","creator": "Pacheedaht Heritage Project, Pacheedaht First Nation Treaty Department","description": "This report presents information about the Pacheedaht First Nation related to their aboriginal interests (rights and title) and traditional use and current use of lands, waters and resources, as related to the Port Metro Vancouver Roberts Bank Terminal 2 Project. The report has been prepared with consideration of the “Updated Guidelines for the Preparation of an Environmental Impact Statement, Pursuant to the Canadian Environmental Assessment Act, 2012 for the Roberts Bank Terminal 2 Project proposed by Port Metro Vancouver” (RBT2 EIS) dated April 17, 2015. It has also based on topics and formatting requested by Port Metro Vancouver representatives.","subject": "Pacheedaht; Land Use; History; Survey", 
-"id": "jrhfn_013.html"
+"id": "first_nations.html#jrhfn_013"
 
 },{  
 "title": "Pacheedaht First Nation Incremental Treaty Agreement","date": "2013-03-26","subject": "Pacheedaht", 
-"id": "jrhfn_014.html"
+"id": "first_nations.html#jrhfn_014"
 
 },{  
 "title": "Bibliography - Review of the Ethnographic and Historical Resources: T'Sou-ke and Pacheedaht First Nations","date": "2008-10-20","creator": "Ministry of Attorney General Legal Services Branch","subject": "First Nations", 
-"id": "jrhfn_015.html"
+"id": "first_nations.html#jrhfn_015"
 
 },{  
 "title": "Indigenous Oral History and Settlement Archaeology in Barkley Sound, Western Vancouver Island","date": "2015","creator": "Iain McKechnie","subject": "First Nations; Oral History", 
-"id": "jrhfn_016.html"
+"id": "first_nations.html#jrhfn_016"
 
 },{  
 "title": "B.C. clam garden restoration revives millennia-old First Nation food source","date": "2024-09-21","creator": "Alistair Taylor","subject": "Clam Garden; First Nations; Food Systems", 
-"id": "jrhfn_017.html"
+"id": "first_nations.html#jrhfn_017"
 
 },{  
 "title": "Highlights from the Ancient Fish Trap Study","subject": "Fish Traps; First Nations; Food Systems", 
-"id": "jrhfn_018.html"
+"id": "first_nations.html#jrhfn_018"
 
 },{  
 "title": "An underwater mystery on Canada's coast","date": "2021-10-14","creator": "Diane Selkirk","subject": "Clam Garden; First Nations; Food Systems", 
-"id": "jrhfn_019.html"
+"id": "first_nations.html#jrhfn_019"
 
 },{  
 "title": "Step into the River: A Framework for Economic Reconciliation","date": "2022","creator": "Sxwpilemaát Siyám and Lily Raphael","subject": "First Nations; Justice", 
-"id": "jrhfn_020.html"
+"id": "first_nations.html#jrhfn_020"
+
+},{  
+"title": "Settlers History Documents", 
+"id": "settler_history_documents.html"
 
 },{  
 "title": "Little Rills and Waters Numberless","date": "1939-05-31","description": "Sunro Mine Entrance","subject": "Biology; Plants; Fossils: Settler", 
-"id": "jrhs_001.html"
+"id": "settler_history_documents.html#jrhs_001"
 
 },{  
 "title": "Jordan River Enchanting Place","date": "1967-19-02","creator": "Donald Stainsby","description": "Advertisement for the town","subject": "Mining; Settler", 
-"id": "jrhs_002.html"
+"id": "settler_history_documents.html#jrhs_002"
 
 },{  
 "title": "Jordan River drew attention in 1923","date": "2007-08-31","creator": "Elida Peers","subject": "Settlement; Hydroelectric", 
-"id": "jrhs_003.html"
+"id": "settler_history_documents.html#jrhs_003"
 
 },{  
 "title": "The family that built Jordan River","date": "2014-03-12","creator": "Elida Peers","subject": "Settlement; Hydroelectric", 
-"id": "jrhs_004.html"
+"id": "settler_history_documents.html#jrhs_004"
 
 },{  
 "title": "Jordan River forestry a contrast in decades","date": "2022-03-20","creator": "Elida Peers","subject": "Settlement; Forestry; Canadian Overseas Log and Lumber Ltd; Hydroelectric", 
-"id": "jrhs_005.html"
+"id": "settler_history_documents.html#jrhs_005"
 
 },{  
 "title": "Jordan River drew attention in 1923","date": "2011-08-31","creator": "Elida Peers","subject": "Settlement; Hydroelectric;", 
-"id": "jrhs_006.html"
+"id": "settler_history_documents.html#jrhs_006"
 
 },{  
 "title": "Jordan River Enthusiastic about Prison Camp","date": "1974-12-21","creator": "Max Low","subject": "Settlement; Prison", 
-"id": "jrhs_007.html"
+"id": "settler_history_documents.html#jrhs_007"
 
 },{  
 "title": "Welcome to Jordan River Sign","subject": "Settlement", 
-"id": "jrhs_008.html"
+"id": "settler_history_documents.html#jrhs_008"
 
 },{  
 "title": "Shirley - Jordan River Official Community Plan","date": "2016","subject": "Settlement; Regional Planning; First Nations; Transportation; Water; Environment; Adaptation; Environmental Planning", 
-"id": "jrhs_009.html"
+"id": "settler_history_documents.html#jrhs_009"
 
 },{  
 "title": "Bliss Spring","date": "2019-02-14","subject": "Water Spring; Settlement", 
-"id": "jrhs_011.html"
+"id": "settler_history_documents.html#jrhs_011"
 
 },{  
 "title": "Tugs and Barges To and From Jordan River BC","date": "2015","creator": "Arnie Campbell","subject": "Historic Transportation; Settlement", 
-"id": "jrhs_012.html"
+"id": "settler_history_documents.html#jrhs_012"
+
+},{  
+"title": "Environmental Assement History", 
+"id": "environmental_assesment_history.html"
 
 },{  
 "title": "Hydrogeologic Assessment and Water Quality Monitoring of the Wood Waste Landfill Site, Jordan River, British Columbia","date": "2007-12-12","creator": "Golder Associates","subject": "Environmental Assessment; Landfill; Woodwaste; Water; Hydrogeology; Toxicity; Contamination; Pollution", 
-"id": "jrhea_001.html"
+"id": "environmental_assesment_history.html#jrhea_001"
 
 },{  
 "title": "PHASE I ENVIRONMENTAL SITE ASSESSMENT JORDAN RIVER GROUP SOUTHERN VANCOUVER ISLAND WFP LANDS JORDAN RIVER, BC","date": "2008-08-24","creator": "Golder Associates","subject": "Environmental Assessment; Landfill; Woodwaste; Water; Hydrogeology; Toxicity; Contamination; Pollution", 
-"id": "jrhea_002.html"
+"id": "environmental_assesment_history.html#jrhea_002"
 
 },{  
 "title": "Developer’s alternate vision for Jordan River designed with public in mind","date": "2008-08-18","creator": "Ender Ilkay","description": "Plan for property on Island’s south coast provides access to beaches and thousands of acres of green space","subject": "Development Plan; Settlement; Development", 
-"id": "jrhea_003.html"
+"id": "environmental_assesment_history.html#jrhea_003"
 
 },{  
 "title": "Response to MOE E-mail RE: Request for Pre Approvals under Protocol 6 for Jordan River sites","date": "2011-10-28","creator": "Stefan Quaglia","subject": "Zinc; Ecology; Pollution Exposure; Food Chain; Toxicity Testing;", 
-"id": "jrhea_004.html"
+"id": "environmental_assesment_history.html#jrhea_004"
 
 },{  
 "title": "TABLES, DATA, AND PERMITS RELATED TO APEC JRG2-01 WOOD WASTE LANDFILL","subject": "Environmental Assessment; Landfill; Woodwaste; Water; Toxicity; Contamination; Pollution", 
-"id": "jrhea_005.html"
+"id": "environmental_assesment_history.html#jrhea_005"
 
 },{  
 "title": "Report of Findings – Preliminary Site Investigation","date": "2012-20-06","creator": "Michael Geraghty","subject": "Environmental Assessment; Landfill; Woodwaste; Water; Toxicity; Contamination; Pollution", 
-"id": "jrhea_006.html"
+"id": "environmental_assesment_history.html#jrhea_006"
 
 },{  
 "title": "Summary of Site Condition","date": "2012-11-23","subject": "Environmental Assessment; Landfill; Woodwaste; Water; Hydrogeology; Toxicity; Contamination; Pollution", 
-"id": "jrhea_007.html"
+"id": "environmental_assesment_history.html#jrhea_007"
 
 },{  
 "title": "Treatment of Wood Waste Landfill Leachate Using Engineered Wetlands","creator": "Richard Johns, Antonia Gunardi,","subject": "Wood Waste Landfill; Remediation; Engineered Wetland", 
-"id": "jrhea_008.html"
+"id": "environmental_assesment_history.html#jrhea_008"
+
+},{  
+"title": "Newspaper: Hydroelectric: Pesticide", 
+"id": "newspaper_hydro_pesticide.html"
 
 },{  
 "title": "Dow Chemical Here to Defend Spraying","date": "1978-05-16","creator": "Ian Corrance","subject": "Dow Chemicals; Herbicides; Hydroelectric;", 
-"id": "jrnphhp_001.html"
+"id": "newspaper_hydro_pesticide.html#jrnphhp_001"
 
 },{  
 "title": "Wildlife Corner","date": "1980-11-11","creator": "Ian Corrance","subject": "Dow Chemicals; Herbicides; Hydroelectric", 
-"id": "jrnphhp_002.html"
+"id": "newspaper_hydro_pesticide.html#jrnphhp_002"
 
 },{  
 "title": "Hydro staff queried on poison control","date": "1979-06-28","creator": "Times Colonist","subject": "BC Hydro; Tordon 10K; Herbicides; Hydroelectric", 
-"id": "jrnphhp_003.html"
+"id": "newspaper_hydro_pesticide.html#jrnphhp_003"
 
 },{  
 "title": "Hydro 24D draws Sooke protest","date": "1980-05-08","creator": "Brenda Dalglish","subject": "BC Hydro; Herbicides;2:4-D; Pesticides; Hydroelectric; Protest; Sooke; First Nations", 
-"id": "jrnphhp_004.html"
+"id": "newspaper_hydro_pesticide.html#jrnphhp_004"
 
 },{  
 "title": "Hydro backs off on 2,4-D Plans","date": "1980-06-10","creator": "Brenda Dalglish","subject": "BC Hydro; Herbicides;2:4-D; Pesticides; Hydroelectric; Protest; Sooke; First Nations", 
-"id": "jrnphhp_005.html"
+"id": "newspaper_hydro_pesticide.html#jrnphhp_005"
 
 },{  
 "title": "Herbicide porbe ordered by A-G","date": "1980-08-03","creator": "Times Colonist","subject": "BC Hydro; Herbicides; 2:4-D; Hydroelectric", 
-"id": "jrnphhp_006.html"
+"id": "newspaper_hydro_pesticide.html#jrnphhp_006"
 
 },{  
 "title": "Hydro, Workers Charged","date": "1980-10-17","creator": "Vancouver Sun", 
-"id": "jrnphhp_007.html"
+"id": "newspaper_hydro_pesticide.html#jrnphhp_007"
+
+},{  
+"title": "Newspaper: Hydroelectric: 1900-1920", 
+"id": "newspaper_hydroelectric_1900_1920.html"
 
 },{  
 "title": "Good Progress on Dam","date": "1910-07-31","creator": "The New Westminster News","subject": "Hydroelectric; Vancouver Island Power", 
-"id": "jrnph1900-1910_001.html"
+"id": "newspaper_hydroelectric_1900_1920.html#jrnph1900-1910_001"
 
 },{  
 "title": "Cost of the Dam","date": "1913-06-21","creator": "The Week","subject": "Hydroelectric", 
-"id": "jrnph1900-1910_002.html"
+"id": "newspaper_hydroelectric_1900_1920.html#jrnph1900-1910_002"
 
 },{  
 "title": "Largest Dam in Canada Built and Inspected","date": "1913-06-22","creator": "The New Westminster News","subject": "Hydroelectric", 
-"id": "jrnph1900-1910_003.html"
+"id": "newspaper_hydroelectric_1900_1920.html#jrnph1900-1910_003"
 
 },{  
 "title": "Jordan Wafer Now Being Stored - Preparing for Dry Months","date": "1913-05-29","creator": "The New Westminster News","subject": "Hydroelectric", 
-"id": "jrnph1900-1910_004.html"
+"id": "newspaper_hydroelectric_1900_1920.html#jrnph1900-1910_004"
 
 },{  
 "title": "Develop Plant to its Full Capacity","date": "1914-03-13","creator": "The New Westminster News","description": "The article mentions an increase to 25K horsepower from 12K horsepower though expanding reservoir capacity","subject": "Hydroelectric", 
-"id": "jrnph1900-1910_005.html"
+"id": "newspaper_hydroelectric_1900_1920.html#jrnph1900-1910_005"
 
 },{  
 "title": "The Water Powers of British Columbia","date": "1915-11-12","creator": "The Western Call","subject": "Hydroelectric", 
-"id": "jrnph1900-1910_006.html"
+"id": "newspaper_hydroelectric_1900_1920.html#jrnph1900-1910_006"
 
 },{  
 "title": "The B.C. Electric Company","date": "1917-07--7","creator": "The Week","subject": "Hydroelectric; B.C. Electric Company", 
-"id": "jrnph1900-1910_007.html"
+"id": "newspaper_hydroelectric_1900_1920.html#jrnph1900-1910_007"
 
 },{  
 "title": "The Power Plant at the Jordan River","date": "1911-12-20","creator": "Times Colonist","subject": "Hydroelectric", 
-"id": "jrnph1900-1910_008.html"
+"id": "newspaper_hydroelectric_1900_1920.html#jrnph1900-1910_008"
 
 },{  
 "title": "To Open City's Lovely Suburbs","date": "1909-08-19","creator": "Victoria Daily Times","subject": "Hydroelectric", 
-"id": "jrnph1900-1910_009.html"
+"id": "newspaper_hydroelectric_1900_1920.html#jrnph1900-1910_009"
 
 },{  
 "title": "Power Plant on Island","date": "1909-10-02","creator": "The Province","description": "Plans for Utilization of Jordan River Power Presented for Approval","subject": "Hydroelectric", 
-"id": "jrnph1900-1910_010.html"
+"id": "newspaper_hydroelectric_1900_1920.html#jrnph1900-1910_010"
 
 },{  
 "title": "Scope of Project at Jordan River","date": "1909-11-05","creator": "Victoria Daily Times","subject": "Hydroelectric", 
-"id": "jrnph1900-1910_012.html"
+"id": "newspaper_hydroelectric_1900_1920.html#jrnph1900-1910_012"
 
 },{  
 "title": "Payroll os a Large One","date": "1910-09-17","creator": "Victoria Daily Times","subject": "Hydroelectric Labor", 
-"id": "jrnph1900-1910_013.html"
+"id": "newspaper_hydroelectric_1900_1920.html#jrnph1900-1910_013"
 
 },{  
 "title": "Realize Extent of Jordan River Plant","date": "1915-07-14","creator": "Victoria Daily Times","description": "Dam took 14 months to Build. 300 ft long, 450 tons","subject": "Hydroelectric", 
-"id": "jrnph1900-1910_015.html"
+"id": "newspaper_hydroelectric_1900_1920.html#jrnph1900-1910_015"
 
 },{  
 "title": "Water Power are Asser Which Has Yet only Begun Development","date": "1919-10-07","creator": "Victoria Daily Times","subject": "Hydroelectric", 
-"id": "jrnph1900-1910_016.html"
+"id": "newspaper_hydroelectric_1900_1920.html#jrnph1900-1910_016"
 
 },{  
 "title": "Island Power Company Completes Huge Dam","date": "1912-04-23","creator": "The Daily News","subject": "Hydroelectric", 
-"id": "jrnph1900-1910_017.html"
+"id": "newspaper_hydroelectric_1900_1920.html#jrnph1900-1910_017"
 
 },{  
 "title": "BCEL Talks about Increased Consumption","date": "1908-09-22","creator": "The Daily News","subject": "Hydroelectric", 
-"id": "jrnph1900-1910_018.html"
+"id": "newspaper_hydroelectric_1900_1920.html#jrnph1900-1910_018"
 
 },{  
 "title": "Millions to Save Millions","date": "1912-11-16","creator": "The Week","subject": "Hydroelectric", 
-"id": "jrnph1900-1910_019.html"
+"id": "newspaper_hydroelectric_1900_1920.html#jrnph1900-1910_019"
 
 },{  
 "title": "Gets Contract for Welded Steel Pipes","date": "1913-08-13","creator": "Daily Building Record","subject": "Hydroelectric", 
-"id": "jrnph1900-1910_020.html"
+"id": "newspaper_hydroelectric_1900_1920.html#jrnph1900-1910_020"
 
 },{  
 "title": "Annual Meeting of B.C. Electric","date": "1914-01-08","creator": "The New Westminster News","description": "Shareholders Opposed Increase of Capital—Decreased Profit Average Return 4.5' Per Cent.","subject": "Hydroelectric", 
-"id": "jrnph1900-1910_0205.html"
+"id": "newspaper_hydroelectric_1900_1920.html#jrnph1900-1910_0205"
 
 },{  
 "title": "Jordan River Power Dam Ready for Work","date": "1913-08-26","creator": "The New Westminster News","subject": "Hydroelectric", 
-"id": "jrnph1900-1910_021.html"
+"id": "newspaper_hydroelectric_1900_1920.html#jrnph1900-1910_021"
 
 },{  
 "title": "Water Power Sought by B.C.E.R. Company","date": "1908-09-22","creator": "The Daily News","subject": "Hydroelectric; B.C.E.R", 
-"id": "jrnph1900-1910_022.html"
+"id": "newspaper_hydroelectric_1900_1920.html#jrnph1900-1910_022"
 
 },{  
 "title": "The City and the B.C.E.R.","date": "1909-02-13","creator": "The Week","subject": "Hydroelectric; B.C.E.R", 
-"id": "jrnph1900-1910_024.html"
+"id": "newspaper_hydroelectric_1900_1920.html#jrnph1900-1910_024"
 
 },{  
 "title": "Still Blocking the Way","date": "1909-05-15","creator": "The Week","subject": "Hydroelectric; B.C.E.R", 
-"id": "jrnph1900-1910_025.html"
+"id": "newspaper_hydroelectric_1900_1920.html#jrnph1900-1910_025"
 
 },{  
 "title": "The Water By-Law","date": "1909-08-21","creator": "The Week","subject": "Hydroelectric; B.C.E.R", 
-"id": "jrnph1900-1910_026.html"
+"id": "newspaper_hydroelectric_1900_1920.html#jrnph1900-1910_026"
 
 },{  
 "title": "B.C.E.R and Jordan River","date": "1909-06-19","creator": "The Week","subject": "Hydroelectric; B.C.E.R", 
-"id": "jrnph1900-1910_027.html"
+"id": "newspaper_hydroelectric_1900_1920.html#jrnph1900-1910_027"
 
 },{  
 "title": "The Jordan River Scheme","date": "1909-06-26","creator": "The Week","subject": "Hydroelectric; B.C.E.R", 
-"id": "jrnph1900-1910_028.html"
+"id": "newspaper_hydroelectric_1900_1920.html#jrnph1900-1910_028"
 
 },{  
 "title": "Victoria Bylaw Passes","date": "1909-08-26","creator": "The Daily News","subject": "Hydroelectric; B.C.E.R", 
-"id": "jrnph1900-1910_029.html"
+"id": "newspaper_hydroelectric_1900_1920.html#jrnph1900-1910_029"
 
 },{  
 "title": "Jordan River","date": "1909-10-30","creator": "The Week","subject": "Hydroelectric; B.C.E.R", 
-"id": "jrnph1900-1910_030.html"
+"id": "newspaper_hydroelectric_1900_1920.html#jrnph1900-1910_030"
 
 },{  
 "title": "The B.C. Electric Company","date": "1910-01-08","creator": "The Week","subject": "Hydroelectric; B.C.E.R", 
-"id": "jrnph1900-1910_031.html"
+"id": "newspaper_hydroelectric_1900_1920.html#jrnph1900-1910_031"
 
 },{  
 "title": "The Vulcan Iron Works of the city has secured the contract for the assembling of steel pipe","date": "1910-07-07","creator": "The Daily News","subject": "Hydroelectric; B.C.E.R", 
-"id": "jrnph1900-1910_032.html"
+"id": "newspaper_hydroelectric_1900_1920.html#jrnph1900-1910_032"
 
 },{  
 "title": "Engineers and Contractors","date": "1910-12-17","creator": "The Week","subject": "Hydroelectric; B.C.E.R", 
-"id": "jrnph1900-1910_033.html"
+"id": "newspaper_hydroelectric_1900_1920.html#jrnph1900-1910_033"
 
 },{  
 "title": "B.C.E.R. Buys Site for Power Plant","date": "1911-09-14","creator": "Vancouver Building Record","subject": "Hydroelectric; B.C.E.R", 
-"id": "jrnph1900-1910_034.html"
+"id": "newspaper_hydroelectric_1900_1920.html#jrnph1900-1910_034"
 
 },{  
 "title": "Water Act, 1909, and Amending Acts","date": "1911-06-24","creator": "The Week","subject": "Hydroelectric; Law Amendment", 
-"id": "jrnph1900-1910_035.html"
+"id": "newspaper_hydroelectric_1900_1920.html#jrnph1900-1910_035"
 
 },{  
 "title": "B.C. Electric CO. Denies that it will Shut Down Works","date": "1912-08-24","creator": "The British Colombia Federationist","subject": "Hydroelectric; B.C. Electric Company", 
-"id": "jrnph1900-1910_036.html"
+"id": "newspaper_hydroelectric_1900_1920.html#jrnph1900-1910_036"
 
 },{  
 "title": "Contract for Huge Dam Across the Jordan River","date": "1912-08-22","creator": "Daily Building Record","subject": "Hydroelectric; B.C. Electric Company", 
-"id": "jrnph1900-1910_037.html"
+"id": "newspaper_hydroelectric_1900_1920.html#jrnph1900-1910_037"
 
 },{  
 "title": "B.C.E.R. Building Big Dam at Jordan River","date": "1912-08-25","creator": "Westminster Daily News","subject": "Hydroelectric; B.C.E.R", 
-"id": "jrnph1900-1910_038.html"
+"id": "newspaper_hydroelectric_1900_1920.html#jrnph1900-1910_038"
+
+},{  
+"title": "Newspaper: Hydroelectric: 1940-1920", 
+"id": "newspaper_hydroelectric_1920_1940.html"
 
 },{  
 "title": "News of the Lumber Workers Industrial Unit of the O.B.U.","date": "1920-01-28","creator": "The British Colombia Federationist","subject": "Logging", 
-"id": "jrnph1920-40_001.html"
+"id": "newspaper_hydroelectric_1920_1940.html#jrnph1920-40_001"
 
 },{  
 "title": "Jordan River Cathels Sorenson Camp","date": "1920-03-26","creator": "The British Colombia Federationist","subject": "Settlement", 
-"id": "jrnph1920-40_002.html"
+"id": "newspaper_hydroelectric_1920_1940.html#jrnph1920-40_002"
 
 },{  
 "title": "Milligan Bro's Camp","date": "1920-04-09","creator": "The British Colombia Federationist","subject": "Settlement", 
-"id": "jrnph1920-40_003.html"
+"id": "newspaper_hydroelectric_1920_1940.html#jrnph1920-40_003"
 
 },{  
 "title": "Lumber and Camp Workers Industrial Unit of the O.B.U.","date": "1920-04-16","creator": "The British Colombia Federationist","subject": "Hydroelectric", 
-"id": "jrnph1920-40_004.html"
+"id": "newspaper_hydroelectric_1920_1940.html#jrnph1920-40_004"
 
 },{  
 "title": "Bessborough Day","date": "1920-04-30","creator": "The British Colombia Federationist","subject": "Hydroelectric", 
-"id": "jrnph1920-40_005.html"
+"id": "newspaper_hydroelectric_1920_1940.html#jrnph1920-40_005"
 
 },{  
 "title": "Add Enormously to Present Power","date": "1928-11-14","creator": "The Daily News","subject": "Hydroelectric", 
-"id": "jrnph1920-40_006.html"
+"id": "newspaper_hydroelectric_1920_1940.html#jrnph1920-40_006"
 
 },{  
 "title": "Jordan River Plant Of B.C. Electric Railway Visited By B. of T. Members","date": "1929-07-19","creator": "Cumberland Islander","subject": "Hydroelectric", 
-"id": "jrnph1920-40_007.html"
+"id": "newspaper_hydroelectric_1920_1940.html#jrnph1920-40_007"
 
 },{  
 "title": "Largest Water Power On Vancouver Island Will Be Examined for Development Of Power for Industries","date": "1929-07-19","creator": "Cumberland Islander","subject": "Hydroelectric", 
-"id": "jrnph1920-40_008.html"
+"id": "newspaper_hydroelectric_1920_1940.html#jrnph1920-40_008"
 
 },{  
 "title": "Jordan River Now Developed to Limit","date": "1930-12-06","creator": "Victoria Daily TImes","subject": "Hydroelectric; Railway", 
-"id": "jrnph1920-40_010.html"
+"id": "newspaper_hydroelectric_1920_1940.html#jrnph1920-40_010"
+
+},{  
+"title": "Newspaper: Mining: Genral", 
+"id": "newspaper_mining_general.html"
 
 },{  
 "title": "Exploration in British Columbia","date": "2015-12-01","creator": "Association for Mineral Exploration (AME)","subject": "Mining", 
-"id": "jr-np-m-general_001.html"
+"id": "newspaper_mining_general.html#jr-np-m-general_001"
 
 },{  
 "title": "Historic Mine Sites in British","date": "2003","creator": "Lisa N. Barazzuol and Gregg G. Stewart","subject": "Mining; Mining Sites", 
-"id": "jr-np-m-general_002.html"
+"id": "newspaper_mining_general.html#jr-np-m-general_002"
 
 },{  
 "title": "BC Contaminated Mine Sites","date": "2021","subject": "Mining; Mining Sites; Map; Contamination; Pollution", 
-"id": "jr-np-m-general_003.html"
+"id": "newspaper_mining_general.html#jr-np-m-general_003"
 
 },{  
 "title": "B.C.’s top polluting and risky mines","date": "2023","subject": "Mining; Pollution; Mining Sites", 
-"id": "jr-np-m-general_004.html"
+"id": "newspaper_mining_general.html#jr-np-m-general_004"
 
 },{  
 "title": "Closure, Reclamation & Abandoned Mines","subject": "Mining; Reclamation; Abandoned Mines", 
-"id": "jr-np-m-general_005.html"
+"id": "newspaper_mining_general.html#jr-np-m-general_005"
 
 },{  
 "title": "Factual Record BC Mining Submission","subject": "Mining; Mining Violations; Fisheries Act; Abandoned Mines", 
-"id": "jr-np-m-general_006.html"
+"id": "newspaper_mining_general.html#jr-np-m-general_006"
 
 },{  
 "title": "A Century of Discovery","date": "2012","creator": "Doug Donnelly","subject": "Mining; Mining Industry Publication", 
-"id": "jr-np-m-general_007.html"
+"id": "newspaper_mining_general.html#jr-np-m-general_007"
 
 },{  
 "title": "Characterization study of As and Se in pyrites from two historic mines in British Columbia","date": "2019","creator": "Jocelyn Ross-Lindeman; Dirk Kirste","subject": "Mining; Mineralogy", 
-"id": "jr-np-m-general_008.html"
+"id": "newspaper_mining_general.html#jr-np-m-general_008"
 
 },{  
 "title": "Mining’s Problem with Waste","date": "2002","creator": "Catherine Coumans","subject": "Mining; Pollution; Contamination", 
-"id": "jr-np-m-general_009.html"
+"id": "newspaper_mining_general.html#jr-np-m-general_009"
 
 },{  
 "title": "IMPACT ASSESSMENT OF METAL MINES IN BRITISH COLUMBIA: AN EVALUATION","date": "1993-07","creator": "Thomas Soehl","subject": "Mining", 
-"id": "jr-np-m-general_010.html"
+"id": "newspaper_mining_general.html#jr-np-m-general_010"
+
+},{  
+"title": "Newspaper: Hydroelectric: 1960-1970", 
+"id": "newspaper_mining_recent.html"
 
 },{  
 "title": "The rebirth of B.C.’s Jordan River is a victory for biological activism","date": "2016-10-17","creator": "Mark Hume","subject": "Salmon; Mining; Restoration; Logging; Hydroelectric; Activism; Ecology", 
-"id": "jr-np-m-recent_001.html"
+"id": "newspaper_mining_recent.html#jr-np-m-recent_001"
 
 },{  
 "title": "Jordan River surfing area to be tested for pollution","date": "2016-10-19","creator": "Amy Smart","subject": "Surfing; Pollution; Contamination; Mining", 
-"id": "jr-np-m-recent_002.html"
+"id": "newspaper_mining_recent.html#jr-np-m-recent_002"
 
 },{  
 "title": "Provincial failures on mining pollution leaving taxpayers on the hook","date": "2016-10-16","creator": "Stephen Hume","subject": "Mining; Salmon; Pollution; Contamination", 
-"id": "jr-np-m-recent_003.html"
+"id": "newspaper_mining_recent.html#jr-np-m-recent_003"
 
 },{  
 "title": "B.C. mines ministry investigating pollution from old Vancouver Island mine","date": "2016-10-08","creator": "Amy Smart","subject": "Mining; Pollution; Contamination; Teck", 
-"id": "jr-np-m-recent_004.html"
+"id": "newspaper_mining_recent.html#jr-np-m-recent_004"
 
 },{  
 "title": "Ministry doesn't know why contaminated site was deemed clean","date": "2016-10-08","creator": "Amy Smart","subject": "Mining; Pollution; Contamination; Ministry of Energy; Map", 
-"id": "jr-np-m-recent_005.html"
+"id": "newspaper_mining_recent.html#jr-np-m-recent_005"
 
 },{  
 "title": "Editorial: Province should clean up mine sites","date": "2016-10-11","creator": "Victoria Times-Colonist Staff","subject": "Mining; Metal Leaching", 
-"id": "jr-np-m-recent_006.html"
+"id": "newspaper_mining_recent.html#jr-np-m-recent_006"
 
 },{  
 "title": "B.C.'s failure on mining pollution leaving taxpayers on the hook","date": "2016-10-17","creator": "Stephen Hume","subject": "Mining; Pollution; Contamination; Ministry of Energy; Taxpayers", 
-"id": "jr-np-m-recent_007.html"
+"id": "newspaper_mining_recent.html#jr-np-m-recent_007"
 
 },{  
 "title": "Copper Mine Tailings poison the Jordan River","date": "2016-10-05","creator": "Stephen Hume","subject": "Mining; Salmon; Metal Leaching;", 
-"id": "jr-np-m-recent_008.html"
+"id": "newspaper_mining_recent.html#jr-np-m-recent_008"
 
 },{  
 "title": "A Sense of Excitement","date": "2017-03-11","creator": "The Vancouver Sun","subject": "Mining; Hydroelectric; Logging; History", 
-"id": "jr-np-m-recent_010.html"
+"id": "newspaper_mining_recent.html#jr-np-m-recent_010"
+
+},{  
+"title": "Newspaper: Logging", 
+"id": "newspaper_logging.html"
 
 },{  
 "title": "OSPRAS OTTER POINT, SHIRLEY & JORDAN RIVER NEWSLETTER","date": "2015-05","creator": "OPERA","description": "Section 9 - Details about logging history","subject": "Dumping; Logging; Historical Review", 
-"id": "jr-np-l_001.html"
+"id": "newspaper_logging.html#jr-np-l_001"
 
 },{  
 "title": "B.C. Forest Trio buying up Rayonier Canada Assets","date": "1980-08-15","creator": "Times Colonist","subject": "Logging; B.C Forest Products; Rayonier Canada; ITT Industries Canada", 
-"id": "jr-np-l_002.html"
+"id": "newspaper_logging.html#jr-np-l_002"
 
 },{  
 "title": "Point No Point and its Railway","date": "1983-02-20","creator": "Patrick Hind","subject": "Logging; island logging company; log boom", 
-"id": "jr-np-l_003.html"
+"id": "newspaper_logging.html#jr-np-l_003"
 
 },{  
 "title": "BCE change-over for New Year's Eve","date": "1961-12-21","creator": "Coast News","subject": "Logging", 
-"id": "jr-np-l_004.html"
+"id": "newspaper_logging.html#jr-np-l_004"
 
 },{  
 "title": "The Jordan River Lumber Company, of Vancouver Island, has disposed of 32.000 acres of timber to Michigan and Seattle capitalists for a million dollars.'","date": "1909-04-02","creator": "Boundary Creek Times","description": "The Jordan River Lumber Company, of Vancouver Island, has disposed of 32.000 acres of timber to Michigan and Seattle capitalists for a million dollars.'","subject": "Logging; The Jordan River Lumber Company", 
-"id": "jr-np-l-1900-1920_001.html"
+"id": "newspaper_logging.html#jr-np-l-1900-1920_001"
 
 },{  
 "title": "CERTIFICATE OF THE REGISTRATION OF AN EXTRA-PROVINCIAL COMPANY","date": "1908-12-07","creator": "The Week","subject": "Logging; The Jordan River Lumber Company", 
-"id": "jr-np-l-1900-1920_002.html"
+"id": "newspaper_logging.html#jr-np-l-1900-1920_002"
 
 },{  
 "title": "W. R. Welch and B. T. Lyons, of Now York, who recently bought the limits of the Jordan River Timber company","date": "1909-04-08","creator": "The Cranbrook Herald","subject": "Loggin; The Jordan River Lumber Company", 
-"id": "jr-np-l-1900-1920_003.html"
+"id": "newspaper_logging.html#jr-np-l-1900-1920_003"
 
 },{  
 "title": "News of the Dominion","date": "1909-04-08","creator": "The Daily News","subject": "Logging", 
-"id": "jr-np-l-1900-1920_004.html"
+"id": "newspaper_logging.html#jr-np-l-1900-1920_004"
 
 },{  
 "title": "B.C. Timber Profitable","date": "1910-12-14","creator": "The Mail-Herald","subject": "Logging", 
-"id": "jr-np-l-1900-1920_005.html"
+"id": "newspaper_logging.html#jr-np-l-1900-1920_005"
 
 },{  
 "title": "Grants Allowed on Surveyors' Reports: Committee Hears Statement Concerning Tracts of Land on Jordan River, Vancouver. Island.","date": "1916-05-04","creator": "The Daily News","subject": "Logging; Land Grants", 
-"id": "jr-np-l-1900-1920_006.html"
+"id": "newspaper_logging.html#jr-np-l-1900-1920_006"
 
 },{  
 "title": "Big Island Timber Deal is Under Way","date": "1918-05-17","creator": "British Columbia Record","subject": "Logging", 
-"id": "jr-np-l-1900-1920_007.html"
+"id": "newspaper_logging.html#jr-np-l-1900-1920_007"
 
 },{  
 "title": "Water Notice: Clearing-Streams","date": "1914-10-03","creator": "The Week","subject": "Logging", 
-"id": "jr-np-l-1900-1920_008.html"
+"id": "newspaper_logging.html#jr-np-l-1900-1920_008"
 
 },{  
 "title": "Million Dollar Lumber Deal: Americans Purchase Jordan River Limits","date": "1909-03-16","creator": "The Victoria Daily Times","subject": "Logging", 
-"id": "jr-np-l-1900-1920_009.html"
+"id": "newspaper_logging.html#jr-np-l-1900-1920_009"
 
 },{  
 "title": "Drowns in Boom","date": "1928-07-16","creator": "The Daily News","subject": "Drowning; Logging; Booming", 
-"id": "jr-np-l-1921-1960_001.html"
+"id": "newspaper_logging.html#jr-np-l-1921-1960_001"
 
 },{  
 "title": "Hunt Whales off Vancouver Island","date": "1928-08-31","creator": "The Daily News","subject": "Logging; Whale Hunting; History", 
-"id": "jr-np-l-1921-1960_002.html"
+"id": "newspaper_logging.html#jr-np-l-1921-1960_002"
 
 },{  
 "title": "Falling Tree is Cause of Death","date": "1932-04-17","creator": "Nelson Daily News","subject": "Logging; Casualty", 
-"id": "jr-np-l-1921-1960_003.html"
+"id": "newspaper_logging.html#jr-np-l-1921-1960_003"
 
 },{  
 "title": "Timber Licence Offered in Slocan","date": "1937-03-30","creator": "Nelson Daily News","subject": "Logging", 
-"id": "jr-np-l-1921-1960_004.html"
+"id": "newspaper_logging.html#jr-np-l-1921-1960_004"
 
 },{  
 "title": "Robert Burns","date": "1960-01-21","subject": "Logging", 
-"id": "jr-np-l-1921-1960_005.html"
+"id": "newspaper_logging.html#jr-np-l-1921-1960_005"
+
+},{  
+"title": "Newspaper: Fishing", 
+"id": "newspaper_fishing.html"
 
 },{  
 "title": "Tons of Sockeyes Caught in Traps","date": "1906-07-17","creator": "The Daily News","subject": "Fishing; Salmon; Traps", 
-"id": "jr-np-fish_001.html"
+"id": "newspaper_fishing.html#jr-np-fish_001"
 
 },{  
 "title": "Application for Foreshore Rights","date": "1902","creator": "W. C. WELLS","subject": "Fishing; Traps", 
-"id": "jr-np-fish_003.html"
+"id": "newspaper_fishing.html#jr-np-fish_003"
 
 },{  
 "title": "REPORT OF THE FISHERIES COMMISSIONER FOR BRITISH COLUMBIA","date": "1902","creator": "John Pease Babcock","subject": "Fishing; Traps", 
-"id": "jr-np-fish_004.html"
+"id": "newspaper_fishing.html#jr-np-fish_004"
 
 },{  
 "title": "Otter Point History","date": "2014-01-01","subject": "Otter Point; Settlement; Fishing", 
-"id": "jr-np-fish_005.html"
+"id": "newspaper_fishing.html#jr-np-fish_005"
 
 },{  
 "title": "Traps and Weirs","subject": "Indigenous Fishing Practices; Fishing", 
-"id": "jr-np-fish_007.html"
+"id": "newspaper_fishing.html#jr-np-fish_007"
 
 },{  
 "title": "Fish Traps on the British Columbia Coast","date": "2017","creator": "John MacFarlane","subject": "Fishing; Traps;", 
-"id": "jr-np-fish_008.html"
+"id": "newspaper_fishing.html#jr-np-fish_008"
 
 },{  
 "title": "The Rise and Demise of J.H. Todd and Sons, British Columbia’s Enduring Independent Salmon Canners","date": "2015","creator": "Mickey Fitzgerald","subject": "Fishing; Canning; J. H. Todd & Sons", 
-"id": "jr-np-fish_009.html"
+"id": "newspaper_fishing.html#jr-np-fish_009"
 
 },{  
 "title": "Turning Points in the Development of the British Columbia Salmon Fishery","date": "2000","creator": "Frank Millerd","subject": "salmon; fishing rights", 
-"id": "jr-np-fish_010.html"
+"id": "newspaper_fishing.html#jr-np-fish_010"
 
 },{  
 "title": "Early Attempts at Establishing Exclusive Rights in the British Columbia Salmon Fishery","date": "2007-02","creator": "Frank Millerd","subject": "Fishing; Traps;", 
-"id": "jr-np-fish_011.html"
+"id": "newspaper_fishing.html#jr-np-fish_011"
 
 },{  
 "title": "Will Construct Traps","date": "1904-04-16","subject": "Fishing; Canning; J. H. Todd & Sons", 
-"id": "jr-np-fish_012.html"
+"id": "newspaper_fishing.html#jr-np-fish_012"
 
 },{  
 "title": "Like a Hotel California for Fish","date": "2021-09-02","creator": "Brian Payton","subject": "Indigenous Fishing Practices; Fishing; Traps", 
-"id": "jr-np-fish_013.html"
+"id": "newspaper_fishing.html#jr-np-fish_013"
 
 },{  
 "title": "Can Ancient Indigenous Technology Help Save BC’s Salmon?","date": "2021-09-01","creator": "Brian Payton","subject": "Indigenous Fishing Practices; Fishing; Traps; Restoration; Preservation", 
-"id": "jr-np-fish_014.html"
+"id": "newspaper_fishing.html#jr-np-fish_014"
 
 },{  
 "title": "Sooke once had a salmon cannery","date": "2012-10-24","creator": "Elida Peers","subject": "J. H. Todd & Sons; Canning; Sooke Harbour Fishing and Packing Company; Fishing", 
-"id": "jr-np-fish_015.html"
+"id": "newspaper_fishing.html#jr-np-fish_015"
 
 },{  
 "title": "SOOKE HISTORY: Living on a salmon trap","date": "2016-07-06","creator": "Elida Peers","subject": "J. H. Todd & Sons; Canning; Sooke Harbour Fishing and Packing Company; Fishing; Indigenous Fishing Practices; Fishing; Traps", 
-"id": "jr-np-fish_016.html"
+"id": "newspaper_fishing.html#jr-np-fish_016"
 
 },{  
 "title": "Highlights from the Ancient Fish Trap Study","subject": "Indigenous Fishing Practices; Fishing; Traps", 
-"id": "jr-np-fish_017.html"
+"id": "newspaper_fishing.html#jr-np-fish_017"
 
 },{  
 "title": "An underwater mystery on Canada's coast","date": "2021-10-14","creator": "Diane Selkirk","description": "Tens of thousands of wooden stakes poking up from British Columbia's shoreline have smashed a long-held stereotype of Canada's First Nation people.","subject": "Indigenous Fishing Practices; Fishing; Traps", 
-"id": "jr-np-fish_018.html"
+"id": "newspaper_fishing.html#jr-np-fish_018"
 
 },{  
 "title": "Lease Notice for Fishing","date": "1902-08-05","subject": "Fishing; Lease", 
-"id": "jr-np-fish_021.html"
+"id": "newspaper_fishing.html#jr-np-fish_021"
+
+},{  
+"title": "Newspaper: Settlement", 
+"id": "newspaper_settlement.html"
 
 },{  
 "title": "A Survey Party on board the S.S. Quadra proceeded to the Jordan River and commenced a Survey...","date": "1901-04-05","creator": "The Golden Era","subject": "Settlement", 
-"id": "jr-np-s_001.html"
+"id": "newspaper_settlement.html#jr-np-s_001"
 
 },{  
 "title": "Tug With a History","date": "1908-01-27","creator": "The Daily News","subject": "Settlement; Lumber", 
-"id": "jr-np-s_002.html"
+"id": "newspaper_settlement.html#jr-np-s_002"
 
 },{  
 "title": "Killed by Derrick","date": "1909-05-16","creator": "The Daily News","subject": "Settlement", 
-"id": "jr-np-s_003.html"
+"id": "newspaper_settlement.html#jr-np-s_003"
 
 },{  
 "title": "Victoria Must Make Enormous Progress During 1910, Because During 1910 the Following Will Be Under Way","date": "1910-02-13","creator": "The Daily News","subject": "Settlement; Railway; Electric Power", 
-"id": "jr-np-s_004.html"
+"id": "newspaper_settlement.html#jr-np-s_004"
 
 },{  
 "title": "B.C.E.R. Extensions","date": "1911-02-25","creator": "The Week","subject": "Settlement; Power Plant", 
-"id": "jr-np-s_005.html"
+"id": "newspaper_settlement.html#jr-np-s_005"
 
 },{  
 "title": "The Islander","date": "1914-02-07","creator": "The Islander","subject": "Settlement", 
-"id": "jr-np-s_006.html"
+"id": "newspaper_settlement.html#jr-np-s_006"
 
 },{  
 "date": "1923-08-30","creator": "The Abbotsford Post","subject": "Settlement; Canadian National Railway", 
-"id": "jr-np-s_007.html"
+"id": "newspaper_settlement.html#jr-np-s_007"
 
 },{  
 "title": "Jordan River Road to be Built","date": "1927-12-08","creator": "The Daily News","subject": "Settlement; Road", 
-"id": "jr-np-s_008.html"
+"id": "newspaper_settlement.html#jr-np-s_008"
 
 },{  
 "title": "Kelowna Beaten","date": "1928-01-11","creator": "The Daily News","subject": "Settlement", 
-"id": "jr-np-s_009.html"
+"id": "newspaper_settlement.html#jr-np-s_009"
 
 },{  
 "title": "Vancouver Island","date": "1928-09-07","creator": "The Grand Forks Sun","subject": "Settlement", 
-"id": "jr-np-s_010.html"
+"id": "newspaper_settlement.html#jr-np-s_010"
 
 },{  
 "title": "Sandon Notes","date": "1928-03-10","creator": "The Daily News","subject": "Settlement", 
-"id": "jr-np-s_011.html"
+"id": "newspaper_settlement.html#jr-np-s_011"
 
 },{  
 "title": "Butler's Shot Just Before Bell Wins for Varsity Team","date": "1928-03-07","creator": "The Daily News","subject": "Settlement", 
-"id": "jr-np-s_012.html"
+"id": "newspaper_settlement.html#jr-np-s_012"
 
 },{  
 "title": "Plan Road Work as Relief Move","date": "1933-10-06","creator": "The Daily News","subject": "Settlement; Road", 
-"id": "jr-np-s_013.html"
+"id": "newspaper_settlement.html#jr-np-s_013"
 
 },{  
 "title": "Main Highways","date": "1936-06-30","creator": "The Daily News","subject": "Settlement; Road", 
-"id": "jr-np-s_014.html"
+"id": "newspaper_settlement.html#jr-np-s_014"
 
 },{  
 "title": "Little Rills and Water Numberles","date": "1936-05-31","creator": "Robert Connell","subject": "Settlement; Ecology", 
-"id": "jr-np-s_015.html"
+"id": "newspaper_settlement.html#jr-np-s_015"
 
 },{  
 "title": "Hotel for Sale","date": "1980","subject": "Settlement; Real Estate", 
-"id": "jr-np-s_016.html"
+"id": "newspaper_settlement.html#jr-np-s_016"
 
 },{  
 "title": "Laying Pacific Cable","date": "1901","creator": "Nelson Daily Miner","subject": "Settlement; Cable", 
-"id": "jr-np-s_017.html"
+"id": "newspaper_settlement.html#jr-np-s_017"
 
 },{  
 "title": "Heavy Seas Interfere With Building of Traps","date": "1906-05-22","creator": "The Daily News","subject": "Settlement; Traps; Fishing", 
-"id": "jr-np-s_018.html"
+"id": "newspaper_settlement.html#jr-np-s_018"
 
 },{  
 "title": "Wrecked Lumber Schooner","date": "1894-01-23","creator": "The Daily Telegram","subject": "Settlement; Shipwreck", 
-"id": "jr-np-s_019.html"
+"id": "newspaper_settlement.html#jr-np-s_019"
 
 },{  
 "title": "Rambled Round Victoria","date": "1923-09-29","creator": "The Victoria Daily Times","subject": "Settlement", 
-"id": "jr-np-s_021.html"
+"id": "newspaper_settlement.html#jr-np-s_021"
 
 },{  
 "title": "Bullets in Shoulder Only the Beginning of Hr Nightmare","date": "1975-02-28","creator": "Derek Sidenius","subject": "Settlement", 
-"id": "jr-np-s_022.html"
+"id": "newspaper_settlement.html#jr-np-s_022"
 
 },{  
 "title": "Jordan Solar and Energy Storage","subject": "Settlement; Solar; Map; Energy Storage", 
-"id": "jr-np-s-solar_001.html"
+"id": "newspaper_settlement.html#jr-np-s-solar_001"
 
 },{  
 "title": "Jordan Solar and Energy Storage Project","date": "2023-12","subject": "Settlement; Solar; Energy Storage", 
-"id": "jr-np-s-solar_002.html"
+"id": "newspaper_settlement.html#jr-np-s-solar_002"
+
+},{  
+"title": "Newspaper: Recent Articles", 
+"id": "newspaper_recent_articles.html"
 
 },{  
 "title": "Save Estuaries and you save people from starving","date": "1975-1-4","creator": "Moira Farrow","subject": "Estuaries; Ecology; Logging; Hydroelectric; Mining", 
-"id": "jr-np-ra_002.html"
+"id": "newspaper_recent_articles.html#jr-np-ra_002"
 
 },{  
 "title": "Should rivers have the same rights as people?","date": "2021-07-25","creator": "Patrick Barkham","subject": "Ecology; Environmentalism; Hydrology; Indigenous Peoples", 
-"id": "jr-np-ra-other_001.html"
+"id": "newspaper_recent_articles.html#jr-np-ra-other_001"
 
 },{  
 "title": "Who is watching B.C.'s environmental watch dogs?","date": "2015-07-14","creator": "Anne Casselman","subject": "Compromised Environmentalism; Ecology", 
-"id": "jr-np-ra-other_002.html"
+"id": "newspaper_recent_articles.html#jr-np-ra-other_002"
 
 },{  
 "title": "Can public awareness, knowledge and engagement improve climate change adaptation policies?","date": "2021-02-25","creator": "Farzaneh Shaikh Khatibi; Aysin Dedekorkut‑Howes; Michael Howes; Elnaz Torabi","subject": "Public involvement; Citizen participation; Local and traditional knowledge", 
-"id": "jr-np-ra-other_003.html"
+"id": "newspaper_recent_articles.html#jr-np-ra-other_003"
 
 },{  
 "title": "Repair and the 2014 Mount Polley Mine disaster: Anti Relationality, constraint, and legacies of socio-ecological disruption in settler colonial British Columbia","date": "2023","creator": "Neil Nunn","subject": "Mount Polley Mine disaster; anti relationality; environmental justice; reparative planning; BC gold rush; settler colonialism; colonial modernity; 1862 smallpox epidemic", 
-"id": "jr-np-ra-other_004.html"
+"id": "newspaper_recent_articles.html#jr-np-ra-other_004"
 
 },{  
 "title": "Being a Scientist Means Taking Sides","date": "1993","creator": "Mary H. O'Brien","subject": "Science; Politics; Public Interest;", 
-"id": "jr-np-ra-other_005.html"
+"id": "newspaper_recent_articles.html#jr-np-ra-other_005"
 
 },{  
 "title": "Jordan River Restoration","date": "2017-06-08","creator": "Thom Davis","subject": "Hydroelectric; Mining; Logging; Restoration; Salmon; Indigenous Community", 
-"id": "jr-np-ra-jr_001.html"
+"id": "newspaper_recent_articles.html#jr-np-ra-jr_001"
 
 },{  
 "title": "A tale of two rivers","date": "2017-02-13","creator": "KIm Hoffman","subject": "Hydroelectric; Mining; Logging; Restoration; Salmon; Indigenous Community; Glines Canyon Dam", 
-"id": "jr-np-ra-jr_002.html"
+"id": "newspaper_recent_articles.html#jr-np-ra-jr_002"
+
+},{  
+"title": "Newspaper: Hydroelectric: 1970-1990", 
+"id": "newspaper_hydro_1970_90.html"
 
 },{  
 "title": "Power Play on the Jordan","date": "1970-08-30","creator": "Daily Colonist","subject": "Hydroelectric; Power House", 
-"id": "jrnph1970-90_001.html"
+"id": "newspaper_hydro_1970_90.html#jrnph1970-90_001"
 
 },{  
 "title": "Jordan River's Eye to the Future","date": "1971-11-21","creator": "Patricia Goertzen","subject": "Hydroelectric", 
-"id": "jrnph1970-90_002.html"
+"id": "newspaper_hydro_1970_90.html#jrnph1970-90_002"
 
 },{  
 "title": "Never too Old","date": "1970-11-08","creator": "Lindo","subject": "Hydroelectric", 
-"id": "jrnph1970-90_005.html"
+"id": "newspaper_hydro_1970_90.html#jrnph1970-90_005"
 
 },{  
 "title": "Fear of Brownouts Fade on Island","date": "1971-12-21","creator": "Moria Farrow","subject": "Hydroelectric; Power House; bc hydro", 
-"id": "jrnph1970-90_006.html"
+"id": "newspaper_hydro_1970_90.html#jrnph1970-90_006"
 
 },{  
 "title": "Jordan River's Electric Monster","date": "1988-01-03","creator": "Richard K. Blier","subject": "Hydroelectric; Power House; bc hydro", 
-"id": "jrnph1970-90_007.html"
+"id": "newspaper_hydro_1970_90.html#jrnph1970-90_007"
 
 },{  
 "title": "$30 Million Flows Into Jordan Project","date": "1970-05-15","creator": "Times Colonist","subject": "Hydroelectric; Power House; bc hydro", 
-"id": "jrnph1970-90_008.html"
+"id": "newspaper_hydro_1970_90.html#jrnph1970-90_008"
 
 },{  
 "title": "For $30M (and a few snags) The Island Gets Extra Power","date": "1970-11-28","creator": "B.C. Forest Trio buying up Radonier Canada Assets","subject": "Hydroelectric; Power House; bc hydro", 
-"id": "jrnph1970-90_009.html"
+"id": "newspaper_hydro_1970_90.html#jrnph1970-90_009"
 
 },{  
 "title": "Valley of Snags an 'Obscene Sight'","date": "1970-08-13","creator": "Don Vipond","subject": "Hydroelectric; Power House; bc hydro; Tree Snags; Drained Reservoir; Logging", 
-"id": "jrnph1970-90_010.html"
+"id": "newspaper_hydro_1970_90.html#jrnph1970-90_010"
 
 },{  
 "title": "... An Obscene Sight","date": "1970-08-13","creator": "Don Vipond","subject": "Hydroelectric; Power House; bc hydro; Tree Snags; Drained Reservoir; Logging", 
-"id": "jrnph1970-90_011.html"
+"id": "newspaper_hydro_1970_90.html#jrnph1970-90_011"
 
 },{  
 "title": "First Nuclear Power Plant Likely in '75","date": "1968-07-24","creator": "John Mika","subject": "Hydroelectric; Power House; bc hydro; Nuclear", 
-"id": "jrnph1970-90_012.html"
+"id": "newspaper_hydro_1970_90.html#jrnph1970-90_012"
 
 },{  
 "title": "First Nuclear Power Plant Likely in '76","date": "1968-07-25","creator": "John Mika","subject": "Hydroelectric; Power House; bc hydro; Nuclear", 
-"id": "jrnph1970-90_013.html"
+"id": "newspaper_hydro_1970_90.html#jrnph1970-90_013"
 
 },{  
 "title": "Rock Hide Wet Frenzy","date": "1974-03-28","creator": "Victoria Express","subject": "Mining; Ownership", 
-"id": "jrnph1970-90_014.html"
+"id": "newspaper_hydro_1970_90.html#jrnph1970-90_014"
+
+},{  
+"title": "Hydro decision this time is a tough one","date": "1971-12-4","creator": "Terry Hammond","subject": "Hydroelectric; bc hydro", 
+"id": "newspaper_hydro_1970_90.html#jrnph1971-present_005"
+
+},{  
+"title": "Newspaper: Hydroelectric: 1990-Present", 
+"id": "newspaper_hydro_1990_present.html"
 
 },{  
 "title": "Vancouver Island to see $3B in BC Hydro upgrades, expansion over the next decade","date": "2024-07-05","creator": "The Canadian Press","subject": "Electricity Grid Expansion", 
@@ -891,10 +955,6 @@ var store = [{
 "id": "jrnph1971-present_004.html"
 
 },{  
-"title": "Hydro decision this time is a tough one","date": "1971-12-4","creator": "Terry Hammond","subject": "Hydroelectric; bc hydro", 
-"id": "jrnph1971-present_005.html"
-
-},{  
 "title": "Reviewing operational issues on Vancouver Island - Jordan River","date": "1994-06-10","creator": "Times Colonist","subject": "Ecological Damage; Recreation; FIshing; Hydroelectric; Dam Risks; bc hydro", 
 "id": "jrnph1971-present_006.html"
 
@@ -903,432 +963,448 @@ var store = [{
 "id": "jrnph1971-present_007.html"
 
 },{  
+"title": "Newspaper: Hydroelectric: 1940-1970", 
+"id": "newspaper_hydro_1940_1970.html"
+
+},{  
 "title": "Jordan RIver Contract Let","date": "1969-08-18","creator": "Alberni Valley Times","description": "B.C. Hydro bu awarded the second of two major contract for redevelopment of the Jordan River power project on the southwestern tip of Vancouver Island.","subject": "bc hydro; Hydroelectric; Elliot Dam; Diversion Dam; Tunnel", 
-"id": "jrnph1940-69_001.html"
+"id": "newspaper_hydro_1940_1970.html#jrnph1940-69_001"
 
 },{  
 "title": "Massive Blast Opening Tunnel","date": "1969-02-25","creator": "A.H. Murphy","subject": "bc hydro; Hydroelectric; Elliot Dam; Diversion Dam; Tunnel", 
-"id": "jrnph1940-69_003.html"
+"id": "newspaper_hydro_1940_1970.html#jrnph1940-69_003"
 
 },{  
 "title": "Pioneers of Jordan River Hydro Had Courage to Dream and Dare","date": "1968-07-07","creator": "Patricia Skowaisa","description": "\"The Jordan River powerhouse it a record of vision, enterprise, organisation and engineering -a lasting monument to a handful of men who in the early 1900s realised the potential of an almost entirely unknown mountain stream.\"","subject": "Settlement; Enterprise; Colonialism; Exploitation; Hydroelectric", 
-"id": "jrnph1940-69_004.html"
+"id": "newspaper_hydro_1940_1970.html#jrnph1940-69_004"
 
 },{  
 "title": "Hydro Project Hums","date": "1969-05-11","creator": "Clement Chapple","subject": "Mining; Hydroelectric; Settlement; bc hydro", 
-"id": "jrnph1940-69_006.html"
+"id": "newspaper_hydro_1940_1970.html#jrnph1940-69_006"
 
 },{  
 "title": "Island to Double Share of Mainland Power","date": "1964-11-05","creator": "Ian Street","subject": "Hydroelectric; bc hydro", 
-"id": "jrnph1940-69_007.html"
+"id": "newspaper_hydro_1940_1970.html#jrnph1940-69_007"
 
 },{  
 "title": "Dams and Wildlife","date": "1968","creator": "Arnold Olson","subject": "Hydroelectric; bc hydro; Salmon; Fish; Ecosystem", 
-"id": "jrnph1940-69_008.html"
+"id": "newspaper_hydro_1940_1970.html#jrnph1940-69_008"
 
 },{  
 "title": "Jordan River Enters Fourth Boom","date": "1969-11-02","creator": "Harry Young","subject": "Logging; Hydroelectric; Tunnel", 
-"id": "jrnph1940-69_012.html"
+"id": "newspaper_hydro_1940_1970.html#jrnph1940-69_012"
 
 },{  
 "title": "Sooke River Showing Growth in Spawning","date": "1968-10-27","creator": "Aec Merriman","subject": "Salmon; Hydroelectric", 
-"id": "jrnph1940-69_014.html"
+"id": "newspaper_hydro_1940_1970.html#jrnph1940-69_014"
 
 },{  
 "title": "E. Anderson Wins $9.5 Million Job","date": "1969-08-20","creator": "The Hope Standard","subject": "Hydroelectric; Dam Construction", 
-"id": "jrnph1940-69_015.html"
+"id": "newspaper_hydro_1940_1970.html#jrnph1940-69_015"
 
 },{  
 "title": "Dam Job Awarded For Jordan R.","date": "1969-08-14","creator": "Times Colonist","subject": "Hydroelectric; Dam Construction", 
-"id": "jrnph1940-69_016.html"
+"id": "newspaper_hydro_1940_1970.html#jrnph1940-69_016"
 
 },{  
 "title": "Lack of Rain Threatens Power Shortage Here","date": "1943-10-08","creator": "Victoria Daily Times","subject": "Hydroelectric; Dam: WW2", 
-"id": "jrnph1940-69_017.html"
+"id": "newspaper_hydro_1940_1970.html#jrnph1940-69_017"
+
+},{  
+"title": "Newspaper: Mining: 1900-1960", 
+"id": "newspaper_mining_1900_60.html"
 
 },{  
 "title": "Killed, 2 Hurt in Trail Explosion","creator": "The Daily News","subject": "Mining; Iron", 
-"id": "jr-np-m-1900-49_001.html"
+"id": "newspaper_mining_1900_50.html#jr-np-m-1900-49_001"
 
 },{  
 "title": "Island Iron Industry","date": "1905-05-03","creator": "The Daily News","subject": "Mining; Iron", 
-"id": "jr-np-m-1900-49_002.html"
+"id": "newspaper_mining_1900_50.html#jr-np-m-1900-49_002"
 
 },{  
 "title": "Tidewater Mines take Option on Gabro Copper","date": "1929-01-21","creator": "The Daily News","subject": "Mining; Copper", 
-"id": "jr-np-m-1900-49_003.html"
+"id": "newspaper_mining_1900_50.html#jr-np-m-1900-49_003"
 
 },{  
 "title": "Controlled Properties Developed","date": "1929-04-03","creator": "The Daily News","subject": "Mining; Copper", 
-"id": "jr-np-m-1900-49_004.html"
+"id": "newspaper_mining_1900_50.html#jr-np-m-1900-49_004"
 
 },{  
 "title": "Adopts Many Resolutions at the U.B.C.M. Meeting","date": "1923-08-30","creator": "The Abbotsford Post","subject": "Mining", 
-"id": "jr-np-m-1900-49_005.html"
+"id": "newspaper_mining_1900_50.html#jr-np-m-1900-49_005"
 
 },{  
 "title": "Says Mining in B.C. Will Revive","date": "1922-01-05","creator": "E. A. Haggen","subject": "Mining; Mill", 
-"id": "jr-np-m-1900-49_006.html"
+"id": "newspaper_mining_1900_50.html#jr-np-m-1900-49_006"
 
 },{  
 "title": "Controlled Properties","date": "1920-04-23","creator": "The Daily News","subject": "Mining; Copper; Sunloch Mines Ltd.; Development; Acquisition", 
-"id": "jr-np-m-1900-49_007.html"
+"id": "newspaper_mining_1900_50.html#jr-np-m-1900-49_007"
 
 },{  
 "title": "Mining News","date": "1920-01-22","creator": "The Ledge","subject": "Mining; Acquisition; Sunloch Mines Ltd.; Consolidated Mining and Smelting Company", 
-"id": "jr-np-m-1900-49_008.html"
+"id": "newspaper_mining_1900_50.html#jr-np-m-1900-49_008"
 
 },{  
 "title": "Mining News","date": "1920-07-28","creator": "The Ledge","subject": "Mining; Shiping; Tacoma", 
-"id": "jr-np-m-1900-49_009.html"
+"id": "newspaper_mining_1900_50.html#jr-np-m-1900-49_009"
 
 },{  
 "title": "Jordan River Copper Mines Make Progress","date": "1920-07-28","creator": "Daily Colonist","description": "Entry of Consolidated Company on Island Would Give Impetus to Development","subject": "Mining; Smelting; Prospecting", 
-"id": "jr-np-m-1900-49_010.html"
+"id": "newspaper_mining_1900_50.html#jr-np-m-1900-49_010"
 
 },{  
 "title": "Another Smelter for the Island","date": "1920-06-12","creator": "The Cumberland Islander","subject": "Mining; Sunloch Mines Ltd.;", 
-"id": "jr-np-m-1900-49_011.html"
+"id": "newspaper_mining_1900_50.html#jr-np-m-1900-49_011"
 
 },{  
 "title": "B. C. Mines","date": "1919-01-02","creator": "The Ledge","subject": "Mining", 
-"id": "jr-np-m-1900-49_012.html"
+"id": "newspaper_mining_1900_50.html#jr-np-m-1900-49_012"
 
 },{  
 "title": "Minging News","date": "1918-07-19","creator": "British Columbia Record","subject": "Mining; Operating", 
-"id": "jr-np-m-1900-49_013.html"
+"id": "newspaper_mining_1900_50.html#jr-np-m-1900-49_013"
 
 },{  
 "title": "B. C. Mining News","date": "1918-08-01","creator": "The Ledge","subject": "Mining; Shipping", 
-"id": "jr-np-m-1900-49_014.html"
+"id": "newspaper_mining_1900_50.html#jr-np-m-1900-49_014"
 
 },{  
 "title": "B. C. Mines","date": "1916-07-20","creator": "The Ledge","subject": "Mining; Copper; Discovery", 
-"id": "jr-np-m-1900-49_016.html"
+"id": "newspaper_mining_1900_50.html#jr-np-m-1900-49_016"
 
 },{  
 "title": "Sought Mines Near Victoria Back in '64","date": "1915-09-10","creator": "The Daily News","subject": "Mining; Gold; Discovery", 
-"id": "jr-np-m-1900-49_017.html"
+"id": "newspaper_mining_1900_50.html#jr-np-m-1900-49_017"
 
 },{  
 "title": "Eight Feet of Anthracite","date": "1911-08-5","creator": "The Omineca Herald","subject": "Mining; Anthracite", 
-"id": "jr-np-m-1900-49_018.html"
+"id": "newspaper_mining_1900_50.html#jr-np-m-1900-49_018"
 
 },{  
 "title": "Large Copper Mining Being Carried on in B.C.","date": "1965-08-17","creator": "Bruce Levett","subject": "Mining; Copper;", 
-"id": "jr-np-m-1950-59_001.html"
+"id": "newspaper_mining_1900_50.html#jr-np-m-1950-59_001"
 
 },{  
 "title": "Japanese Backing","date": "1959-02-06","creator": "Edmonton Journal","subject": "Mining; Copper; Cowichan; Japanese Investment", 
-"id": "jr-np-m-1950-59_002.html"
+"id": "newspaper_mining_1900_50.html#jr-np-m-1950-59_002"
 
 },{  
 "title": "Mine Project at the Jordan River to Be Launched","date": "1956-10-04","creator": "Nanaimo Daily News","subject": "Mining; Copper; Sunro", 
-"id": "jr-np-m-1950-59_003.html"
+"id": "newspaper_mining_1900_50.html#jr-np-m-1950-59_003"
+
+},{  
+"title": "Newspaper: Mining: 1960-1970", 
+"id": "newspaper_mining_19060_70.html"
 
 },{  
 "title": "Jordan River Mill Buried with Mine","date": "1962-07-28","creator": "Harry Young","subject": "Mining; Copper; Milling; Labor", 
-"id": "jr-np-m-1960-69_001.html"
+"id": "newspaper_mining_19060_70.html#jr-np-m-1960-69_001"
 
 },{  
 "title": "River Bed Collapses, Mine Closes","date": "1963-12-07","creator": "Harry Young","subject": "Mine Collapse; Mining; Copper", 
-"id": "jr-np-m-1960-69_002.html"
+"id": "newspaper_mining_19060_70.html#jr-np-m-1960-69_002"
 
 },{  
 "title": "Maverick River Adds to Island Mine Woe","date": "1964-01-09","creator": "Daily Colonist","subject": "Mine Collapse; Mining; Copper", 
-"id": "jr-np-m-1960-69_003.html"
+"id": "newspaper_mining_19060_70.html#jr-np-m-1960-69_003"
 
 },{  
 "title": "MacDonald Report to Shareholders","date": "1967-04-18","creator": "Harry Young","subject": "Mine Reactivation; Cowichan; Mining; Copper", 
-"id": "jr-np-m-1960-69_004.html"
+"id": "newspaper_mining_19060_70.html#jr-np-m-1960-69_004"
 
 },{  
 "title": "B.C. Hydro Tunnel: Multi-Million Bid Wins Jordan Job","date": "1968-12-04","creator": "A. H. Murphy","subject": "Hydroelectric; Construction Contract; Power Generation", 
-"id": "jr-np-m-1960-69_005.html"
+"id": "newspaper_mining_19060_70.html#jr-np-m-1960-69_005"
 
 },{  
 "title": "Cowichan Copper Delisted: Mine Story Ending","date": "1969-01-18","creator": "Harry Young","subject": "Mining; Copper; Stock Exchange", 
-"id": "jr-np-m-1960-69_006.html"
+"id": "newspaper_mining_19060_70.html#jr-np-m-1960-69_006"
 
 },{  
 "title": "Cowichan Liabilities To Assets","date": "1963-08-16","creator": "The Province","subject": "Mining; Copper; Liabilities; Financials", 
-"id": "jr-np-m-1960-69_007.html"
+"id": "newspaper_mining_19060_70.html#jr-np-m-1960-69_007"
 
 },{  
 "title": "Listing May Reopen Jordan River Mine","date": "1969-08-19","creator": "Times Colonist","subject": "Mining; Reopening; Production", 
-"id": "jr-np-m-1960-69_008.html"
+"id": "newspaper_mining_19060_70.html#jr-np-m-1960-69_008"
 
 },{  
 "title": "Heavy Rain to Delay Flooded Mine Repair","date": "1963-12-07","creator": "Victoria Daily Times","subject": "Mine Collapse; Mining; Mine Repair", 
-"id": "jr-np-m-1960-69_009.html"
+"id": "newspaper_mining_19060_70.html#jr-np-m-1960-69_009"
 
 },{  
 "title": "Flood may keep mine closed indefinite period","date": "1963-12-09","creator": "Canadian Press","subject": "Mine Collapse; Mining; Mine Repair", 
-"id": "jr-np-m-1960-69_010.html"
+"id": "newspaper_mining_19060_70.html#jr-np-m-1960-69_010"
 
 },{  
 "title": "Outdoors","date": "1963-12-13","creator": "Alec Merriman","subject": "Mine Collapse; Mining; Fishing; Salmon; Conservation", 
-"id": "jr-np-m-1960-69_012.html"
+"id": "newspaper_mining_19060_70.html#jr-np-m-1960-69_012"
 
 },{  
 "title": "Old Man River on Rampage","date": "1963-12","creator": "Times Colonist","subject": "Mine Collapse; Mining", 
-"id": "jr-np-m-1960-69_013.html"
+"id": "newspaper_mining_19060_70.html#jr-np-m-1960-69_013"
 
 },{  
 "title": "Plenty of Water 'But No Hazard'","date": "1966-02-07","creator": "AB Kent","subject": "Mine Collapse; Mining", 
-"id": "jr-np-m-1960-69_014.html"
+"id": "newspaper_mining_19060_70.html#jr-np-m-1960-69_014"
 
 },{  
 "title": "Dam Bursting/Flooding","date": "1964-01-08","creator": "Victoria Daily Times","subject": "Mine Collapse; Mining; Mine Repair; Landslide; Concrete Plugs", 
-"id": "jr-np-m-1960-69_015.html"
+"id": "newspaper_mining_19060_70.html#jr-np-m-1960-69_015"
 
 },{  
 "title": "Flood Menaces Logging Town","date": "1964-01-08","creator": "AB Kent","subject": "Mine Collapse; Mining; Mine Repair; Landslide; Concrete Plugs", 
-"id": "jr-np-m-1960-69_016.html"
+"id": "newspaper_mining_19060_70.html#jr-np-m-1960-69_016"
 
 },{  
 "title": "Jordan River Flood Threat Lessening","date": "1964-01-09","creator": "Times Colonist","subject": "Mine Collapse; Mining; Mine Repair; Landslide; Concrete Plugs", 
-"id": "jr-np-m-1960-69_018.html"
+"id": "newspaper_mining_19060_70.html#jr-np-m-1960-69_018"
 
 },{  
 "title": "Maverick River Adds to Island Mine Woe","date": "1964-01-09","creator": "Daily Colonist","subject": "Mine Collapse; Mining", 
-"id": "jr-np-m-1960-69_019.html"
+"id": "newspaper_mining_19060_70.html#jr-np-m-1960-69_019"
 
 },{  
 "title": "Clearing Mouth of Jordan River","date": "1964-01-30","creator": "Times Colonist","subject": "Mine Collapse; Mining", 
-"id": "jr-np-m-1960-69_020.html"
+"id": "newspaper_mining_19060_70.html#jr-np-m-1960-69_020"
 
 },{  
 "title": "Canada's only Underground Ore Mill Opens","date": "1962-07-27","creator": "The Province","subject": "Mine Diagram; Mill; Mill Diagram; Cowichan; Copper", 
-"id": "jr-np-m-1960-69_022.html"
+"id": "newspaper_mining_19060_70.html#jr-np-m-1960-69_022"
 
 },{  
 "title": "Cowichan Creditors Okay Offer","date": "1964-03-18","creator": "The Province","subject": "Financing; Creditors; Cowichan; Loan; Mining;", 
-"id": "jr-np-m-1960-69_023.html"
+"id": "newspaper_mining_19060_70.html#jr-np-m-1960-69_023"
 
 },{  
 "title": "Bill Fletcher on Mine Opening","date": "1962-03-21","creator": "Bill Fletcher","subject": "Mill; Power House; Mining;", 
-"id": "jr-np-m-1960-69_024.html"
+"id": "newspaper_mining_19060_70.html#jr-np-m-1960-69_024"
 
 },{  
 "title": "Jordan Mine Now Free of Water","date": "1964-05-05","creator": "Nanaimo Daily News","subject": "Mine Collapse; Mining; Mine Repair; Landslide; Concrete Plugs; Water Pumps", 
-"id": "jr-np-m-1960-69_025.html"
+"id": "newspaper_mining_19060_70.html#jr-np-m-1960-69_025"
 
 },{  
 "title": "Water Looking to Future After Ravages of Flood","date": "1965-05-10","creator": "Jim Hume","subject": "Mine Collapse; Mining; Mine Repair; Landslide; Concrete Plugs; Water Pumps", 
-"id": "jr-np-m-1960-69_026.html"
+"id": "newspaper_mining_19060_70.html#jr-np-m-1960-69_026"
 
 },{  
 "title": "Cowichan Raises Ore - and Income","date": "1963-02-22","creator": "The Vancouver Sun","subject": "Japan; Cowichan; Copper; Mill", 
-"id": "jr-np-m-1960-69_027.html"
+"id": "newspaper_mining_19060_70.html#jr-np-m-1960-69_027"
 
 },{  
 "title": "Creditors Accept New Deal","date": "1966-11-10","creator": "The Vancouver Sun","subject": "Debts; Investments; Sunro; Mercantile Bank of Canada; Mining;", 
-"id": "jr-np-m-1960-69_028.html"
+"id": "newspaper_mining_19060_70.html#jr-np-m-1960-69_028"
 
 },{  
 "title": "Wage Judgement in Hands of Sheriff","date": "1966-11-16","creator": "Times Colonist","subject": "Labor; Aetna; Cowichan; Wages; Mining;", 
-"id": "jr-np-m-1960-69_029.html"
+"id": "newspaper_mining_19060_70.html#jr-np-m-1960-69_029"
 
 },{  
 "title": "Cowichan to Ship Copper to Japanese","date": "1961-11-22","creator": "The Vancouver Sun","subject": "Japan; Cowichan; Copper; Mill; Mining;", 
-"id": "jr-np-m-1960-69_030.html"
+"id": "newspaper_mining_19060_70.html#jr-np-m-1960-69_030"
 
 },{  
 "title": "Sunro Copper Shipment to Japan Set for March","date": "1961-11-22","creator": "Gordon Bell","subject": "Mining; Japan; Cowichan; Copper; Mill", 
-"id": "jr-np-m-1960-69_031.html"
+"id": "newspaper_mining_19060_70.html#jr-np-m-1960-69_031"
 
 },{  
 "title": "Reopening of Copper Mine at Jordan River Planned","date": "1969-10-24","creator": "Times Colonist","subject": "Mine Reopening; Financing; Mining;", 
-"id": "jr-np-m-1960-69_032.html"
+"id": "newspaper_mining_19060_70.html#jr-np-m-1960-69_032"
 
 },{  
 "title": "Court Sets Cowichan Copper Date","date": "1968-09-03","creator": "The Vancouver Sun","subject": "Legal Action; Court; Cowichan; Mining;", 
-"id": "jr-np-m-1960-69_033.html"
+"id": "newspaper_mining_19060_70.html#jr-np-m-1960-69_033"
 
 },{  
 "title": "MacDonald Loses Cowichan Control","date": "1968-09-09","creator": "The Vancouver Sun","subject": "Mine Ownership; Mining; Rosewood MacDonald; Edward Dobell", 
-"id": "jr-np-m-1960-69_034.html"
+"id": "newspaper_mining_19060_70.html#jr-np-m-1960-69_034"
 
 },{  
 "title": "Macsan Explorations LTD.","date": "1966-09-10","creator": "Times Colonist","subject": "Ore Belt; Ownership; Geology; Copper; Mining", 
-"id": "jr-np-m-1960-69_035.html"
+"id": "newspaper_mining_19060_70.html#jr-np-m-1960-69_035"
 
 },{  
 "title": "Aetna Shuts off Funds to Cowichan Sunro Mine","date": "1966-09-14","creator": "Michael Cobb","subject": "Share Price; Mining; Sunro; Cowichan; Copper; Mining; Flooding; Mine Collapse", 
-"id": "jr-np-m-1960-69_036.html"
+"id": "newspaper_mining_19060_70.html#jr-np-m-1960-69_036"
 
 },{  
 "title": "Mining News: Cowichan","creator": "The Province","subject": "mining; Mill; Orebodies", 
-"id": "jr-np-m-1960-69_037.html"
+"id": "newspaper_mining_19060_70.html#jr-np-m-1960-69_037"
+
+},{  
+"title": "Newspaper: Mining: 1970-1980", 
+"id": "newspaper_mining_1970_80.html"
 
 },{  
 "title": "Mine Effluent Ecological Damage","date": "1971-03-03","creator": "Alec Merriman","subject": "Beach; Ecological Damage; Mining; Effluent; Hydroelectric; Salmon; Spawning", 
-"id": "jr-np-m-1970-80_001.html"
+"id": "newspaper_mining_1970_80.html#jr-np-m-1970-80_001"
 
 },{  
 "title": "Application for a Permit Under the Pollution Control Act","date": "1971-03-16","creator": "Daily Colonist","subject": "Pollution Control; Mining; Discharge; Sunro;", 
-"id": "jr-np-m-1970-80_002.html"
+"id": "newspaper_mining_1970_80.html#jr-np-m-1970-80_002"
 
 },{  
 "title": "Fisheries Tests Answer Objections","date": "1971-06-27","creator": "Daily Colonist","subject": "Waste Disposal; Pollution Control; Mining; Copper; Tailings", 
-"id": "jr-np-m-1970-80_003.html"
+"id": "newspaper_mining_1970_80.html#jr-np-m-1970-80_003"
 
 },{  
 "title": "Mine on Trial for Polluting","date": "1973-03-02","creator": "Daily Colonist","subject": "Trial; Pollution; Fishing; Salmon; Effluent; Mining", 
-"id": "jr-np-m-1970-80_004.html"
+"id": "newspaper_mining_1970_80.html#jr-np-m-1970-80_004"
 
 },{  
 "title": "Progress Report Dison International LTD.","date": "1974-06-23","creator": "Daily Colonist","subject": "Mining; Directors Meeting", 
-"id": "jr-np-m-1970-80_005.html"
+"id": "newspaper_mining_1970_80.html#jr-np-m-1970-80_005"
 
 },{  
 "title": "Jordan River: Bumps in Stride","date": "1974-12-06","creator": "Daily Colonist","subject": "Mine Closure; Logging; Labor; Logging Closure; Mining; Recession", 
-"id": "jr-np-m-1970-80_006.html"
+"id": "newspaper_mining_1970_80.html#jr-np-m-1970-80_006"
 
 },{  
 "title": "Save our Jobs till spring, Jordan Miners Urge B.C.","date": "1974-12-06","creator": "Daily Colonist","subject": "Mine Closure; Logging; Labor; Logging Closure; Mining; Recession", 
-"id": "jr-np-m-1970-80_007.html"
+"id": "newspaper_mining_1970_80.html#jr-np-m-1970-80_007"
 
 },{  
 "title": "Our Battle isn't over, Jordan Miner Asserts","date": "1974-12-14","creator": "Joe Hume","subject": "Mine Closure; Labor; Mining; Recession", 
-"id": "jr-np-m-1970-80_008.html"
+"id": "newspaper_mining_1970_80.html#jr-np-m-1970-80_008"
 
 },{  
 "title": "Jordan River Mines mill Reaches 90% capacity","date": "1973-12-27","creator": "The Northern Miner","subject": "Mining; Geology Section; Development; Tailings; Mineral Deposits;", 
-"id": "jr-np-m-1970-80_009.html"
+"id": "newspaper_mining_1970_80.html#jr-np-m-1970-80_009"
 
 },{  
 "title": "Chathan Resources Acquired Property","date": "1975-07-24","creator": "The Northern Miner","subject": "Mining; Mineral Deposits; Geology; Ore Production; Property Acquisition", 
-"id": "jr-np-m-1970-80_010.html"
+"id": "newspaper_mining_1970_80.html#jr-np-m-1970-80_010"
 
 },{  
 "title": "Closure of Mine Costs 63 Jobs at Jordan River","date": "1974","subject": "Mining; Labor; Mine Closure;", 
-"id": "jr-np-m-1970-80_011.html"
+"id": "newspaper_mining_1970_80.html#jr-np-m-1970-80_011"
 
 },{  
 "title": "In Reply","date": "1971-04-25","creator": "D.B. Bower and N.D. Lajeunesse","subject": "Mining; Beach Pollution; Cowichan; Pollution", 
-"id": "jr-np-m-1970-80_012.html"
+"id": "newspaper_mining_1970_80.html#jr-np-m-1970-80_012"
 
 },{  
 "title": "SPEC Urges Mine Hearing","date": "1971-04-05","creator": "Times Colonist","subject": "Mining; Pollution; Hearing", 
-"id": "jr-np-m-1970-80_013.html"
+"id": "newspaper_mining_1970_80.html#jr-np-m-1970-80_013"
 
 },{  
 "title": "Spec Calls for Hearing on Mine Application","date": "1971-04-06","creator": "Canadian Press","subject": "Mining; Pollution; Hearing; Discharge; Recreation; Ecology", 
-"id": "jr-np-m-1970-80_014.html"
+"id": "newspaper_mining_1970_80.html#jr-np-m-1970-80_014"
 
 },{  
 "title": "Mine Dump Heating Up in Air","date": "1971-04-17","creator": "Don Vipond","subject": "Mining; Pollution; Hearing; Discharge; Recreation; Ecology; Protest", 
-"id": "jr-np-m-1970-80_015.html"
+"id": "newspaper_mining_1970_80.html#jr-np-m-1970-80_015"
 
 },{  
 "title": "Rigid Controls Police Sunro Strait Dumping","date": "1971-08-10","creator": "Times Colonist","subject": "Mining; Pollution Control; Mine Reopening; Pollution Monitoring; Cyanide; Discharge Pipe", 
-"id": "jr-np-m-1970-80_016.html"
+"id": "newspaper_mining_1970_80.html#jr-np-m-1970-80_016"
 
 },{  
 "title": "Dison Gets Permit to Dump Effluent","date": "1971-08-11","creator": "The Vancouver Sun","subject": "Mining; Pollution Control; Mine Reopening; Pollution Monitoring; Cyanide; Discharge Pipe", 
-"id": "jr-np-m-1970-80_017.html"
+"id": "newspaper_mining_1970_80.html#jr-np-m-1970-80_017"
 
 },{  
 "title": "Sunro to Start Hiring For Quick Production","date": "1971-08-11","creator": "Times Colonist","subject": "Mining; Labor; Pollution Control; Pollution Monitoring; Heavy Metals", 
-"id": "jr-np-m-1970-80_018.html"
+"id": "newspaper_mining_1970_80.html#jr-np-m-1970-80_018"
 
 },{  
 "title": "Mine Will Reopen","date": "1971-08-12","creator": "Daily Colonist","subject": "Mining; Pollution Control; Mine Reopening; Cyanide; Discharge Pipe", 
-"id": "jr-np-m-1970-80_019.html"
+"id": "newspaper_mining_1970_80.html#jr-np-m-1970-80_019"
 
 },{  
 "title": "Man of a Passing Race","date": "1973-08-21","creator": "AB Kent","subject": "Mining; Prospecting; Hydroelectric; Settlement; Copper; Iron", 
-"id": "jr-np-m-1970-80_020.html"
+"id": "newspaper_mining_1970_80.html#jr-np-m-1970-80_020"
 
 },{  
 "title": "Jordan River Mine Operators Bid for VSE Reinstatement","date": "1973-08-28","creator": "Al Forester","subject": "Mining; Dison International; Vancouver Stock Exchange; Finance; Hydroelectric", 
-"id": "jr-np-m-1970-80_021.html"
+"id": "newspaper_mining_1970_80.html#jr-np-m-1970-80_021"
 
 },{  
 "title": "Mine Company Fined","date": "1973-12-14","creator": "The Vancouver Sun","subject": "Mining; FIne; Pollution; Copper Pollution; Tailings;", 
-"id": "jr-np-m-1970-80_023.html"
+"id": "newspaper_mining_1970_80.html#jr-np-m-1970-80_023"
 
 },{  
 "title": "George Winkler discovered Jordan River Mine with a Pickaxe and a Backpack","date": "1974-02-22","creator": "Patly Pitts","subject": "Mining; George Winkler; Prospecting; Settlement;", 
-"id": "jr-np-m-1970-80_024.html"
+"id": "newspaper_mining_1970_80.html#jr-np-m-1970-80_024"
 
 },{  
 "title": "SPEC seeking freedom of information act","date": "1978-01-09","creator": "The Vancouver Sun","subject": "Mining; Scientific Pollution and Environmental Control Society", 
-"id": "jr-np-m-1970-80_025.html"
+"id": "newspaper_mining_1970_80.html#jr-np-m-1970-80_025"
 
 },{  
 "title": "Board Approves Dump of Tailings","date": "1971-07-05","creator": "Times Colonist","subject": "Mining; Dison Development Ltd.; Tailings; Dumping; Pollution", 
-"id": "jr-np-m-1970-80_026.html"
+"id": "newspaper_mining_1970_80.html#jr-np-m-1970-80_026"
 
 },{  
 "title": "Key Man Advised to Sit Out Hearings","date": "1971-07-07","subject": "Mining; William Venables; Food Chain; Pollution; Tailings", 
-"id": "jr-np-m-1970-80_027.html"
+"id": "newspaper_mining_1970_80.html#jr-np-m-1970-80_027"
 
 },{  
 "title": "First Clean the House","date": "1971-07-09","creator": "The Vancouver Sun","subject": "Mining; Pollution Permit; Pollution Control", 
-"id": "jr-np-m-1970-80_028.html"
+"id": "newspaper_mining_1970_80.html#jr-np-m-1970-80_028"
 
 },{  
 "title": "Mine Dump Bid Refused","date": "1971-07-01","creator": "Dom Vipond","subject": "Mining; Pollution Permit Rejection; William Venables", 
-"id": "jr-np-m-1970-80_030.html"
+"id": "newspaper_mining_1970_80.html#jr-np-m-1970-80_030"
 
 },{  
 "title": "Island Mine Discharge Disallowed by Official","date": "1971-06-02","creator": "The Province","subject": "Mining; Pollution Permit Rejection; William Venables; Tailings", 
-"id": "jr-np-m-1970-80_031.html"
+"id": "newspaper_mining_1970_80.html#jr-np-m-1970-80_031"
 
 },{  
 "title": "Another Side Exists to Sunro Decision","date": "1971-06-04","creator": "Dom Vipond","subject": "Mining; Reopening Mine; Effluent; Pollution Control; Cyanide", 
-"id": "jr-np-m-1970-80_032.html"
+"id": "newspaper_mining_1970_80.html#jr-np-m-1970-80_032"
 
 },{  
 "title": "Developer to Appeal Mine Ruling","date": "1971-06-08","creator": "Times Colonist","subject": "Mining; Reopening Mine; Effluent; Pollution Control; Cyanide; Dison Development Ltd.", 
-"id": "jr-np-m-1970-80_034.html"
+"id": "newspaper_mining_1970_80.html#jr-np-m-1970-80_034"
 
 },{  
 "title": "Hearing Set for June 29 On Sunro Mine Appeal","date": "1971-06-09","creator": "Times Colonist","subject": "Mining; Pollution Control Board; William Venables; Tailings", 
-"id": "jr-np-m-1970-80_035.html"
+"id": "newspaper_mining_1970_80.html#jr-np-m-1970-80_035"
 
 },{  
 "title": "150 Jobs Waiting Mine Boss Claims","date": "1971-06-11","creator": "The Vancouver Sun","subject": "Mining; Labor; Pollution Control Board; Dison Development Ltd.; Tailings; Copper; Effluent", 
-"id": "jr-np-m-1970-80_036.html"
+"id": "newspaper_mining_1970_80.html#jr-np-m-1970-80_036"
 
 },{  
 "subject": "Mining;", 
-"id": "jr-np-m-1970-80_037.html"
+"id": "newspaper_mining_1970_80.html#jr-np-m-1970-80_037"
 
 },{  
 "title": "Petition Seeks Reversal of Discharge Decision","date": "1971-06-16","creator": "Times Colonist","subject": "Mining; Fishing; Pollution Management; Conservation; Hearing; Pollution Control Board", 
-"id": "jr-np-m-1970-80_038.html"
+"id": "newspaper_mining_1970_80.html#jr-np-m-1970-80_038"
 
 },{  
 "subject": "Mining; Mining Technique; Wages; George Winkler", 
-"id": "jr-np-m-1970-80_040.html"
+"id": "newspaper_mining_1970_80.html#jr-np-m-1970-80_040"
 
 },{  
 "title": "Rock Hides Wet Frenzy","date": "1974-03-28","creator": "The Victoria Express","subject": "Mining; Mining Technique; Wages; George Winkler", 
-"id": "jr-np-m-1970-80_041.html"
+"id": "newspaper_mining_1970_80.html#jr-np-m-1970-80_041"
 
 },{  
 "title": "Sunro - Rebirth Pains Coming on Strong","date": "1971-05-19","creator": "AB Kent","subject": "Mining; Pollution Disposal; Mining; Dison Development Ltd.; Tailings; Dumping; Pollution; Ecological Damage", 
-"id": "jr-np-m-1970-80_042.html"
+"id": "newspaper_mining_1970_80.html#jr-np-m-1970-80_042"
 
 },{  
 "title": "Island Hard-Luck Mine Reviving","date": "1971-05-22","creator": "R.M. Shaw","subject": "Mining; Mine Reopening; Labor; Investment; Financing; Dison Development Ltd.", 
-"id": "jr-np-m-1970-80_044.html"
+"id": "newspaper_mining_1970_80.html#jr-np-m-1970-80_044"
 
 },{  
 "title": "Mine Going Concern, Except at the Bank","date": "1974-10-02","creator": "Bob Shaw","subject": "Mining; Mineral Royalties Act; Financing", 
-"id": "jr-np-m-1970-80_045.html"
+"id": "newspaper_mining_1970_80.html#jr-np-m-1970-80_045"
 
 },{  
 "title": "Mine May Reopen Soon","date": "1970-09-01","creator": "Victoria Colonist","subject": "Mining; Mine Reopening; Labor; Investment; Financing; Dison Development Ltd.", 
-"id": "jr-np-m-1970-80_046.html"
+"id": "newspaper_mining_1970_80.html#jr-np-m-1970-80_046"
 
 },{  
 "title": "Four Firms to Revive Cowichan","date": "1970-09-18","creator": "The Province","subject": "Mining; Mine Reopening; Investment; Financing", 
-"id": "jr-np-m-1970-80_047.html"
+"id": "newspaper_mining_1970_80.html#jr-np-m-1970-80_047"
 
 },{  
 "title": "Water Use Program Review", 
